@@ -1,0 +1,3511 @@
+{
+    "Echium vulgare": {
+        "scientific_name": "Echium vulgare",
+        "family": {
+            "en": "Boraginaceae",
+            "fr": "Boraginacées"
+        },
+        "common_name": {
+            "en": "Blueweed",
+            "fr": "Vipérine commune"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Biennial",
+                "Short-lived perennial"
+            ],
+            "fr": [
+                "Bisannuelle",
+                "Vivace à vie courte"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Nutlet",
+            "fr": "Nucule"
+        },
+        "identification_features": {
+            "seed_length": [
+                2.5,
+                3.0
+            ],
+            "seed_width": [
+                1.25,
+                1.5
+            ],
+            "shape": {
+                "en": "Angular (diamond-shaped)",
+                "fr": "Anguleux (en losange)"
+            },
+            "surface_texture": {
+                "en": "Densely covered with small bumps overlain with large, wart-like projections. Overall surface is glossy.",
+                "fr": "Surface densément recouverte de petites bosses, portant aussi de grosses protubérances ressemblant à des verrues. Surface globalement luisante."
+            },
+            "colour": {
+                "en": "Medium brown, dark brown between wart-like projections",
+                "fr": "Brun moyen, mais brun foncé entre les protubérances"
+            },
+            "other_features": {
+                "en": "Flat basal area is distinctive: dull, roughened and brown, with 2 peg-like projections and an open hilum",
+                "fr": "Surface basale caractéristique : plate, mate, rugueuse, brune, avec 2 protubérances ressemblant à des piquets et un hile formant une cavité"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_echium_vulgare_img1_1404907275427_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_echium_vulgare_img2_1404907314287_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_echium_vulgare_img3_1404907348131_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_buglossoides_arvensis_img1_1404845150522_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_lithospermum_officinale_img1_1404845521322_eng.jpg"
+            ]
+        }
+    },
+    "Elymus repens": {
+        "scientific_name": "Elymus repens",
+        "family": {
+            "en": "Poaceae",
+            "fr": "Poacées"
+        },
+        "common_name": {
+            "en": "Quackgrass",
+            "fr": "Chiendent"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Perennial"
+            ],
+            "fr": [
+                "Vivace"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Floret",
+            "fr": "Fleuron"
+        },
+        "identification_features": {
+            "seed_length": [
+                5.0,
+                10.0
+            ],
+            "seed_width": [
+                1.0,
+                1.5
+            ],
+            "shape": {
+                "en": "Floret elongate, concave on palea side, lemma may have a short awn",
+                "fr": "Fleuron allongé, concave du côté de la paléole, lemme parfois courtement aristée"
+            },
+            "surface_texture": {
+                "en": "Floret surface is smooth with a shiny bump at the base of the lemma",
+                "fr": "La surface du fleuron est lisse avec une bosse luisante à la base de la lemme"
+            },
+            "colour": {
+                "en": "Floret straw-colour",
+                "fr": "Fleuron de couleur paille"
+            },
+            "other_features": {
+                "en": "The rachilla has parallel sides, with a U-shaped sinus at its base. The palea teeth are short and thick. No hairs on the callus at the base of the lemma",
+                "fr": "La rachéole a des côtés parallèles avec un sinus en forme de U à sa base. Les dents de la paléole sont courtes et épaisses. Callus glabre à la base de la lemme"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_agropyron_repens_copyright_1475586115893_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_elymus_trachycaulus_01cnsh_1475597419956_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_elymus_trachycaulus_03cnsh_1475597449642_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_elytrigia_repens_04cnsh_1475597485811_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_elytrigia_repens_05cnsh_1475597515205_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_elytrigia_repens_07cnsh_1475597536215_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_elytrigia_repens_08cnsh_1475597557862_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_elytrigia_repens_10cnsh_1475597678617_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_elytrigia_repens_elymus_repens_11cnsh_1475597700192_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_pascopyrum_smithii_06cnsh_1475605175893_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_pascopyrum_smithii_09cnsh_1475605197140_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_pascopyrum_smithii_16cnsh_1475605219330_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_agropyron_repens_copyright_1475586115893_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_elymus_trachycaulus_01cnsh_1475597419956_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_elymus_trachycaulus_03cnsh_1475597449642_eng.jpg"
+            ]
+        }
+    },
+    "Bromus japonicus": {
+        "scientific_name": "Bromus japonicus",
+        "family": {
+            "en": "Poaceae",
+            "fr": "Poaceae"
+        },
+        "common_name": {
+            "en": "Japanese brome",
+            "fr": "Brome du Japon"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Annual"
+            ],
+            "fr": [
+                "Annuelle"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Floret",
+            "fr": "Fleuron"
+        },
+        "identification_features": {
+            "seed_length": [
+                7.0,
+                9.0
+            ],
+            "seed_width": [
+                1.0,
+                2.0
+            ],
+            "shape": {
+                "en": "Long oval-shaped floret with a flared top",
+                "fr": "Fleuron longuement elliptique, à sommet évasé"
+            },
+            "surface_texture": {
+                "en": "Lemma is papery with hyaline margins, scabrous to ciliate on upper half and margins",
+                "fr": "Lemme à texture de papier et à marge hyaline, scabre à ciliée dans sa moitié supérieure et à la marge"
+            },
+            "colour": {
+                "en": "Straw yellow",
+                "fr": "Fleuron jaune paille"
+            },
+            "other_features": {
+                "en": "Palea teeth longer than 1.0 mm. Awn bends away from the lemma. The caryopsis is pubescent on the margins.",
+                "fr": "Dents de la paléole de plus de 1,0 mm de longueur. Arête fortement divergente par rapport à la lemme. Caryopse pubescent à la marge"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_japonicus_05cnsh_1475590790977_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_japonicus_06cnsh_1475591134527_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_japonicus_16cnsh_1475591223821_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_japonicus_17cnsh_1475591332139_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_arvensis_03cnsh_1475590535827_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_hordeaceus_02cnsh_1475590678405_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_hordeaceus_03cnsh_1475590702393_eng.jpg"
+            ]
+        }
+    },
+    "Centaurea stoebe": {
+        "scientific_name": "Centaurea stoebe",
+        "family": {
+            "en": "Asteraceae",
+            "fr": "Asteraceae"
+        },
+        "common_name": {
+            "en": "Spotted knapweed",
+            "fr": "Centaurée maculée"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Perennial"
+            ],
+            "fr": [
+                "Vivace"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Achene",
+            "fr": "Akène"
+        },
+        "identification_features": {
+            "seed_length": [
+                1.8,
+                3.5
+            ],
+            "seed_width": [
+                0.8,
+                2.0
+            ],
+            "shape": {
+                "en": "Oblong-shaped with rounded bottom and flat top, laterally compressed; large notch near the base",
+                "fr": "Akène de forme oblongue à base arrondie et à sommet plat; comprimé latéralement; grande encoche près de la base"
+            },
+            "surface_texture": {
+                "en": "Smooth, dull",
+                "fr": "Akène lisse et mat"
+            },
+            "colour": {
+                "en": "Light to dark greenish-brown achene with pale markings",
+                "fr": "Akène de couleur brun verdâtre pâle ou foncé avec des marques pâles"
+            },
+            "other_features": {
+                "en": "Achene pale markings consist of: a strong central line and thin or broken lines to either side, and a pale area around the basal notch and the top",
+                "fr": "Les marques pâles de l'akène consistent en une ligne centrale bien définie flanquée de lignes minces ou brisées de chaque côté, et d'une zone pâle autour de l'encoche basale et du sommet"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_stoebe_010cnsh_1475593892654_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_stoebe_01cnsh_1475593792749_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_stoebe_04cnsh_1475593838736_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_stoebe_05cnsh_1475593869099_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_diffusa_01cnsh_1475593451012_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_diffusa_05cnsh_1475593526841_eng.jpg"
+            ]
+        }
+    },
+    "Abutilon theophrasti": {
+        "scientific_name": "Abutilon theophrasti",
+        "family": {
+            "en": "Malvaceae",
+            "fr": "Malvacées"
+        },
+        "common_name": {
+            "en": "Velvetleaf",
+            "fr": "Abutilon"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Annual"
+            ],
+            "fr": [
+                "Annuelle"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Seed",
+            "fr": "Graine"
+        },
+        "identification_features": {
+            "seed_length": [
+                3.0,
+                4.0
+            ],
+            "seed_width": [
+                2.3,
+                3.6
+            ],
+            "shape": {
+                "en": "Heart-shaped seed with unequal lobes and a conspicuous notch at hilum end",
+                "fr": "Graine cordiforme à lobes inégaux, avec une encoche bien apparente à l'extrémité du hile"
+            },
+            "surface_texture": {
+                "en": "Seed dull with minute reticulations and scattered tubercles, concentrated at the hilum",
+                "fr": "Graine à surface mate, ornée de fines réticulations et de tubercules épars et concentrés autour du hile"
+            },
+            "colour": {
+                "en": "Seed greyish brown with a lighter-coloured pubescence",
+                "fr": "Graine brun grisâtre, recouverte d'une pubescence plus pâle"
+            },
+            "other_features": {
+                "en": "Flap-like tissue covering the hilum may be present",
+                "fr": "Membrane de tissu ressemblant à un rabat parfois présente sur le hile"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_abutilon_theophrasti_01cnsh_1476382781946_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_abutilon_theophrasti_03cnsh_1476382814598_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_abutilon_theophrasti_05cnsh_1476382840261_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_hibiscus_trionum_01cnsh_1476383529959_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_hibiscus_trionum_02cnsh_1476383555450_eng.jpg"
+            ]
+        }
+    },
+    "Barbarea spp.": {
+        "scientific_name": "Barbarea spp.",
+        "family": {
+            "en": "Brassicaceae",
+            "fr": "Brassicacées"
+        },
+        "common_name": {
+            "en": "Yellow rocket",
+            "fr": "Barbarée vulgaire"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Biennial",
+                "Short-lived perennial"
+            ],
+            "fr": [
+                "Bisannuelle",
+                "Vivace à vie courte"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Seed",
+            "fr": "Graine"
+        },
+        "identification_features": {
+            "seed_length": [
+                1.3,
+                2.0
+            ],
+            "seed_width": [],
+            "shape": {
+                "en": "Oval or oblong",
+                "fr": "Ovale ou oblong"
+            },
+            "surface_texture": {
+                "en": "Reticulate with deep cells",
+                "fr": "Réticulée avec de profondes cellules"
+            },
+            "colour": {
+                "en": "Black",
+                "fr": "Noir"
+            },
+            "other_features": {
+                "en": "Hilum located in a notch at one end of the seed. A furrow extends part of the way along the seed, separating cotyledons from the radicle.",
+                "fr": "Hile situé dans une encoche à l'une des extrémités de la graine. Un sillon s'étend sur une partie de la longueur de la graine, séparant les cotylédons de la radicule."
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_barbarea_verna_01cnsh_1475589126999_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_barbarea_verna_03cnsh_1475589153617_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_barbarea_vulgaris_01cnsh_1475589179499_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_barbarea_vulgaris_02cnsh_1475589212551_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_barbarea_vulgaris_03cnsh_1475589254438_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_barbarea_vulgaris_copyright_1475589300306_eng.jpg"
+            ],
+            "similar_species": []
+        }
+    },
+    "Bromus arvensis": {
+        "scientific_name": "Bromus arvensis",
+        "family": {
+            "en": "Poaceae",
+            "fr": "Poacées"
+        },
+        "common_name": {
+            "en": "Field brome",
+            "fr": "Brome des champs"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Annual"
+            ],
+            "fr": [
+                "Annuelle"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Floret",
+            "fr": "Fleuron"
+        },
+        "identification_features": {
+            "seed_length": [
+                7.0,
+                9.0
+            ],
+            "seed_width": [
+                1.0,
+                1.5
+            ],
+            "shape": {
+                "en": "Long oval-shaped floret with a flared top and extended lemma sides",
+                "fr": "Fleuron longuement elliptique, à sommet évasé; bords de la lemme étendus"
+            },
+            "surface_texture": {
+                "en": "Lemma is papery and usually glabrous, can be scabrous on the upper half; margins often with hyaline margins",
+                "fr": "Lemme et paléole lisses, à texture de papier, pouvant être glabre sur la moitié supérieure, marges souvent hyalines à leur extrémité"
+            },
+            "colour": {
+                "en": "Floret is straw yellow",
+                "fr": "Fleuron jaune paille"
+            },
+            "other_features": {
+                "en": "Palea teeth longer than 1.0 mm. Awn does not bend away from the lemma.",
+                "fr": "Dents de la paléole de plus de 1,0 mm de longueur. Arête dans le même axe que la lemme."
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_arvensis_01cnsh_1475590509067_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_arvensis_03cnsh_1475590535827_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_arvensis_05cnsh_1475590560441_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_arvensis_06cnsh_1475590582392_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_japonicus_06cnsh_1475591134527_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_japonicus_17cnsh_1475591332139_eng.jpg"
+            ]
+        }
+    },
+    "Digitaria spp.": {
+        "scientific_name": "Digitaria spp.",
+        "family": {
+            "en": "Poaceae",
+            "fr": "Poaceae"
+        },
+        "common_name": {
+            "en": "Crabgrass",
+            "fr": "Digitaire"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Annual",
+                "Perennial"
+            ],
+            "fr": [
+                "Annuelle",
+                "Vivace"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Spikelet",
+            "fr": "Épillet"
+        },
+        "identification_features": {
+            "seed_length": [
+                2.0,
+                4.0
+            ],
+            "seed_width": [],
+            "shape": {
+                "en": "Short or long oval-shaped",
+                "fr": "Ovale court ou allongé"
+            },
+            "surface_texture": {
+                "en": "Papery and hairy glumes, leathery and pitted florets",
+                "fr": "Glumes papyracées et poilues, fleurons coriaces et ponctués"
+            },
+            "colour": {
+                "en": "Spikelet glumes: straw-yellow, Florets: generally brown or greenish-brown; some species black",
+                "fr": "Glumes des épillets : jaune paille, Fleurons : généralement brun ou brun verdâtre ; certaines espèces noires"
+            },
+            "other_features": {
+                "en": "Long oval-shaped spikelets have a distinctive pointed glume partially covering the lemma. In short oval-shaped spikelets, the glume covers the entire lemma. Digitaria spp. florets do not have rachillas or pedicels, conspicuous palea teeth or a distinct callus",
+                "fr": "Les épillets des Digitaria spp. au contour elliptique allongé ont une glume pointue distinctive qui recouvre partiellement la lemme. Les épillets des Digitaria spp. au contour elliptique court ont une glume qui recouvre entièrement la lemme. Les fleurons des Digitaria spp. sont dépourvus de rachéole et de pédicelle, de dents apparentes sur la paléole et de callus distinct."
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_digitaria_ciliaris_03cnsh_1475597185752_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_digitaria_ischaemum_03cnsh_1475597211696_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_digitaria_sanguinalis_01cnsh_1475597231618_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_digitaria_sanguinalis_02cnsh_1475597251336_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_digitaria_sanguinalis_03cnsh_1475597271606_eng.jpg"
+            ],
+            "similar_species": []
+        }
+    },
+    "Anthoxanthum odoratum": {
+        "scientific_name": "Anthoxanthum odoratum",
+        "family": {
+            "en": "Poaceae",
+            "fr": "Poacées"
+        },
+        "common_name": {
+            "en": "Sweet vernal grass",
+            "fr": "Flouve odorante"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Perennial"
+            ],
+            "fr": [
+                "Vivace"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Grain enclosed by a palea and lemma",
+            "fr": "Fleuron (grain enveloppé de la lemme et de la paléole)"
+        },
+        "identification_features": {
+            "seed_length": [
+                2.0
+            ],
+            "seed_width": [
+                1.0
+            ],
+            "shape": {
+                "en": "Elongated oval",
+                "fr": "Elliptique-allongé"
+            },
+            "surface_texture": {
+                "en": "Papery and slightly roughened like sandpaper",
+                "fr": "Surface des fleurons stériles à texture de papier, un peu rugueuse à la manière de papier sablé"
+            },
+            "colour": {
+                "en": "Medium reddish-brown, becoming pale at tip",
+                "fr": "Brun rougeâtre moyen, devenant pâle au sommet"
+            },
+            "other_features": {
+                "en": "Long, bent awn extends straight from tip of 2 papery, sterile florets surrounding fertile, plump floret",
+                "fr": "Fleuron fertile ventru, enveloppé par deux fleurons stériles à texture de papier se terminant par une longue arête coudée"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_anthoxanthum_odoratum_img1_1404823398399_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_anthoxanthum_odoratum_img2_1404823493993_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_anthoxanthum_odoratum_img3_1404823547572_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_anthoxanthum_aristatum_img1_1404823267117_eng.jpg"
+            ]
+        }
+    },
+    "Agrostemma githago": {
+        "scientific_name": "Agrostemma githago",
+        "family": {
+            "en": "Caryophyllaceae",
+            "fr": "Caryophyllacées"
+        },
+        "common_name": {
+            "en": "Purple cockle",
+            "fr": "Nielle / nielle des blés"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Annual",
+                "Biennial"
+            ],
+            "fr": [
+                "Annuelle",
+                "Bisannuelle"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "True seed",
+            "fr": "Graine véritable"
+        },
+        "identification_features": {
+            "seed_length": [
+                2.5,
+                3.0
+            ],
+            "seed_width": [
+                2.5,
+                3.0
+            ],
+            "shape": {
+                "en": "Angular oval shape, often flattened on one side",
+                "fr": "Elliptique-anguleuse, souvent aplatie d'un côté"
+            },
+            "surface_texture": {
+                "en": "Covered in rows of raised tubercles (wart-like projections) that increase in height away from hilum",
+                "fr": "Couverte de tubercules (protubérances en forme de verrues) disposés en rangs et devenant de plus en plus gros à mesure qu'on s'éloigne du hile"
+            },
+            "colour": {
+                "en": "Medium brown to dark brown",
+                "fr": "Brun moyen à brun foncé"
+            },
+            "other_features": {
+                "en": "Hilum appears as an open hole, often with tissue inside seed root and shoot outline are visible as a curved line that meets at the hilum",
+                "fr": "Hile ayant l'aspect d'un trou, renfermant souvent des tissus radicule et tigelle proéminentes sous forme de lignes courbes se rencontrant au hile"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_agrostemma_githago_img1_1404822869489_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_agrostemma_githago_img2_1404822911505_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_agrostemma_githago_img3_1404822952084_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_agrostemma_githago_img4_1404822987803_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_agrostemma_githago_img5_1404823018146_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_gypsophilia_elegans_img1_1404823095881_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_vaccaria_hispanica_img1_1404823155694_eng.jpg"
+            ]
+        }
+    },
+    "Cerastium spp.": {
+        "scientific_name": "Cerastium spp.",
+        "family": {
+            "en": "Caryophyllaceae",
+            "fr": "Caryophyllacées"
+        },
+        "common_name": {
+            "en": "Chickweed",
+            "fr": "Céraiste"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Annual",
+                "Perennial"
+            ],
+            "fr": [
+                "Annuelle",
+                "Vivace"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Seed",
+            "fr": "Graine"
+        },
+        "identification_features": {
+            "seed_length": [
+                0.8,
+                1.3
+            ],
+            "seed_width": [],
+            "shape": {
+                "en": "Ovate or wedge-shaped",
+                "fr": "Ovale ou en forme de coin"
+            },
+            "surface_texture": {
+                "en": "Dull and tuberculate",
+                "fr": "Mate et tuberculée"
+            },
+            "colour": {
+                "en": "Reddish-brown",
+                "fr": "Brun rougeâtre"
+            },
+            "other_features": {
+                "en": "Hilum is in an open notch at narrow end of seed",
+                "fr": "Le hile est situé dans une encoche ouverte à l'extrémité étroite de la graine"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cerastium_arvense_01cnsh_1475594126570_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cerastium_arvense_02cnsh_1475594179242_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cerastium_fontanum_vulgaris_01cnsh_1475594292992_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cerastium_fontanum_vulgaris_03cnsh_1475594342444_eng.jpg"
+            ],
+            "similar_species": [
+                {
+                    "name": "Common chickweed",
+                    "image": "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cerastium_fontanum_vulgaris_03cnsh_1475594342444_eng.jpg"
+                }
+            ]
+        }
+    },
+    "Convolvulus arvensis": {
+        "scientific_name": "Convolvulus arvensis",
+        "family": {
+            "en": "Convolvulaceae",
+            "fr": "Convolvulacées"
+        },
+        "common_name": {
+            "en": "Field bindweed",
+            "fr": "Liseron des champs"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Perennial"
+            ],
+            "fr": [
+                "Vivace"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Seed",
+            "fr": "Graine"
+        },
+        "identification_features": {
+            "seed_length": [
+                3.0,
+                5.0
+            ],
+            "seed_width": [
+                2.3,
+                3.7
+            ],
+            "shape": {
+                "en": "Seed ovate, trigonous with the hilum at the narrow end",
+                "fr": "Graine ovée, trigone avec le hile situé à l'extrémité étroite"
+            },
+            "surface_texture": {
+                "en": "Seed coarsely roughened with dense tubercles",
+                "fr": "Graine grossièrement rugueuse et recouverte de denses tubercules"
+            },
+            "colour": {
+                "en": "Seed greyish-brown, brown, orange to black with lighter tubercles",
+                "fr": "Graine de couleur brun grisâtre, brune, orange à noir avec des tubercules plus pâles"
+            },
+            "other_features": {
+                "en": "Hilum is orange and oval-shaped",
+                "fr": "Le hile est orange et elliptique"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_convolvulus_arvensis_01cnsh_1475595684765_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_convolvulus_arvensis_02cnsh_1475595720222_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_convolvulus_arvensis_03cnsh_1475595742321_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_convolvulus_arvensis_04cnsh_1475595768282_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_convolvulus_arvensis_copyright_1475595820923_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_convolvulus_arvensis_x_section_copyright_1475595847041_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_calystegia_sepium_03cnsh_1475592342400_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_calystegia_sepium_05cnsh_1475592369197_eng.jpg"
+            ]
+        }
+    },
+    "Asclepias syriaca": {
+        "scientific_name": "Asclepias syriaca",
+        "family": {
+            "en": "Asclepiaceae",
+            "fr": "Asclépiadacées"
+        },
+        "common_name": {
+            "en": "Common milkweed",
+            "fr": "Asclépiade commune"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Perennial"
+            ],
+            "fr": [
+                "Vivace"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "True seed",
+            "fr": "Graine véritable"
+        },
+        "identification_features": {
+            "seed_length": [
+                6.0,
+                7.0
+            ],
+            "seed_width": [
+                5.0,
+                6.0
+            ],
+            "shape": {
+                "en": "Tear-drop shaped (widest near base), base is flat (appears cut off), seed is very thin",
+                "fr": "Graine en forme de larme (largeur maximale près de la base), base plate (paraissant tronquée), graine très mince"
+            },
+            "surface_texture": {
+                "en": "Smooth, dull outer wing of seed is bubbled",
+                "fr": "Lisse, mate aile extérieure bulleuse"
+            },
+            "colour": {
+                "en": "Overall reddish-brown colour, darkening towards centre of seed, reddish-brown marking on one side of seed",
+                "fr": "Globalement brun rougeâtre, devant plus foncée vers le centre, marque brun rougeâtre sur un des côtés de la graine"
+            },
+            "other_features": {
+                "en": "Wing differs from seed in texture and in colour (lighter), hilum not obvious, at base of seed, fresh seed in capsule has a tuft of white hairs (mature seed does not)",
+                "fr": "Aile de texture et couleur différentes du reste de la graine (plus claire), hile peu visible, situé à la base de la graine, la graine fraîche, dans la capsule, porte une touffe de poils blancs (qui finit par tomber de la graine mûre)"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_asclepias_syriaca_img1_1404844762301_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_asclepias_syriaca_img2_1404844812755_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_asclepias_syriaca_img3_1404844857927_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_asclepias_speciosa_img1_1404844912880_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_asclepias_tuberosa_img1_1404845060741_eng.jpg"
+            ]
+        }
+    },
+    "Anthriscus sylvestris": {
+        "scientific_name": "Anthriscus sylvestris",
+        "family": {
+            "en": "Apiaceae",
+            "fr": "Apiaceae"
+        },
+        "common_name": {
+            "en": "Cow parsley",
+            "fr": "Anthrisque des bois"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Biennial",
+                "Short-lived perennial"
+            ],
+            "fr": [
+                "Bisannuelle",
+                "Vivace à courte durée de vie"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Schizocarp",
+            "fr": "Schizocarpe"
+        },
+        "identification_features": {
+            "seed_length": [
+                6.0,
+                7.0
+            ],
+            "seed_width": [
+                1.2,
+                1.6
+            ],
+            "shape": {
+                "en": "Elongate, tapering to a remnant floral style at the top",
+                "fr": "Méricarpe allongé, à sommet effilé, portant un bec persistant à son sommet"
+            },
+            "surface_texture": {
+                "en": "Shiny, smooth",
+                "fr": "Méricarpe à surface luisante, lisse"
+            },
+            "colour": {
+                "en": "Medium brown",
+                "fr": "Méricarpe brun moyen"
+            },
+            "other_features": {
+                "en": "Furrow along ventral side of mericarp. Teardrop-shaped depression at base of mericarp.",
+                "fr": "Sillon le long de la face ventrale du méricarpe. Dépression en forme de larme à la base du méricarpe."
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_anthriscus_sylvestris_01cnsh_1475586856125_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_anthriscus_sylvestris_03cnsh_1475586887913_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_anthriscus_sylvestris_04cnsh_1475586917434_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_anthriscus_sylvestris_copyright_1475586946577_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_anthriscus_cerefolium_01cnsh_1475586785967_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_anthriscus_cerefolium_04cnsh_1475586825973_eng.jpg"
+            ]
+        }
+    },
+    "Datura stramonium": {
+        "scientific_name": "Datura stramonium",
+        "family": {
+            "en": "Solanaceae",
+            "fr": "Solanacées"
+        },
+        "common_name": {
+            "en": "Jimsonweed",
+            "fr": "Stramoine commune"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Annual"
+            ],
+            "fr": [
+                "Annuelle"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Seed",
+            "fr": "Graine"
+        },
+        "identification_features": {
+            "seed_length": [
+                2.5,
+                4.0
+            ],
+            "seed_width": [
+                2.5,
+                3.0
+            ],
+            "shape": {
+                "en": "Rounded D-shaped seed, compressed, hilum is along the narrow edge",
+                "fr": "Graine en forme de D arrondi, comprimée, hile situé sur le bord étroit"
+            },
+            "surface_texture": {
+                "en": "Seed dull, pitted surface with wrinkles",
+                "fr": "Graine mate, surface ponctuée et ridée"
+            },
+            "colour": {
+                "en": "Seed dull black to brown; immature seeds are lighter",
+                "fr": "Graine mate de couleur noire à brune; graines immatures plus pâles"
+            },
+            "other_features": {
+                "en": "The hilum is triangular, 1.0 mm long and filled with white to pinkish tissue. There is a small bump at the bottom of the hilum.",
+                "fr": "Le hile est triangulaire, mesure 1,0 mm de longueur et est rempli de tissus de couleur blanche à rosâtre. Une petite bosse est présente à la base du hile."
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_dataura_stramonium_copyright_1475596729561_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_datura_stramonium_01cnsh_1475596838760_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_datura_stramonium_03cnsh_1475596860582_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_datura_stramonium_04cnsh_1475596887082_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_datura_stramonium_copyright_1475596911728_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_datura_ferox_01cnsh_1475596759236_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_datura_ferox_02cnsh_1475596783143_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_datura_ferox_04cnsh_1475596805981_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_solanum_rostratum_01cnsh_1475606775040_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_solanum_rostratum_02cnsh_1475606792444_eng.jpg"
+            ]
+        }
+    },
+    "Apera spica-venti": {
+        "scientific_name": "Apera spica-venti",
+        "family": {
+            "en": "Poaceae",
+            "fr": "Poacées"
+        },
+        "common_name": {
+            "en": "Silky bent-grass",
+            "fr": "Agrostide jouet-du-vent"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Winter annual"
+            ],
+            "fr": [
+                "Annuelle d'hiver"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Grain, enclosed by palea and lemma",
+            "fr": "Fleuron (grain enveloppé par la lemme et la paléole)"
+        },
+        "identification_features": {
+            "seed_length": [
+                3.0,
+                3.7
+            ],
+            "seed_width": [
+                0.5
+            ],
+            "shape": {
+                "en": "Elongated oval",
+                "fr": "Elliptique-allongé"
+            },
+            "surface_texture": {
+                "en": "Roughened, pebbled surface, like sandpaper",
+                "fr": "Surface rugueuse, granuleuse, à la manière de papier sablé"
+            },
+            "colour": {
+                "en": "Medium brown",
+                "fr": "Brun moyen"
+            },
+            "other_features": {
+                "en": "Long, thin awn extends straight from tip. Short, thin stalk (rachilla) on inner base of seed. Tuft of long, white bristles at base of outer side (lemma). Grain is soft (will yield under pressure).",
+                "fr": "Arête longue et mince prenant naissance au sommet. Baguette courte et mince visible à la base de la face interne du fleuron. Touffe de longs poils blancs à la base de la face externe (lemme). Grain mou (cède sous la pression)."
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_apera_spica_venti_img1_1404823718354_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_apera_spica_venti_img2_1404823754932_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_apera_spica_venti_img3_1404823797464_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_apera_spica_venti_img4_1404823836464_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_apera_interrupta_img1_1404823909777_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_apera_interrupta_img2_1404823951481_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_agrostis_canina_img1_1404824067247_eng.jpg"
+            ]
+        }
+    },
+    "Bothriochloa ischaemum": {
+        "scientific_name": "Bothriochloa ischaemum",
+        "family": {
+            "en": "Poaceae",
+            "fr": "Poacées"
+        },
+        "common_name": {
+            "en": "Yellow bluestem",
+            "fr": "Chiendent à balai"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Perennial"
+            ],
+            "fr": [
+                "Vivace"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Spikelet",
+            "fr": "Épillet"
+        },
+        "identification_features": {
+            "seed_length": [
+                4.0,
+                5.0
+            ],
+            "seed_width": [
+                0.8,
+                1.0
+            ],
+            "shape": {
+                "en": "Long ovate with 2 stalks from the base",
+                "fr": "Ovale allongée avec deux pédicelles insérés à la base"
+            },
+            "surface_texture": {
+                "en": "Smooth, dull to slightly shiny with longitudinal furrows and scattered hairs on the dorsal side",
+                "fr": "Lisse, mate à légèrement luisante avec des sillons longitudinaux et des poils clairsemés sur la face dorsale"
+            },
+            "colour": {
+                "en": "Pale yellow with purple tips",
+                "fr": "Jaune pâle avec des extrémités violettes"
+            },
+            "other_features": {
+                "en": "A pair of pedicels extend 3/4 up the ventral side of the spikelet. Pedicels may have sterile spikelets attached. Copious white hairs are found around the base, along the margins of the spikelet, and on the pedicels. Short teeth are evident along the upper margins of the dorsal side of the spikelet.",
+                "fr": "Une paire de pédicelles s'élève jusqu'aux trois quarts de la face ventrale de l'épillet. Des épillets stériles sont parfois attachés sur les pédicelles. D'abondants poils blancs se trouvent autour de la base, le long des marges de l'épillet et sur les pédicelles. Présence de courtes dents apparentes sur les marges supérieures de la face dorsale de l'épillet."
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_ischaemum_04cnsh_1475590150444_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_ischaemum_05cnsh_1475590217547_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_ischaemum_06cnsh_1475590251745_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_ischaemum_07cnsh_1475590279539_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_bladhii_04cnsh_1475590122290_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_bladhii_07cnsh_1475590090449_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_laguroides_torreyana_05cnsh_1475590390600_eng.jpg"
+            ]
+        }
+    },
+    "Centaurea solstitialis": {
+        "scientific_name": "Centaurea solstitialis",
+        "family": {
+            "en": "Asteraceae",
+            "fr": "Asteraceae"
+        },
+        "common_name": {
+            "en": "Yellow starthistle",
+            "fr": "Centaurée du solstice"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Winter annual"
+            ],
+            "fr": [
+                "Annuelle d'hiver"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Achene",
+            "fr": "Akène"
+        },
+        "identification_features": {
+            "seed_length": [
+                1.8,
+                3.0
+            ],
+            "seed_width": [
+                1.0,
+                1.5
+            ],
+            "shape": {
+                "en": "Oblong-shaped achene with rounded bottom and flat top, compressed; large notch near the base",
+                "fr": "Akène de forme oblongue avec une base arrondie et un sommet plat; comprimé; grande encoche présente près de la base"
+            },
+            "surface_texture": {
+                "en": "Achenes from the centre of the flower head have a glossy surface; achenes from the outer edge have a dull surface",
+                "fr": "Les akènes près du centre du capitule ont une surface luisante; les akènes près du pourtour extérieur du capitule ont une surface mate"
+            },
+            "colour": {
+                "en": "Most achenes are straw yellow with a pale collar, base and a central stripe. Achenes from the outer edge are dark brown with reddish-brown and pale yellow streaks",
+                "fr": "La plupart des akènes sont jaune paille et ont un collet, une base et une bande centrale pâles. Les akènes du pourtour extérieur sont brun foncé avec des stries brun rougeâtre et jaune pâle"
+            },
+            "other_features": {
+                "en": "Achenes are strongly dimorphic: the achenes from the centre of the flower head are more numerous and have a long, white pappus. The less numerous achenes from the outer edge of the flower do not have a pappus",
+                "fr": "Les akènes sont fortement dimorphes : ceux du centre du capitule sont plus nombreux et ont un long pappus blanc. Les akènes du pourtour extérieur du capitule sont moins nombreux et n'ont pas de pappus"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Centaurea_solstitialis_img1_1397578081585_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Centaurea_solstitialis_img2_1397578142257_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Centaurea_solstitialis_img3_1397578174710_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Centaurea_solstitialis_img4_1397578223101_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Centaurea_solstitialis_img5_1397578262820_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Centaurea_solstitialis_img6_1397578286805_eng.jpg"
+            ]
+        }
+    },
+    "Cenchrus longispinus": {
+        "scientific_name": "Cenchrus longispinus",
+        "family": {
+            "en": "Poaceae",
+            "fr": "Poacées"
+        },
+        "common_name": {
+            "en": "Long-spined sandbur",
+            "fr": "Cenchrus à épines longues"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Annual"
+            ],
+            "fr": [
+                "Annuelle"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Spikelet in a fascicle",
+            "fr": "Épillet entouré d'un fascicule"
+        },
+        "identification_features": {
+            "seed_length": [
+                5.0,
+                7.0
+            ],
+            "seed_width": [
+                3.0
+            ],
+            "shape": {
+                "en": "Broad oval",
+                "fr": "Contour largement elliptique"
+            },
+            "surface_texture": {
+                "en": "Dull and roughened with fine hairs",
+                "fr": "Surface rugueuse, mate, ornée de poils fins"
+            },
+            "colour": {
+                "en": "Straw yellow with purple-tipped spines",
+                "fr": "Jaune paille, avec du violet à l'extrémité des épines"
+            },
+            "other_features": {
+                "en": "Bur has 2 types of spines: a series of flattened spines with fused bases and small, thin spines around the base.",
+                "fr": "L'enveloppe comporte deux types d'épines : une série d’épines aplaties, soudées à la base, et des épines petites et minces disposées autour de la base."
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cenchrus_longispinus_01cnsh_1475593209155_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cenchrus_longispinus_03cnsh_1475593341405_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cenchrus_longispinus_04cnsh_1475593367886_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cenchrus_longispinus_06cnsh_1475593390221_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cenchrus_longispinus_09cnsh_1475593414932_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cenchrus_echinatus_05cnsh_1475593185404_eng.jpg"
+            ]
+        }
+    },
+    "Dioscorea polystachya": {
+        "scientific_name": "Dioscorea polystachya",
+        "family": {
+            "en": "Dioscoreaceae",
+            "fr": "Dioscoréacées"
+        },
+        "common_name": {
+            "en": "Chinese yam",
+            "fr": "Igname de Chine"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Perennial"
+            ],
+            "fr": [
+                "Vivace"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "True seed, although plants can produce vegetative 'bulbils'",
+            "fr": "Graine véritable, mais la plante peut aussi se reproduire par voie asexuée, au moyen de bulbilles"
+        },
+        "identification_features": {
+            "seed_length": [
+                8.0,
+                15.0
+            ],
+            "seed_width": [
+                7.0,
+                10.0
+            ],
+            "shape": {
+                "en": "Intact seed with wing is oblong (straight sides with rounded ends)",
+                "fr": "Contour : la graine ailée entière est oblongue (côtés droits et extrémités arrondies)"
+            },
+            "surface_texture": {
+                "en": "Smooth, fibrous",
+                "fr": "Lisse, fibreuse"
+            },
+            "colour": {
+                "en": "Light yellow around edges, becoming yellow towards centre. Central seed area is grey",
+                "fr": "Jaune clair sur les bords, devenant jaune vers le centre. Partie centrale grise"
+            },
+            "other_features": {
+                "en": "Seeds typically have a large papery wing that is torn or removed during processing",
+                "fr": "La graine est normalement entourée d'une grande aile à texture de papier qui tombe ou se déchire durant le traitement"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Dioscorea_polystachya_img1_1397579282733_eng.jpg"
+            ],
+            "similar_species": []
+        }
+    },
+    "Calystegia sepium": {
+        "scientific_name": "Calystegia sepium",
+        "family": {
+            "en": "Convolvulaceae",
+            "fr": "Convolvulacées"
+        },
+        "common_name": {
+            "en": "Hedge bindweed",
+            "fr": "Liseron des haies"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Perennial"
+            ],
+            "fr": [
+                "Vivace"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "True seed",
+            "fr": "Graine véritable"
+        },
+        "identification_features": {
+            "seed_length": [
+                3.5,
+                5.0
+            ],
+            "seed_width": [
+                3.5,
+                4.0
+            ],
+            "shape": {
+                "en": "oval",
+                "fr": "elliptique"
+            },
+            "surface_texture": {
+                "en": "smooth, dull",
+                "fr": "lisse, mate"
+            },
+            "colour": {
+                "en": "light to dark reddish-brown",
+                "fr": "brun rougeâtre clair à foncé"
+            },
+            "other_features": {
+                "en": "hilum is a diagonal area on inner surface of seed, hilum is shaped like a half-circle, and often orange in colour",
+                "fr": "hile oblique, situé sur la face interne de la graine, hile en forme de demi-cercle, souvent de couleur orange"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_calystegia_sepium_img1_1404845689120_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_calystegia_sepium_img2_1404845729901_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_calystegia_sepium_img3_1404845784136_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_convolvulus_arvensis_img1_1404845864027_eng.jpg"
+            ]
+        }
+    },
+    "Acanthospermum hispidum": {
+        "scientific_name": "Acanthospermum hispidum",
+        "family": {
+            "en": "Asteraceae",
+            "fr": "Astéracées"
+        },
+        "common_name": {
+            "en": "Hispid starbur",
+            "fr": "Herbe tricorne"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Annual"
+            ],
+            "fr": [
+                "Annuelle"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Achene - a one-seeded, dry fruit",
+            "fr": "Akène - fruit sec renfermant une seule graine"
+        },
+        "identification_features": {
+            "seed_length": [
+                4.0,
+                6.0
+            ],
+            "seed_width": [
+                2.5,
+                3.5
+            ],
+            "shape": {
+                "en": "Triangular",
+                "fr": "Triangulaire"
+            },
+            "surface_texture": {
+                "en": "Smooth and glossy covered in 1.0 mm-long hooked spines",
+                "fr": "Lisse, luisante couverte d'épines crochues longues de 1,0 mm"
+            },
+            "colour": {
+                "en": "Light brown to medium brown spines tend to be darker",
+                "fr": "Brun clair à brun moyen épines généralement plus foncées"
+            },
+            "other_features": {
+                "en": "Two long, spreading spines (may be slightly curved) at top, or apex, of seed",
+                "fr": "Sommet de l'akène portant deux longues épines divergentes et parfois légèrement courbées"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_acanthospermum_hispidum_img1_1404822685691_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_acanthospermum_hispidum_img3_1415281068052_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_acanthospermum_hispidum_img2_1404822789239_eng.jpg"
+            ]
+        }
+    },
+    "Avena fatua": {
+        "scientific_name": "Avena fatua",
+        "family": {
+            "en": "Poaceae",
+            "fr": "Poaceae"
+        },
+        "common_name": {
+            "en": "Wild oat",
+            "fr": "Folle avoine"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Annual"
+            ],
+            "fr": [
+                "Annuelle"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Floret",
+            "fr": "Fleuron"
+        },
+        "identification_features": {
+            "seed_length": [
+                10.0,
+                15.0
+            ],
+            "seed_width": [
+                2.5,
+                4.0
+            ],
+            "shape": {
+                "en": "Floret elongate; tapered at the top and narrowed at the base with a flared callus",
+                "fr": "Fleuron allongé, effilé au sommet et étroit à la base avec un callus évasé"
+            },
+            "surface_texture": {
+                "en": "Floret has a rough surface",
+                "fr": "Le fleuron a une surface rugueuse"
+            },
+            "colour": {
+                "en": "Floret tends to be a reddish colour with a straw yellow tip, but can be straw yellow to brown",
+                "fr": "Les fleurons sont généralement de couleur rougeâtre avec un sommet jaune paille, mais ils sont parfois de couleur jaune paille à brune"
+            },
+            "other_features": {
+                "en": "Callus at the base of the floret is prominent and spoon-shaped. Caryopsis is covered in hairs, the scutellum is absent and often has an indentation where the awn arose from the lemma. A strongly bent and twisted awn is attached to the upper 1/2 of the lemma; up to 40.0 mm long",
+                "fr": "Le callus à la base du fleuron est bien visible et en forme de cuillère. Le caryopse est recouvert de poils; le scutellum est absent et a souvent une échancrure au niveau du point d'insertion de l'arête sur la lemme. L'arête fortement coudée et tordue est insérée sur la moitié distale de la lemme; elle mesure jusqu'à 40,0 mm de long"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_fatua_01cnsh_2_1475587067760_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_fatua_03cnsh_1475587161417_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_fatua_04cnsh_1475587220448_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_fatua_06cnsh_1475587243352_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_fatua_11cnsh_1475588358490_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_fatua_2_copyright_1475587134936_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_fatua_3_copyright_1475587196455_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_fatua_x_section_copyright_1475588381122_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_sativa_02cnsh_1475588403667_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_sativa_03cnsh_1475588427559_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_sativa_06cnsh_1475588459756_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_sativa_hulless_01cnsh_1475588481004_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_sativa_02cnsh_1475588403667_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_sativa_03cnsh_1475588427559_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_sativa_06cnsh_1475588459756_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_sativa_hulless_01cnsh_1475588481004_eng.jpg"
+            ]
+        }
+    },
+    "Avena sterilis": {
+        "scientific_name": "Avena sterilis",
+        "family": {
+            "en": "Poaceae",
+            "fr": "Poaceae"
+        },
+        "common_name": {
+            "en": "Sterile oat",
+            "fr": "Avoine stérile"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Annual"
+            ],
+            "fr": [
+                "Annuelle"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Pair of florets",
+            "fr": "Paire de fleurons"
+        },
+        "identification_features": {
+            "seed_length": [
+                10.0,
+                27.0
+            ],
+            "seed_width": [
+                2.5,
+                4.0
+            ],
+            "shape": {
+                "en": "Floret elongate, tapers at top into long, papery lemma extensions",
+                "fr": "Fleuron allongé, se rétrécissant au sommet en de longs prolongements papyracés de la lemme"
+            },
+            "surface_texture": {
+                "en": "Floret pebbled texture",
+                "fr": "Fleuron à texture raboteuse"
+            },
+            "colour": {
+                "en": "Florets tend to be reddish colour with straw yellow tips, but can be solid straw yellow",
+                "fr": "Les fleurons sont généralement de couleur rougeâtre avec des extrémités jaune paille, mais ils peuvent parfois être jaune paille uni"
+            },
+            "other_features": {
+                "en": "Florets usually shed as a pair, but may detach during processing. Callus at base of the first floret is prominent and elongated, the callus of the second floret is peg-like. A strongly bent and twisted awn is attached to upper half of lemma; up to 80.0 mm long",
+                "fr": "Les fleurons se détachent habituellement en paires, mais ils peuvent aussi avoir été séparés au cours du traitement des grains. Le callus à la base du fleuron inférieur est bien visible et allongé, le callus du fleuron supérieur est en forme de cheville. Une arête fortement coudée et tordue est fixée sur la moitié distale de la lemme; elle mesure jusqu’à 80,0 mm de long"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_sterilis_01cnsh_1475588505797_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_sterilis_02cnsh_1475588860536_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_sterilis_06cnsh_1475588885623_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_sterilis_07cnsh_1475588908617_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_sterilis_08cnsh_1475588963697_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_sterilis_12cnsh_1475589046576_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_sterilis_16cnsh_1475589090320_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_fatua_03cnsh_1475587161417_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_fatua_04cnsh_1475587220448_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_fatua_06cnsh_1475587243352_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_fatua_11cnsh_1475588358490_eng.jpg"
+            ]
+        }
+    },
+    "Alternanthera sessilis": {
+        "scientific_name": "Alternanthera sessilis",
+        "family": {
+            "en": "Amaranthaceae",
+            "fr": "Amarantacées"
+        },
+        "common_name": {
+            "en": "Sessile joyweed",
+            "fr": "Magloire"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Annual",
+                "Short-lived perennial"
+            ],
+            "fr": [
+                "Annuelle",
+                "Vivace à vie courte"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "True seed",
+            "fr": "Graine véritable"
+        },
+        "identification_features": {
+            "seed_length": [
+                1.5,
+                2.5
+            ],
+            "seed_width": [
+                1.5,
+                2.5
+            ],
+            "shape": {
+                "en": "Heart-shaped fruit, round seed with a notch near the radicle",
+                "fr": "Fruit en forme de cœur, graine ronde avec une encoche près de la radicule"
+            },
+            "surface_texture": {
+                "en": "Dull and roughened fruit, shiny and smooth seed",
+                "fr": "Fruit à la surface mate et rugueuse, graine lisse et luisante"
+            },
+            "colour": {
+                "en": "Fruit: straw-yellow, seed: translucent, dark red",
+                "fr": "Fruit : jaune paille, graine : translucide, rouge foncé"
+            },
+            "other_features": {
+                "en": "Perianth is attached to the base of the fruit and has 5 sharp-pointed lobes. Top of utricle extends past perianth.",
+                "fr": "Périanthe fixé à la base du fruit et comportant 5 lobes pointus. Sommet de l'utricule dépasse du périanthe."
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alternanthera_image1_1401975945932_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alternanthera_image2_1401975988541_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alternanthera_image3_1401976028495_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alternanthera_image4_1401976049604_eng.jpg"
+            ]
+        }
+    },
+    "Anthemis cotula": {
+        "scientific_name": "Anthemis cotula",
+        "family": {
+            "en": "Asteraceae",
+            "fr": "Asteraceae"
+        },
+        "common_name": {
+            "en": "Mayweed",
+            "fr": "Camomile des chiens"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Annual"
+            ],
+            "fr": [
+                "Annuelle"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Achene",
+            "fr": "Akène"
+        },
+        "identification_features": {
+            "seed_length": [
+                1.0,
+                2.3
+            ],
+            "seed_width": [
+                0.8,
+                1.0
+            ],
+            "shape": {
+                "en": "Wedge-shaped, tapering to the base",
+                "fr": "Akène cunéiforme, se rétrécissant à la base"
+            },
+            "surface_texture": {
+                "en": "Tuberculate in longitudinal rows",
+                "fr": "Akène orné de tubercules disposés en rangs longitudinaux"
+            },
+            "colour": {
+                "en": "Straw yellow to brown",
+                "fr": "Akène de couleur jaune paille à brun"
+            },
+            "other_features": {
+                "en": "",
+                "fr": ""
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_anthemis_cotula_01cnsh_1475586690638_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_anthemis_cotula_02cnsh_1475586724197_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_anthemis_cotula_03cnsh_1475586754555_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_anthemis_arvensis_01cnsh_1475586600285_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_anthemis_arvensis_02cnsh_1475586655567_eng.jpg"
+            ]
+        }
+    },
+    "Crupina vulgaris": {
+        "scientific_name": "Crupina vulgaris",
+        "family": {
+            "en": "Asteraceae",
+            "fr": "Asteraceae"
+        },
+        "common_name": {
+            "en": "Common Crupina",
+            "fr": "Crupine commune"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Winter annual"
+            ],
+            "fr": [
+                "Annuelle d'hiver"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Achene",
+            "fr": "Akène"
+        },
+        "identification_features": {
+            "seed_length": [
+                3.5,
+                4.5
+            ],
+            "seed_width": [
+                2.5,
+                3.5
+            ],
+            "shape": {
+                "en": "Cuneate achene with a rounded base and flat top, not compressed",
+                "fr": "Akène cunéiforme à base arrondie et à sommet plat, non comprimé"
+            },
+            "surface_texture": {
+                "en": "Smooth achene, with dense hairs that give the appearance of a velvet coating",
+                "fr": "Akène lisse, recouvert de denses poils qui donnent l'apparence du velours"
+            },
+            "colour": {
+                "en": "Medium brown achene, with dark brown base and pappus. Often pale hairs around top of achene",
+                "fr": "Akène brun moyen avec une base et des pappus brun foncé. Sommet de l'akène souvent entouré de poils pâles"
+            },
+            "other_features": {
+                "en": "Persistent pappus of stiff bristles that surrounds a style peg at the top of the fruit mixed with several short spines on the inside",
+                "fr": "Un pappus persistant constitué de soies raides entoure la base stylaire au sommet du fruit est combiné à plusieurs courtes épines à l'intérieur"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_CrupinaVulgaris_img1_1397578683948_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_CrupinaVulgaris_img2_1397578716292_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_CrupinaVulgaris_img3_1397578747980_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_CrupinaVulgaris_img4_1397578803402_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_CrupinaVulgaris_img5_1397578831480_eng.jpg"
+            ]
+        }
+    },
+    "1.all": {
+        "Abutilon theophrasti": {
+            "scientific_name": "Abutilon theophrasti",
+            "family": {
+                "en": "Malvaceae",
+                "fr": "Malvacées"
+            },
+            "common_name": {
+                "en": "Velvetleaf",
+                "fr": "Abutilon"
+            },
+            "duration_of_life_cycle": {
+                "en": [
+                    "Annual"
+                ],
+                "fr": [
+                    "Annuelle"
+                ]
+            },
+            "seed_or_fruit_type": {
+                "en": "Seed",
+                "fr": "Graine"
+            },
+            "identification_features": {
+                "seed_length": [
+                    3.0,
+                    4.0
+                ],
+                "seed_width": [
+                    2.3,
+                    3.6
+                ],
+                "shape": {
+                    "en": "Heart-shaped seed with unequal lobes and a conspicuous notch at hilum end",
+                    "fr": "Graine cordiforme à lobes inégaux, avec une encoche bien apparente à l'extrémité du hile"
+                },
+                "surface_texture": {
+                    "en": "Seed dull with minute reticulations and scattered tubercles, concentrated at the hilum",
+                    "fr": "Graine à surface mate, ornée de fines réticulations et de tubercules épars et concentrés autour du hile"
+                },
+                "colour": {
+                    "en": "Seed greyish brown with a lighter-coloured pubescence",
+                    "fr": "Graine brun grisâtre, recouverte d'une pubescence plus pâle"
+                },
+                "other_features": {
+                    "en": "Flap-like tissue covering the hilum may be present",
+                    "fr": "Membrane de tissu ressemblant à un rabat parfois présente sur le hile"
+                }
+            },
+            "images": {
+                "photos": [
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_abutilon_theophrasti_01cnsh_1476382781946_eng.jpg",
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_abutilon_theophrasti_03cnsh_1476382814598_eng.jpg",
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_abutilon_theophrasti_05cnsh_1476382840261_eng.jpg"
+                ],
+                "similar_species": [
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_hibiscus_trionum_01cnsh_1476383529959_eng.jpg",
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_hibiscus_trionum_02cnsh_1476383555450_eng.jpg"
+                ]
+            }
+        },
+        "Agrostemma githago": {
+            "scientific_name": "Agrostemma githago",
+            "family": {
+                "en": "Caryophyllaceae",
+                "fr": "Caryophyllacées"
+            },
+            "common_name": {
+                "en": "Purple cockle",
+                "fr": "Nielle / nielle des blés"
+            },
+            "duration_of_life_cycle": {
+                "en": [
+                    "Annual",
+                    "Biennial"
+                ],
+                "fr": [
+                    "Annuelle",
+                    "Bisannuelle"
+                ]
+            },
+            "seed_or_fruit_type": {
+                "en": "True seed",
+                "fr": "Graine véritable"
+            },
+            "identification_features": {
+                "seed_length": [
+                    2.5,
+                    3.0
+                ],
+                "seed_width": [
+                    2.5,
+                    3.0
+                ],
+                "shape": {
+                    "en": "Angular oval shape, often flattened on one side",
+                    "fr": "Elliptique-anguleuse, souvent aplatie d'un côté"
+                },
+                "surface_texture": {
+                    "en": "Covered in rows of raised tubercles (wart-like projections) that increase in height away from hilum",
+                    "fr": "Couverte de tubercules (protubérances en forme de verrues) disposés en rangs et devenant de plus en plus gros à mesure qu'on s'éloigne du hile"
+                },
+                "colour": {
+                    "en": "Medium brown to dark brown",
+                    "fr": "Brun moyen à brun foncé"
+                },
+                "other_features": {
+                    "en": "Hilum appears as an open hole, often with tissue inside seed root and shoot outline are visible as a curved line that meets at the hilum",
+                    "fr": "Hile ayant l'aspect d'un trou, renfermant souvent des tissus radicule et tigelle proéminentes sous forme de lignes courbes se rencontrant au hile"
+                }
+            },
+            "images": {
+                "photos": [
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_agrostemma_githago_img1_1404822869489_eng.jpg",
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_agrostemma_githago_img2_1404822911505_eng.jpg",
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_agrostemma_githago_img3_1404822952084_eng.jpg",
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_agrostemma_githago_img4_1404822987803_eng.jpg",
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_agrostemma_githago_img5_1404823018146_eng.jpg"
+                ],
+                "similar_species": [
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_gypsophilia_elegans_img1_1404823095881_eng.jpg",
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_vaccaria_hispanica_img1_1404823155694_eng.jpg"
+                ]
+            }
+        },
+        "Acanthospermum hispidum": {
+            "scientific_name": "Acanthospermum hispidum",
+            "family": {
+                "en": "Asteraceae",
+                "fr": "Astéracées"
+            },
+            "common_name": {
+                "en": "Hispid starbur",
+                "fr": "Herbe tricorne"
+            },
+            "duration_of_life_cycle": {
+                "en": [
+                    "Annual"
+                ],
+                "fr": [
+                    "Annuelle"
+                ]
+            },
+            "seed_or_fruit_type": {
+                "en": "Achene - a one-seeded, dry fruit",
+                "fr": "Akène - fruit sec renfermant une seule graine"
+            },
+            "identification_features": {
+                "seed_length": [
+                    4.0,
+                    6.0
+                ],
+                "seed_width": [
+                    2.5,
+                    3.5
+                ],
+                "shape": {
+                    "en": "Triangular",
+                    "fr": "Triangulaire"
+                },
+                "surface_texture": {
+                    "en": "Smooth and glossy covered in 1.0 mm-long hooked spines",
+                    "fr": "Lisse, luisante couverte d'épines crochues longues de 1,0 mm"
+                },
+                "colour": {
+                    "en": "Light brown to medium brown spines tend to be darker",
+                    "fr": "Brun clair à brun moyen épines généralement plus foncées"
+                },
+                "other_features": {
+                    "en": "Two long, spreading spines (may be slightly curved) at top, or apex, of seed",
+                    "fr": "Sommet de l'akène portant deux longues épines divergentes et parfois légèrement courbées"
+                }
+            },
+            "images": {
+                "photos": [
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_acanthospermum_hispidum_img1_1404822685691_eng.jpg",
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_acanthospermum_hispidum_img3_1415281068052_eng.jpg"
+                ],
+                "similar_species": [
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_acanthospermum_hispidum_img2_1404822789239_eng.jpg"
+                ]
+            }
+        },
+        "Aegilops cylindrica": {
+            "scientific_name": "Aegilops cylindrica",
+            "family": {
+                "en": "Poaceae",
+                "fr": "Poacées"
+            },
+            "common_name": {
+                "en": "Jointed goatgrass",
+                "fr": "Égilope cylindrique"
+            },
+            "duration_of_life_cycle": {
+                "en": [
+                    "Winter Annual"
+                ],
+                "fr": [
+                    "Annuelle d'hiver"
+                ]
+            },
+            "seed_or_fruit_type": {
+                "en": "Shed as a spikelet embedded in a rachis segment",
+                "fr": "L'unité disséminée est un épillet qui est encastré dans un segment de rachis"
+            },
+            "identification_features": {
+                "seed_length": [
+                    8.0,
+                    10.0
+                ],
+                "seed_width": [
+                    2.0,
+                    3.0
+                ],
+                "shape": {
+                    "en": "Cylindrical with flat ends",
+                    "fr": "Segment d'épillet cylindrique avec des extrémités plates"
+                },
+                "surface_texture": {
+                    "en": "Smooth with longitudinal ridges and may have scattered short hairs",
+                    "fr": "La surface d'un segment d'épillet est lisse et ornée de côtes longitudinales, et est parfois recouverte de courts poils clairsemés"
+                },
+                "colour": {
+                    "en": "Green when immature, golden-yellow when mature, some are purplish tinged",
+                    "fr": "Le segment d'épillet immature est vert alors que celui mature est jaune doré; certains segments peuvent être teintés de violet"
+                },
+                "other_features": {
+                    "en": "Spikelets are embedded in a rachis segment that floats in water. Lower spikelet segments may have awns 3.0 mm - 9.0 mm long, upper spikelets often have longer awns",
+                    "fr": "Les épillets sont encastrés dans un segment de rachis qui flotte bien dans l'eau. Les segments d'épillets inférieurs peuvent avoir une arête qui mesure de 3,0 à 9,0 mm de longueur; les épillets supérieurs ont souvent des arêtes plus longues"
+                }
+            },
+            "images": {
+                "photos": [
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_aegilops_cylindrica_01cnsh_1475585951437_eng.jpg",
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_aegilops_cylindrica_03cnsh_1475585985240_eng.jpg",
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_aegilops_cylindrica_05cnsh_1475586018990_eng.jpg",
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_aegilops_cylindrica_copyright_1475586050453_eng.jpg",
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_aegilops_cylindricia_10cnsh_1475586082076_eng.jpg"
+                ],
+                "similar_species": [
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_rottboellia_cochinchinensis_01cnsh_alternate_1475605832110_eng.jpg",
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_rottboellia_cochinchinensis_03cnsh_alternate_1475605852168_eng.jpg"
+                ]
+            }
+        },
+        "Alopecurus myosuroides": {
+            "scientific_name": "Alopecurus myosuroides",
+            "family": {
+                "en": "Poaceae",
+                "fr": "Poacées"
+            },
+            "common_name": {
+                "en": "Slender foxtail",
+                "fr": "Vulpin des champs"
+            },
+            "duration_of_life_cycle": {
+                "en": [
+                    "Winter annual"
+                ],
+                "fr": [
+                    "Annuelle d'hiver"
+                ]
+            },
+            "seed_or_fruit_type": {
+                "en": "Spikelet",
+                "fr": "Épillet"
+            },
+            "identification_features": {
+                "seed_length": [
+                    5.0,
+                    8.3
+                ],
+                "seed_width": [
+                    1.5,
+                    2.8
+                ],
+                "shape": {
+                    "en": "Long oval; strongly laterally compressed",
+                    "fr": "Elliptique allongée; fortement comprimé latéralement"
+                },
+                "surface_texture": {
+                    "en": "Granular",
+                    "fr": "Granuleuse"
+                },
+                "colour": {
+                    "en": "Brownish-yellow",
+                    "fr": "Jaune brunâtre"
+                },
+                "other_features": {
+                    "en": "Short hairs occur around the callus and on the lower half of the spikelet; the upper half has teeth along the margins. Round, upturned callus at spikelet base has a 'sucker mouth' appearance. Caryopsis is laterally compressed so that the embryo is on the narrow edge. Spikelet may have a thin awn that is bent near the base.",
+                    "fr": "Présence de poils courts autour du callus et sur la moitié inférieure de l'épillet; les marges de la moitié supérieure de l'épillet sont dentelées. Le callus à la base de l'épillet est arrondi et recourbé, ressemblant à un suçoir. Le caryopse étant comprimé latéralement, l'embryon se trouve sur le bord mince. L'épillet a parfois une mince arête qui est coudée près de la base."
+                }
+            },
+            "images": {
+                "photos": [
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alopecurus_myosuroides_02cnsh_1475586181599_eng.jpg",
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alopecurus_myosuroides_03cnsh_1475586211350_eng.jpg",
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alopecurus_myosuroides_04cnsh_1475586240427_eng.jpg",
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alopecurus_myosuroides_05cnsh_1475586395621_eng.jpg"
+                ],
+                "similar_species": [
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alopecurus_pratensis_01cnsh_1475586425725_eng.jpg",
+                    "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alopecurus_pratensis_02cnsh_1475586456440_eng.jpg"
+                ]
+            }
+        }
+    },
+    "Buglossoides arvensis": {
+        "scientific_name": "Buglossoides arvensis",
+        "family": {
+            "en": "Boraginaceae",
+            "fr": "Boraginacées"
+        },
+        "common_name": {
+            "en": "Corn gromwell",
+            "fr": "Lycopside des champs"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Annual"
+            ],
+            "fr": [
+                "Annuelle"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Nutlet",
+            "fr": "Nucule"
+        },
+        "identification_features": {
+            "seed_length": [
+                2.5,
+                3.0
+            ],
+            "seed_width": [
+                1.5
+            ],
+            "shape": {
+                "en": "Egg-shaped",
+                "fr": "Ové"
+            },
+            "surface_texture": {
+                "en": "Shiny with scattered warts and pits",
+                "fr": "Luisante, parsemée de verrues et de fossettes"
+            },
+            "colour": {
+                "en": "Grey to grey-brown",
+                "fr": "Gris à brun-gris"
+            },
+            "other_features": {
+                "en": "Dull, brown base with two raised warts",
+                "fr": "Base brun mat avec deux verrues"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_buglossoides_arvensis_img1_1404845150522_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_buglossoides_arvensis_img2_1404845296680_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_buglossoides_arvensis_img3_1404845342649_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_echium_vulgare_img1_1404907275427_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_lithospermum_officinale_img1_1404845521322_eng.jpg"
+            ]
+        }
+    },
+    "Anthoxanthum aristatum": {
+        "scientific_name": "Anthoxanthum aristatum",
+        "family": {
+            "en": "Poaceae",
+            "fr": "Poacées"
+        },
+        "common_name": {
+            "en": "Annual vernal grass",
+            "fr": "Flouve aristée"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Annual"
+            ],
+            "fr": [
+                "Annuelle"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "grain, enclosed by a palea and lemma floret may be found enclosed in sterile florets with awns (long bristles)",
+            "fr": "fleuron (grain enveloppé de la lemme et de la paléole) parfois épillet (fleuron fertile enveloppé de fleurons stériles à longues arêtes)"
+        },
+        "identification_features": {
+            "seed_length": [
+                1.7,
+                2.0
+            ],
+            "seed_width": [
+                0.5,
+                0.7
+            ],
+            "shape": {
+                "en": "elongated oval",
+                "fr": "elliptique-allongé"
+            },
+            "surface_texture": {
+                "en": "enclosing (sterile) floret surface is papery and slightly roughened like sandpaper short, stiff hairs surround base of enclosing floret, and run up floret in lines fertile floret has smooth, glossy surface",
+                "fr": "surface des fleurons stériles à texture de papier, un peu rugueuse à la manière de papier sablé poils courts et raides entourant la base des fleurons stériles et formant des lignes sur les côtés de ces fleurons fleuron fertile à surface lisse et luisante"
+            },
+            "colour": {
+                "en": "medium reddish-brown, becoming pale at tip",
+                "fr": "brun rougeâtre moyen, devenant pâle au sommet"
+            },
+            "other_features": {
+                "en": "long, bent awn extends straight from tip of 2 papery, sterile florets surrounding fertile, plump floret",
+                "fr": "fleuron fertile ventru, enveloppé par deux fleurons stériles à texture de papier se terminant par une longue arête coudée"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_anthoxanthum_aristatum_img1_1404823267117_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_anthoxanthum_aristatum_img2_1404823305914_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_anthoxanthum_aristatum_img3_1404823341399_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_anthoxanthum_odoratum_img1_1404823398399_eng.jpg"
+            ]
+        }
+    },
+    "Ambrosia trifida": {
+        "scientific_name": "Ambrosia trifida",
+        "family": {
+            "en": "Asteraceae",
+            "fr": "Asteraceae"
+        },
+        "common_name": {
+            "en": "Giant ragweed",
+            "fr": "Grande herbe à poux"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Annual"
+            ],
+            "fr": [
+                "Annuelle"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Achene within a bur",
+            "fr": "Akène contenu dans une enveloppe épineuse"
+        },
+        "identification_features": {
+            "seed_length": [
+                4.0,
+                7.0
+            ],
+            "seed_width": [
+                4.0,
+                6.0
+            ],
+            "shape": {
+                "en": "Ovate to obovate burs with a narrow base and a large apical spine",
+                "fr": "Enveloppe épineuse de forme ovée à obovée avec une base étroite et surmontée d'une grosse épine apicale"
+            },
+            "surface_texture": {
+                "en": "Burs woody and dull",
+                "fr": "Enveloppe épineuse mate de texture ligneuse"
+            },
+            "colour": {
+                "en": "Burs dull greyish-brown, yellowish-brown or brown",
+                "fr": "Enveloppe épineuse mate de couleur brun grisâtre, brun jaunâtre ou brune"
+            },
+            "other_features": {
+                "en": "A ring of 5 or 6 small spines is found near the top of the bur. Thin ribs extend down the sides of the bur.",
+                "fr": "Un anneau constitué de cinq ou six petites épines est présent près du sommet de l'enveloppe épineuse. De minces côtes descendent le long des côtés de l'enveloppe épineuse."
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_ambrosia_trifida_01cnsh_1476383387745_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_ambrosia_trifida_02cnsh_1476383422737_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_ambrosia_trifida_04cnsh_1476383444390_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_ambrosia_trifida_copyright_1476383469616_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_ambrosia_trifidum_x_section_2_copyright_1476383504577_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_ambrosia_artemisiifolia_01cnsh_1476383198542_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_ambrosia_artemisiifolia_04cnsh_1476383221537_eng.jpg"
+            ]
+        }
+    },
+    "Amaranthus tuberculatus": {
+        "scientific_name": "Amaranthus tuberculatus",
+        "family": {
+            "en": "Amaranthaceae",
+            "fr": "Amaranthacées"
+        },
+        "common_name": {
+            "en": "Tall water-hemp",
+            "fr": "Acnide tuberculé"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Annual"
+            ],
+            "fr": [
+                "Annuelle"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Seed",
+            "fr": "Graine véritable"
+        },
+        "identification_features": {
+            "seed_length": [
+                0.8,
+                1.3
+            ],
+            "seed_width": [],
+            "shape": {
+                "en": "Oval or ovate",
+                "fr": "Ovale ou ovée"
+            },
+            "surface_texture": {
+                "en": "Glossy, smooth",
+                "fr": "Luisante, lisse"
+            },
+            "colour": {
+                "en": "Dark reddish brown",
+                "fr": "Brun rougeâtre foncé"
+            },
+            "other_features": {
+                "en": "Hilum is near the top of the seed in a notch. Seeds may have a persistent funiculus at the hilum. The rim around the outside of the seed, common in Amaranthus spp. is diminished or lacking in this species.",
+                "fr": "Hile situé dans une encoche près du sommet de la graine. Funicule persistant parfois sur le hile. La bordure entourant l'extérieur de la graine, qui est un trait commun aux espèces du genre Amaranthus, est réduite ou absente chez cette espèce."
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_amaranthus_tuberculatus_01cnsh_1476383046250_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_amaranthus_tubriculatus_03cnsh_1476383098574_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_amaranthus_tubriculatus_04cnsh_1476383162006_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_amaranthus_retroflexus_01cnsh_1476382871602_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_amaranthus_retroflexus_02cnsh_1476382903849_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_amaranthus_retroflexus_04cnsh_1476382963209_eng.jpg"
+            ]
+        }
+    },
+    "Carduus nutans": {
+        "scientific_name": "Carduus nutans",
+        "family": {
+            "en": "Asteraceae",
+            "fr": "Asteraceae"
+        },
+        "common_name": {
+            "en": "Nodding thistle",
+            "fr": "Chardon penché"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Biennial"
+            ],
+            "fr": [
+                "Bisannuelle"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Achene",
+            "fr": "Akène"
+        },
+        "identification_features": {
+            "seed_length": [
+                2.4,
+                3.8
+            ],
+            "seed_width": [
+                0.9,
+                1.6
+            ],
+            "shape": {
+                "en": "Achene elongate, straight to slightly curved, tapering at the base and top is truncate",
+                "fr": "Akène allongé, droit à légèrement courbé, se rétrécissant vers la base, sommet tronqué"
+            },
+            "surface_texture": {
+                "en": "Achene glossy surface, looks varnished",
+                "fr": "L'akène a une surface luisante et vernissée"
+            },
+            "colour": {
+                "en": "Achene light to dark golden brown; the base is canary yellow and a yellow band may occur below the collar",
+                "fr": "L'akène est de couleur brun doré, pâle ou foncé; la base est jaune canari et une bande jaune est parfois présente sous le collet"
+            },
+            "other_features": {
+                "en": "Both longitudinal lines and transverse waves may be seen under the achene's varnish-like surface coating. The style peg at the top of achene is usually short and thick. Immature achenes may have a thin white pappus",
+                "fr": "Des lignes longitudinales et des ondulations transversales sont parfois visibles sous le revêtement vernissé de l'akène. La base du style au sommet de l'akène est généralement courte et épaisse. Les akènes immatures peuvent avoir un mince pappus blanc"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_nutans_02cnsh_1475592825972_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_nutans_04cnsh_1475592914725_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_nutans_05cnsh_1475592949337_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_nutans_07cnsh_1475592996960_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_nutans_copyrifgt_1475593026210_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_acanthoides_01cnsh_1475592486335_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_acanthoides_03cnsh_1475592513591_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_acanthoides_looks_like_nutans_copyright_1475592769756_eng.jpg"
+            ]
+        }
+    },
+    "Plantus maximus": {
+        "scientific_name": "Plantus maximus",
+        "family": {
+            "en": "Plantaceae",
+            "fr": "Plantacées"
+        },
+        "common_name": {
+            "en": "Giant Plant",
+            "fr": "Plante Géante"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Perennial"
+            ],
+            "fr": [
+                "Vivace"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Seed",
+            "fr": "Graine"
+        },
+        "identification_features": {
+            "seed_length": [
+                2.5,
+                3.0
+            ],
+            "seed_width": [
+                1.0,
+                1.5
+            ],
+            "shape": {
+                "en": "Oval",
+                "fr": "Ovale"
+            },
+            "surface_texture": {
+                "en": "Smooth",
+                "fr": "Lisse"
+            },
+            "colour": {
+                "en": "Brown",
+                "fr": "Brun"
+            },
+            "other_features": {
+                "en": "Has a small white spot on one side",
+                "fr": "Possède une petite tache blanche sur un côté"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca/image1.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca/image2.jpg"
+            ]
+        }
+    },
+    "Cirsium arvense": {
+        "scientific_name": "Cirsium arvense",
+        "family": {
+            "en": "Asteraceae",
+            "fr": "Asteraceae"
+        },
+        "common_name": {
+            "en": "Canada thistle",
+            "fr": "Chardon des champs"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Perennial"
+            ],
+            "fr": [
+                "Vivace"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Achene",
+            "fr": "Akène"
+        },
+        "identification_features": {
+            "seed_length": [
+                2.5,
+                4.0
+            ],
+            "seed_width": [
+                1.0
+            ],
+            "shape": {
+                "en": "Elongate achene; straight to slightly curved, tapering at the base and truncate at the top",
+                "fr": "Akène allongé, rectiligne à légèrement courbé; base effilée et sommet tronqué"
+            },
+            "surface_texture": {
+                "en": "Achene fibrous and woody texture, thin longitudinal furrows can be seen with magnification",
+                "fr": "Akène à texture fibreuse et ligneuse, de minces sillons longitudinaux sont parfois visibles sous grossissement"
+            },
+            "colour": {
+                "en": "Achene dull yellow to brown",
+                "fr": "Akène de couleur jaune terne à brun"
+            },
+            "other_features": {
+                "en": "Narrow pale collar at the top of the achene Immature achenes can have plumose pappus hairs",
+                "fr": "Un collet étroit et pâle est présent au sommet de l'akène Les akènes immatures peuvent porter des soies plumeuses de pappus"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cirsium_arvense_01cnsh_1475594431018_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cirsium_arvense_03cnsh_1475594481581_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cirsium_arvense_04cnsh_1475594566755_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cirsium_arvense_05cnsh_1475594592653_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cirsium_arvense_variant_01cnsh_1475594628178_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_nutans_02cnsh_1475592825972_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_nutans_05cnsh_1475592949337_eng.jpg"
+            ]
+        }
+    },
+    "Echium plantagineum": {
+        "scientific_name": "Echium plantagineum",
+        "family": {
+            "en": "Boraginaceae",
+            "fr": "Boraginacées"
+        },
+        "common_name": {
+            "en": "Paterson's curse",
+            "fr": "Vipérine à feuilles de plantain"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Winter annual",
+                "Biennial"
+            ],
+            "fr": [
+                "Annuelle d'hiver",
+                "Bisannuelle"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Nutlet",
+            "fr": "Nucule"
+        },
+        "identification_features": {
+            "seed_length": [
+                2.5,
+                4.2
+            ],
+            "seed_width": [
+                1.5,
+                3.0
+            ],
+            "shape": {
+                "en": "Ovate-shaped nutlet with a flat base and narrow top; slightly trigonous",
+                "fr": "Nucule de forme ovée avec une base aplatie et un sommet étroit; légèrement trigone"
+            },
+            "surface_texture": {
+                "en": "Nutlet is densely covered in small tubercles and ridges",
+                "fr": "La nucule est densément recouverte de petits tubercules et de crêtes"
+            },
+            "colour": {
+                "en": "Colour of nutlet is off-white to straw-yellow, surface between the tubercles is pale",
+                "fr": "La nucule est de couleur blanc cassé à jaune paille, la surface entre les tubercules est pâle"
+            },
+            "other_features": {
+                "en": "Nutlet has a flat base and a pronounced ridge around the centre of the fruit.",
+                "fr": "La nucule a une base aplatie et une crête prononcée entoure le centre du fruit."
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Echium_plantagineum_img1_1397669573357_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Echium_plantagineum_img2_1397669594201_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Echium_plantagineum_img3_1397669620326_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Echium_plantagineum_img4_1504020263996_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Echium_plantagineum_img5_1504021261282_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Echium_plantagineum_img6_1504021280748_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Echium_plantagineum_img7_1504021300519_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Echium_plantagineum_img3_1397669620326_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Echium_plantagineum_img6_1504021280748_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Echium_plantagineum_img7_1504021300519_eng.jpg"
+            ]
+        }
+    },
+    "Carduus acanthoides": {
+        "scientific_name": "Carduus acanthoides",
+        "family": {
+            "en": "Asteraceae",
+            "fr": "Asteraceae"
+        },
+        "common_name": {
+            "en": "Spiny plumeless thistle",
+            "fr": "Chardon épineux"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Annual",
+                "Biennial"
+            ],
+            "fr": [
+                "Annuelle",
+                "Bisannuelle"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Achene",
+            "fr": "Akène"
+        },
+        "identification_features": {
+            "seed_length": [
+                2.5,
+                3.0
+            ],
+            "seed_width": [
+                1.5
+            ],
+            "shape": {
+                "en": "Elongate, tapering at the base, compressed laterally; may have a small hump to one side of the collar",
+                "fr": "Akène allongé, s'atténuant à la base, comprimé latéralement, présentant parfois une petite bosse sur le côté du collet"
+            },
+            "surface_texture": {
+                "en": "Smooth, with longitudinal lines and transverse wrinkles on the surface",
+                "fr": "Surface de l'akène lisse, avec des lignes longitudinales et des rides transversales"
+            },
+            "colour": {
+                "en": "Cream-coloured to light brown, often has a pink tint. The collar at the top of the achene is often yellow",
+                "fr": "Akène crème à brun clair, souvent teinté de rose. Collet du sommet de l'akène souvent jaune"
+            },
+            "other_features": {
+                "en": "The style peg at the top of the achene is usually short and thick. Immature achenes can have a filamentous white pappus 1.3 - 2.0 cm long.",
+                "fr": "La base stylaire, au sommet de l'akène, est généralement courte et épaisse. Les akènes immatures présentent parfois un pappus filamenteux blanc de 1,3 à 2,0 cm de longueur."
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_acanthoides_01cnsh_1475592486335_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_acanthoides_03cnsh_1475592513591_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_acanthoides_04cnsh_1475592537358_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_acanthoides_06cnsh_1475592586932_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_acanthoides_07cnsh_1475592738665_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_nutans_02cnsh_1475592825972_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_nutans_05cnsh_1475592949337_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_nutans_2_copyright_1475592853024_eng.jpg"
+            ]
+        }
+    },
+    "Chondrilla juncea": {
+        "scientific_name": "Chondrilla juncea",
+        "family": {
+            "en": "Asteraceae",
+            "fr": "Asteraceae"
+        },
+        "common_name": {
+            "en": "Rush skeletonweed",
+            "fr": "Chondrille"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Perennial"
+            ],
+            "fr": [
+                "Vivace"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Achene",
+            "fr": "Akène"
+        },
+        "identification_features": {
+            "seed_length": [
+                3.0,
+                4.0
+            ],
+            "seed_width": [
+                0.5,
+                1.0
+            ],
+            "shape": {
+                "en": "Achene is oblong, tapering to a truncate base, compressed laterally",
+                "fr": "Akène au contour oblong, s'atténuant à la base; comprimé latéralement"
+            },
+            "surface_texture": {
+                "en": "Woody, dull, with small overlapping flat spines at the top of the achene",
+                "fr": "Surface ligneuse, mate; sommet de l'akène orné de petites épines"
+            },
+            "colour": {
+                "en": "Achene is yellow-brown",
+                "fr": "Akène brun-jaune"
+            },
+            "other_features": {
+                "en": "A remnant style extends from the top of the achene which is usually broken off in samples.",
+                "fr": "Base stylaire persistante au sommet, généralement brisée dans les échantillons."
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_chondrilla_juncea_01cnsh_1475594373387_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_chondrilla_juncea_03cnsh_1475594397293_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_taraxacum_officinale_01cnsh_1475608557248_eng.jpg"
+            ]
+        }
+    },
+    "Bothriochloa laguroides": {
+        "scientific_name": "Bothriochloa laguroides",
+        "family": {
+            "en": "Poaceae",
+            "fr": "Poaceae"
+        },
+        "common_name": {
+            "en": "Silver beardgrass",
+            "fr": "Barbon faux-saccharumis"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Perennial"
+            ],
+            "fr": [
+                "Vivace"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Spikelet",
+            "fr": "Épillet"
+        },
+        "identification_features": {
+            "seed_length": [
+                3.5,
+                4.0
+            ],
+            "seed_width": [
+                1.5,
+                1.7
+            ],
+            "shape": {
+                "en": "Long oval shape with 2 pedicels from the base",
+                "fr": "Épillet longuement elliptique, avec deux pédicelles insérés à la base"
+            },
+            "surface_texture": {
+                "en": "Smooth and shiny with white hairs",
+                "fr": "Épillet à la surface lisse, légèrement luisante, avec poils blancs"
+            },
+            "colour": {
+                "en": "Pale yellow",
+                "fr": "Épillet jaune pâle"
+            },
+            "other_features": {
+                "en": "A pair of pedicels extend ¾ up the ventral side of the spikelet. Pedicels may have sterile spikelets attached. Copious white hairs around the base of and along the margins of the spikelet and the pedicels. Short teeth along the upper margins of the dorsal side of the spikelet.",
+                "fr": "Une paire de pédicelles s'étend sur ¾ de la longueur du côté ventral de l'épillet. Des épillets stériles peuvent être fixés aux pédicelles. Des poils blancs abondants entourent la base de l'épillet et bordent les marges de l'épillet et les pédicelles. De courtes dents bordent les marges supérieures du côté dorsal de l'épillet."
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_laguroides_torreyana_01cnsh_1475590316431_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_laguroides_torreyana_02cnsh_1475590340841_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_laguroides_torreyana_04cnsh_1475590365154_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_laguroides_torreyana_05cnsh_1475590390600_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_laguroides_torreyana_07cnsh_1475590411756_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_ischaemum_06cnsh_1475590251745_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_ischaemum_07cnsh_1475590279539_eng.jpg"
+            ]
+        }
+    },
+    "Carthamus lanatus": {
+        "scientific_name": "Carthamus lanatus",
+        "family": {
+            "en": "Asteraceae",
+            "fr": "Astéracées"
+        },
+        "common_name": {
+            "en": "Woolly distaff thistle",
+            "fr": "Carthame laineux"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Annual"
+            ],
+            "fr": [
+                "Annuelle"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Achene - a one-seeded, dry fruit",
+            "fr": "Akène - fruit sec renfermant une seule graine"
+        },
+        "identification_features": {
+            "seed_length": [
+                5.0,
+                5.5
+            ],
+            "seed_width": [
+                3.0,
+                3.5
+            ],
+            "shape": {
+                "en": "in outline: obovate (upside-down and egg-shaped) in cross-section: angled",
+                "fr": "contour : obové (en forme d'oeuf inversé) coupe transversale : anguleuse"
+            },
+            "surface_texture": {
+                "en": "slightly shiny roughened with ridges and oval pits",
+                "fr": "légèrement luisante rugueuse en raison de crêtes et de fossettes elliptiques"
+            },
+            "colour": {
+                "en": "bone coloured, becoming medium brown within pits on surface",
+                "fr": "couleur os, devenant brun moyen à l'intérieur des fossettes"
+            },
+            "other_features": {
+                "en": "pappus at top of achene may be persistent on processed seed made up of short, flattened bristles (up to 7.5 mm) usually pale, but may be brown coloured top peg is short, within a shallow depression surrounded by several projecting teeth",
+                "fr": "akène surmonté d'un pappus :  persistant parfois sur l'akène après traitement constitué de soies courtes et aplaties (jusqu'à 7,5 mm) généralement pâle, mais parfois brun base stylaire visible, formant une petite bosse à l'intérieur d'une dépression peu profonde entourée de plusieurs longues dents"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_carthamus_lanatus_img1_1404906579626_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_carthamus_lanatus_img2_1404906619689_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_carthamus_lanatus_img3_1404906651205_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_carthamus_lanatus_img4_1404906683017_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_carthamus_dentatus_img1_1404906737674_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_carthamus_tinctorius_img1_1404906804237_eng.jpg"
+            ]
+        }
+    },
+    "Aegilops cylindrica": {
+        "scientific_name": "Aegilops cylindrica",
+        "family": {
+            "en": "Poaceae",
+            "fr": "Poacées"
+        },
+        "common_name": {
+            "en": "Jointed goatgrass",
+            "fr": "Égilope cylindrique"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Winter Annual"
+            ],
+            "fr": [
+                "Annuelle d'hiver"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Shed as a spikelet embedded in a rachis segment",
+            "fr": "L'unité disséminée est un épillet qui est encastré dans un segment de rachis"
+        },
+        "identification_features": {
+            "seed_length": [
+                8.0,
+                10.0
+            ],
+            "seed_width": [
+                2.0,
+                3.0
+            ],
+            "shape": {
+                "en": "Cylindrical with flat ends",
+                "fr": "Segment d'épillet cylindrique avec des extrémités plates"
+            },
+            "surface_texture": {
+                "en": "Smooth with longitudinal ridges and may have scattered short hairs",
+                "fr": "La surface d'un segment d'épillet est lisse et ornée de côtes longitudinales, et est parfois recouverte de courts poils clairsemés"
+            },
+            "colour": {
+                "en": "Green when immature, golden-yellow when mature, some are purplish tinged",
+                "fr": "Le segment d'épillet immature est vert alors que celui mature est jaune doré; certains segments peuvent être teintés de violet"
+            },
+            "other_features": {
+                "en": "Spikelets are embedded in a rachis segment that floats in water. Lower spikelet segments may have awns 3.0 mm - 9.0 mm long, upper spikelets often have longer awns",
+                "fr": "Les épillets sont encastrés dans un segment de rachis qui flotte bien dans l'eau. Les segments d'épillets inférieurs peuvent avoir une arête qui mesure de 3,0 à 9,0 mm de longueur; les épillets supérieurs ont souvent des arêtes plus longues"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_aegilops_cylindrica_01cnsh_1475585951437_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_aegilops_cylindrica_03cnsh_1475585985240_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_aegilops_cylindrica_05cnsh_1475586018990_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_aegilops_cylindrica_copyright_1475586050453_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_aegilops_cylindricia_10cnsh_1475586082076_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_rottboellia_cochinchinensis_01cnsh_alternate_1475605832110_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_rottboellia_cochinchinensis_03cnsh_alternate_1475605852168_eng.jpg"
+            ]
+        }
+    },
+    "Centaurea diffusa": {
+        "scientific_name": "Centaurea diffusa",
+        "family": {
+            "en": "Asteraceae",
+            "fr": "Asteraceae"
+        },
+        "common_name": {
+            "en": "Diffuse knapweed",
+            "fr": "Centaurée diffuse"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Biennial",
+                "Short-lived perennial"
+            ],
+            "fr": [
+                "Bisannuelle",
+                "Vivace de courte pérennité"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Achene",
+            "fr": "Akène"
+        },
+        "identification_features": {
+            "seed_length": [
+                1.4,
+                3.0
+            ],
+            "seed_width": [
+                0.7,
+                1.5
+            ],
+            "shape": {
+                "en": "Achene is oblong with rounded bottom and flat top, laterally compressed; large notch near the base",
+                "fr": "Akène de forme oblongue à base arrondie et à sommet plat; comprimé latéralement; une grande encoche est présente près de la base"
+            },
+            "surface_texture": {
+                "en": "Achene has smooth, dull surface texture",
+                "fr": "L’akène a une texture de surface lisse et mate"
+            },
+            "colour": {
+                "en": "Pale, reddish-brown, occasionally dark greenish-brown achene with pale markings: a strong central stripe within lines to either side and a pale area around the basal notch",
+                "fr": "L’akène est de couleur brun rougeâtre, parfois brun verdâtre foncé avec des marques pâles : il a une bande centrale bien marquée qui est flanquée de lignes pâles de chaque côté et il présente une zone pâle autour de l'encoche basale"
+            },
+            "other_features": {
+                "en": "",
+                "fr": ""
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_diffusa_03cnsh_1475593491701_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_diffusa_05cnsh_1475593526841_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_diffusa_06cnsh_1475593552091_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_diffusa_07cnsh_1475593574716_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_diffusa_copyright_1475593626514_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_stoebe_01cnsh_1475593792749_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_stoebe_05cnsh_1475593869099_eng.jpg"
+            ]
+        }
+    },
+    "Ambrosia artemisiifolia": {
+        "scientific_name": "Ambrosia artemisiifolia",
+        "family": {
+            "en": "Asteraceae",
+            "fr": "Asteraceae"
+        },
+        "common_name": {
+            "en": "Common ragweed",
+            "fr": "Petite herbe à poux"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Annual"
+            ],
+            "fr": [
+                "Annuelle"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Achene within a bur",
+            "fr": "Akène entouré de son enveloppe épineuse"
+        },
+        "identification_features": {
+            "seed_length": [
+                1.9,
+                3.7
+            ],
+            "seed_width": [
+                1.5,
+                2.8
+            ],
+            "shape": {
+                "en": "Bur and achene are obovate",
+                "fr": "Enveloppe épineuse et akène de forme obovée"
+            },
+            "surface_texture": {
+                "en": "Bur is dull, woody",
+                "fr": "Enveloppe épineuse mate et ligneuse"
+            },
+            "colour": {
+                "en": "Bur is dark grey with purple streaks, Achene is brown",
+                "fr": "Enveloppe épineuse gris foncé striée de violet, Akène brun"
+            },
+            "other_features": {
+                "en": "Bur has a ring of several spines near top approximately 0.5 mm long and an apical spine approximately 1.5 mm long",
+                "fr": "Enveloppe épineuse ornée d’un anneau de plusieurs épines près du sommet qui mesurent environ 0,5 mm de long et d’une épine apicale d’environ 1,5 mm de long"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_ambrosia_artemisiifolia_01cnsh_1476383198542_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_ambrosia_artemisiifolia_05cnsh_1476383256451_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_ambrosia_artemisiifolia_copyright_1476383280351_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_ambrosia_artemisiifolia_img1_1509649182884_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_ambrosia_psilostachya_01cnsh_1476383317933_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_ambrosia_psilostachya_02cnsh_1476383340085_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_ambrosia_psilostachya_03cnsh_1476383360616_eng.jpg"
+            ]
+        }
+    },
+    "Bromus tectorum": {
+        "scientific_name": "Bromus tectorum",
+        "family": {
+            "en": "Poaceae",
+            "fr": "Poaceae"
+        },
+        "common_name": {
+            "en": "Downy brome",
+            "fr": "Brome des toits"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Annual",
+                "Winter annual"
+            ],
+            "fr": [
+                "Annuelle",
+                "Annuelle d'hiver"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Floret",
+            "fr": "Fleuron"
+        },
+        "identification_features": {
+            "seed_length": [
+                9.0,
+                12.0
+            ],
+            "seed_width": [
+                1.0,
+                2.0
+            ],
+            "shape": {
+                "en": "Elongate oval-shaped floret with a flared top",
+                "fr": "Fleuron longuement elliptique, à sommet évasé"
+            },
+            "surface_texture": {
+                "en": "Lemma and palea are papery with hyaline margins, glabrous or hairy",
+                "fr": "Lemme et paléole à texture de papier, lisses ou pubescentes, à marge hyaline."
+            },
+            "colour": {
+                "en": "Florets are straw-yellow, may have a purplish wash",
+                "fr": "Fleurons jaune paille, parfois lavé d'une coloration violacée"
+            },
+            "other_features": {
+                "en": "Palea teeth longer than 1.0 mm. Floret is curved away from the palea. Caryopsis is usually dark purple, can be reddish-brown.",
+                "fr": "Dents de la paléole longues de plus de 1,0 mm. Fleuron courbé en direction opposée à la paléole. Caryopse habituellement violet foncé, parfois brun rougeâtre."
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_tectorum_06cnsh_1475592292075_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_tectorum_copyright_1475592315245_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_sterilis_03cnsh_1475592220201_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_sterilis_02cnsh_1475592200309_eng.jpg"
+            ]
+        }
+    },
+    "Centaurea iberica": {
+        "scientific_name": "Centaurea iberica",
+        "family": {
+            "en": "Asteraceae",
+            "fr": "Asteraceae"
+        },
+        "common_name": {
+            "en": "Iberian starthistle",
+            "fr": "Semence de mauvaises herbe"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Biennial",
+                "Annual",
+                "Short-lived perennial"
+            ],
+            "fr": [
+                "Bisannuelle",
+                "Annuelle",
+                "Vivace de courte pérennité"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Achene",
+            "fr": "Akène"
+        },
+        "identification_features": {
+            "seed_length": [
+                3.0,
+                4.3
+            ],
+            "seed_width": [
+                1.5,
+                2.0
+            ],
+            "shape": {
+                "en": "Oblong-shaped achene with rounded bottom and flat top, compressed; large notch near the base along the narrow edge",
+                "fr": "Akène oblong avec une base arrondie et un sommet aplati; comprimé; une grande encoche est présente près de la base sur le côté mince"
+            },
+            "surface_texture": {
+                "en": "Achene is smooth with satin sheen",
+                "fr": "Akène lisse avec un lustre satiné"
+            },
+            "colour": {
+                "en": "Achene is white and brown-streaked; variable in colouration",
+                "fr": "Akène strié de blanc et de brun; couleur variable"
+            },
+            "other_features": {
+                "en": "White pappus is composed of flat bristles of variable lengths. Outer bristles of pappus tend to be shortest, increasing in length towards the inside",
+                "fr": "Pappus blanc, constitué de soies plates de diverses longueurs. Les soies externes du pappus sont généralement plus courtes, et les autres soies s'allongent en s'approchant du centre"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca/Iberian_starthistle_achene.jpg",
+                "https://inspection.canada.ca/Iberian_starthistle_achene_side_view.jpg",
+                "https://inspection.canada.ca/Iberian_starthistle_achene_top_down_view.jpg",
+                "https://inspection.canada.ca/Iberian_starthistle_achene_basal_notch.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca/Purple_starthistle_achenes.jpg",
+                "https://inspection.canada.ca/Purple_starthistle_achene.jpg"
+            ]
+        }
+    },
+    "Berteroa incana": {
+        "scientific_name": "Berteroa incana",
+        "family": {
+            "en": "Brassicaceae",
+            "fr": "Brassicacées"
+        },
+        "common_name": {
+            "en": "Hoary alyssum",
+            "fr": "Bertéroa blanc"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Annual",
+                "Short-lived perennial"
+            ],
+            "fr": [
+                "Annuelle",
+                "Vivace de courte durée"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Seed",
+            "fr": "Graine véritable"
+        },
+        "identification_features": {
+            "seed_length": [
+                1.3,
+                2.0
+            ],
+            "seed_width": [],
+            "shape": {
+                "en": "Round or oval seed with a narrow wing (> 0.1 mm) around the margin, flattened",
+                "fr": "Graine ronde ou elliptique, entourée d'une aile étroite (> 0,1 mm), aplatie"
+            },
+            "surface_texture": {
+                "en": "Seed is roughened with reticulations",
+                "fr": "Graine réticulée à la surface rugueuse"
+            },
+            "colour": {
+                "en": "Seed is dark reddish-brown",
+                "fr": "Graine brun rougeâtre foncé"
+            },
+            "other_features": {
+                "en": "Hilum is a notch along the narrow edge filled with white tissue. Seed pod is elliptic to ovoid, 5.0 - 8.0 mm long with a persistent style (1.0 - 4.0 mm), and covered in stellate hairs.",
+                "fr": "Hile situé le long du bord mince de la graine, dans une encoche remplie de tissu blanc. Silique, de forme elliptique à ovoïde, de 5,0 à 8,0 mm de longueur, à style persistant (1,0 à 4,0 mm), couverte de poils étoilés."
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_berteroa_incana_04cnsh_1475590039187_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_berteroa_incana_05cnsh_1475590064943_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alyssum_alyssoides_03cnsh_1475586568901_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alyssum_alyssoides_01cnsh_1475586494489_eng.jpg"
+            ]
+        }
+    },
+    "Centaurea virgata subsp. squarrosa": {
+        "scientific_name": "Centaurea virgata subsp. squarrosa",
+        "family": {
+            "en": "Asteraceae",
+            "fr": "Asteraceae"
+        },
+        "common_name": {
+            "en": "Squarrose knapweed",
+            "fr": "Mauvaise herbe squarrose"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Perennial"
+            ],
+            "fr": [
+                "Vivace"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Achene",
+            "fr": "Akène"
+        },
+        "identification_features": {
+            "seed_length": [
+                2.5,
+                3.5
+            ],
+            "seed_width": [
+                1.5
+            ],
+            "shape": {
+                "en": "Achene is oblong with a rounded bottom and flat top, laterally compressed with a small notch near the base",
+                "fr": "Akène de forme oblongue, à base arrondie et à sommet plat; comprimée latéralement avec une petite encoche près de la base"
+            },
+            "surface_texture": {
+                "en": "Achene is smooth and dull",
+                "fr": "Akène à la surface lisse et mate"
+            },
+            "colour": {
+                "en": "Light brown to straw-coloured achene with strong central stripe, numerous thin side stripes and a pale area around the basal notch",
+                "fr": "Akène brun clair à paille, rayure centrale bien marquée et nombreuses rayures latérales minces et zone pâle autour de l'encoche basale"
+            },
+            "other_features": {
+                "en": "Collar at top of the achene is narrow and yellowish. Notch at the base of the achene is shallow (under 1.0 mm depth).",
+                "fr": "Le collet du sommet de l'akène est mince et jaunâtre. L'encoche basale est peu profonde (moins de 1,0 mm de profondeur)."
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_virgata_01cnsh_1475593926110_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_virgata_02cnsh_1475593961246_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_virgata_03cnsh_1475593990947_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_virgata_04cnsh_1475594051016_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_stoebe_01cnsh_1475593792749_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_stoebe_05cnsh_1475593869099_eng.jpg"
+            ]
+        }
+    },
+    "Conringia orientalis": {
+        "scientific_name": "Conringia orientalis",
+        "family": {
+            "en": "Brassicaceae",
+            "fr": "Brassicacées"
+        },
+        "common_name": {
+            "en": "Hare's-ear mustard",
+            "fr": "Vélar d'Orient"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Annual",
+                "Winter annual"
+            ],
+            "fr": [
+                "Annuelle",
+                "Annuelle d'hiver"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "True seed",
+            "fr": "Graine véritable"
+        },
+        "identification_features": {
+            "seed_length": [
+                2.0,
+                2.5
+            ],
+            "seed_width": [
+                1.0,
+                1.5
+            ],
+            "shape": {
+                "en": "Oblong - straight sides and rounded ends",
+                "fr": "Oblongue - côtés droits et extrémités arrondies"
+            },
+            "surface_texture": {
+                "en": "Distinct network of ridges over seed surface (can appear as cells, bubbles or wrinkles)",
+                "fr": "Réseau bien visible de crêtes (peut avoir l'aspect de cellules, de bulles ou de rides)"
+            },
+            "colour": {
+                "en": "Immature seeds are reddish-orange with a dark hilum, mature seeds are dark reddish-brown",
+                "fr": "Graine immature orange rougeâtre, avec hile foncé, graine mûre brun rougeâtre foncé"
+            },
+            "other_features": {
+                "en": "Pods are pale, golden colour, long, thick and 4-angled",
+                "fr": "Silique (fruit) doré pâle, longue, épaisse et quadrangulaire"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_conringia_orientalis_img1_1404906904659_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_conringia_orientalis_img2_1404906959113_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_conringia_orientalis_img3_1404906992347_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_hesperis_matronalis_img1_1404907063660_eng.jpg"
+            ]
+        }
+    },
+    "Alopecurus myosuroides": {
+        "scientific_name": "Alopecurus myosuroides",
+        "family": {
+            "en": "Poaceae",
+            "fr": "Poacées"
+        },
+        "common_name": {
+            "en": "Slender foxtail",
+            "fr": "Vulpin des champs"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Winter annual"
+            ],
+            "fr": [
+                "Annuelle d'hiver"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Spikelet",
+            "fr": "Épillet"
+        },
+        "identification_features": {
+            "seed_length": [
+                5.0,
+                8.3
+            ],
+            "seed_width": [
+                1.5,
+                2.8
+            ],
+            "shape": {
+                "en": "Long oval; strongly laterally compressed",
+                "fr": "Elliptique allongée; fortement comprimé latéralement"
+            },
+            "surface_texture": {
+                "en": "Granular",
+                "fr": "Granuleuse"
+            },
+            "colour": {
+                "en": "Brownish-yellow",
+                "fr": "Jaune brunâtre"
+            },
+            "other_features": {
+                "en": "Short hairs occur around the callus and on the lower half of the spikelet; the upper half has teeth along the margins. Round, upturned callus at spikelet base has a 'sucker mouth' appearance. Caryopsis is laterally compressed so that the embryo is on the narrow edge. Spikelet may have a thin awn that is bent near the base.",
+                "fr": "Présence de poils courts autour du callus et sur la moitié inférieure de l'épillet; les marges de la moitié supérieure de l'épillet sont dentelées. Le callus à la base de l'épillet est arrondi et recourbé, ressemblant à un suçoir. Le caryopse étant comprimé latéralement, l'embryon se trouve sur le bord mince. L'épillet a parfois une mince arête qui est coudée près de la base."
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alopecurus_myosuroides_02cnsh_1475586181599_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alopecurus_myosuroides_03cnsh_1475586211350_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alopecurus_myosuroides_04cnsh_1475586240427_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alopecurus_myosuroides_05cnsh_1475586395621_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alopecurus_pratensis_01cnsh_1475586425725_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alopecurus_pratensis_02cnsh_1475586456440_eng.jpg"
+            ]
+        }
+    },
+    "Daucus carota subsp. carota": {
+        "scientific_name": "Daucus carota subsp. carota",
+        "family": {
+            "en": "Apiaceae",
+            "fr": "Apiaceae"
+        },
+        "common_name": {
+            "en": "Wild carrot",
+            "fr": "Carotte sauvage"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Biennial"
+            ],
+            "fr": [
+                "Bisannuelle"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Schizocarp",
+            "fr": "Schizocarpe"
+        },
+        "identification_features": {
+            "seed_length": [
+                2.0,
+                4.0
+            ],
+            "seed_width": [
+                1.3,
+                2.3
+            ],
+            "shape": {
+                "en": "Oval to teardrop-shaped mericarp, flat on one side, compressed",
+                "fr": "Méricarpe elliptique à larmiforme, aplati sur une seule face, comprimé"
+            },
+            "surface_texture": {
+                "en": "Mericarp dull, with 5 ribs on outer side and 2 small arched ribs on inner side",
+                "fr": "Méricarpe mat, orné de cinq côtes sur la face externe et de deux petites côtes arquées sur la face interne"
+            },
+            "colour": {
+                "en": "Mericarp dull grey-brown with straw yellow ribs and bristles",
+                "fr": "Méricarpe brun-gris mat avec des côtes et des soies jaune paille"
+            },
+            "other_features": {
+                "en": "Ribs on mericarp are straight; the oil ducts between have a smooth surface. Ribs on mericarp are usually winged with prominent hairs that may be removed during processing. Each rib is lined with small bristles that are visible even if the seed is worn. One end of the mericarp has a pointed remnant floral style.",
+                "fr": "Les côtes sur le méricarpe sont rectilignes; la surface des tubes oléifères intercostaux est lisse. Les côtes sur le méricarpe sont habituellement ailées et portent de grosses soies raides bien visibles qui peuvent avoir été enlevées au cours du traitement des grains. Chaque côte est aussi bordée de petits poils encore visibles même si la semence est abimée. Une extrémité du méricarpe est surmontée d'un vestige de style floral."
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_daucus_carota_01cnsh_1475596943436_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_daucus_carota_02cnsh_1475596964363_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_daucus_carota_03cnsh_1475596992095_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_daucus_carota_04cnsh_1475597013070_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_daucus_carota_05cnsh_1475597042684_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_daucus_carota_copyright_1475597087462_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_daucus_carota_x_section_copyright_1475597151344_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_conium_maculatum_01cnsh_1475595357453_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_conium_maculatum_02cnsh_1475595491871_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_conium_maculatum_05cnsh_1475595655103_eng.jpg"
+            ]
+        }
+    },
+    "Conium maculatum": {
+        "scientific_name": "Conium maculatum",
+        "family": {
+            "en": "Apiaceae",
+            "fr": "Apiaceae"
+        },
+        "common_name": {
+            "en": "Poison hemlock",
+            "fr": "Ciguë maculée"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Biennial"
+            ],
+            "fr": [
+                "Bisannuelle"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Schizocarp",
+            "fr": "Schizocarpe"
+        },
+        "identification_features": {
+            "seed_length": [
+                2.0,
+                4.0
+            ],
+            "seed_width": [
+                1.5,
+                2.5
+            ],
+            "shape": {
+                "en": "Oval to teardrop-shaped mericarp, flat on the ventral side",
+                "fr": "Méricarpe d'elliptique à larmiforme, face ventrale plate"
+            },
+            "surface_texture": {
+                "en": "Mericarp dull surface, wrinkled between the wavy ribs",
+                "fr": "Surface du méricarpe mate, ridée entre les côtes sinueuses"
+            },
+            "colour": {
+                "en": "Mericarp greyish-brown to brown with straw-yellow ribs",
+                "fr": "Méricarpe brun grisâtre à brun avec des côtes jaune paille"
+            },
+            "other_features": {
+                "en": "Musty smell if mericarp surface is punctured. Five ribs on the dorsal side; no ribs on the ventral side of the mericarp",
+                "fr": "Une odeur de moisi se dégage si l'on perfore la surface du méricarpe. Cinq côtes sur la face dorsale; aucune côte sur la face ventrale du méricarpe"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_conium_maculatum_01cnsh_1475595357453_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_conium_maculatum_02cnsh_1475595491871_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_conium_maculatum_03cnsh_1475595594282_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_conium_maculatum_04cnsh_1475595624516_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_conium_maculatum_05cnsh_1475595655103_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_daucus_carota_01cnsh_1475596943436_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_daucus_carota_02cnsh_1475596964363_eng.jpg",
+                "https://inspection.canada.ca//DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_daucus_carota_05cnsh_1475597042684_eng.jpg"
+            ]
+        }
+    },
+    "Cuscuta spp.": {
+        "scientific_name": "Cuscuta spp.",
+        "family": {
+            "en": "Convolvulaceae",
+            "fr": "Convolvulacées"
+        },
+        "common_name": {
+            "en": "Dodder",
+            "fr": "Cuscutes"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Annual"
+            ],
+            "fr": [
+                "Annuelle"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Seed",
+            "fr": "Graine"
+        },
+        "identification_features": {
+            "seed_length": [
+                1.0,
+                1.5,
+                3.0
+            ],
+            "seed_width": [],
+            "shape": {
+                "en": "Seeds may be ovate, globose, or trigonous; may be compressed on one or two sides; radicle may protrude past the hilum",
+                "fr": "Les graines peuvent être ovées, globuleuses ou trigones; elles sont parfois comprimées sur un ou deux côtés; la radicule est parfois saillante dépassé le hile"
+            },
+            "surface_texture": {
+                "en": "Surface of seeds is finely to coarsely rough, granular, pitted, reticulate or scurfy",
+                "fr": "La surface des graines varie de finement à grossièrement rugueuse, granuleuse, ponctuée, réticulée ou écailleuse"
+            },
+            "colour": {
+                "en": "Seed is light grey, yellowish, reddish or dark brown",
+                "fr": "La graine est gris clair, jaunâtre, rougeâtre ou brun foncé"
+            },
+            "other_features": {
+                "en": "Scar area round, in the centre the seed's hilum appears as a raised line, point or slit. Fruit is a capsule containing up to 4 seeds. Embryo coiled, endosperm hard and clear",
+                "fr": "La zone cicatricielle est arrondie, et en son centre, le hile se présente comme une ligne soulevée, un point ou une fente. Le fruit est une capsule renfermant jusqu'à quatre graines. L'embryon est spiralé, l'albumen est dur et clair"
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cuscuta_campestris_04cnsh_1475673643104_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cuscuta_campestris_06cnsh_1475596178913_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cuscuta_campestris_x_section_copyright_1475596207131_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cuscuta_chinensis_01cnsh_1475596242409_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cuscuta_chinensis_03cnsh_1475596277451_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cuscuta_megalocarpa_01cnsh_1475596300846_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cuscuta_megalocarpa_03cnsh_1476203296801_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cuscuta_sp_1_copyright_1475596624438_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cuscuta_sp_2_copyright_1475596653588_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cuscuta_sp_x_section_02cnsh_1475596692030_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_stone_cells_01cnsh_1475606864348_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_stone_cells_02cnsh_1504020209986_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_stone_cells_01cnsh_1475606864348_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_stone_cells_02cnsh_1504020209986_eng.jpg"
+            ]
+        }
+    },
+    "Bromus secalinus": {
+        "scientific_name": "Bromus secalinus",
+        "family": {
+            "en": "Poaceae",
+            "fr": "Poaceae"
+        },
+        "common_name": {
+            "en": "Cheat",
+            "fr": "Brome faux-seigle"
+        },
+        "duration_of_life_cycle": {
+            "en": [
+                "Annual"
+            ],
+            "fr": [
+                "Annuelle"
+            ]
+        },
+        "seed_or_fruit_type": {
+            "en": "Floret",
+            "fr": "Fleuron"
+        },
+        "identification_features": {
+            "seed_length": [
+                6.5,
+                8.5
+            ],
+            "seed_width": [
+                1.75,
+                2.5
+            ],
+            "shape": {
+                "en": "Long, oval-shaped floret with extended lemma sides",
+                "fr": "Fleuron longuement elliptique; bords de la lemme étendus"
+            },
+            "surface_texture": {
+                "en": "Lemma and palea are glabrous with hairy margins",
+                "fr": "Lemme et paléole lisses, à marge pubescente"
+            },
+            "colour": {
+                "en": "Floret is straw yellow",
+                "fr": "Fleuron jaune paille"
+            },
+            "other_features": {
+                "en": "Palea teeth thin and shorter than 1.0 mm. Caryopsis thicker than other species of Bromus and often curled or folded.",
+                "fr": "Dents de la paléole fines, mesurant moins de 1,0 mm de longueur. Caryopse plus épais que chez celui des autres espèces du genre Bromus, souvent courbé ou plié."
+            }
+        },
+        "images": {
+            "photos": [
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_secalinus_01cnsh_1475591357037_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_secalinus_09cnsh_1475591390539_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_secalinus_11cnsh_1475591413772_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_secalinus_12cnsh_1475591449338_eng.jpg"
+            ],
+            "similar_species": [
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_japonicus_06cnsh_1475591134527_eng.jpg",
+                "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_japonicus_08cnsh_1475591173779_eng.jpg"
+            ]
+        }
+    }
+}
