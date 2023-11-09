@@ -1,0 +1,81 @@
+{
+    "scientific_name": "Centaurea solstitialis",
+    "family": {
+        "en": "Asteraceae",
+        "fr": "Asteraceae"
+    },
+    "common_name": {
+        "en": "Yellow starthistle",
+        "fr": "Centaurée solstice"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Winter annual"
+        ],
+        "fr": [
+            "Annuelle hivernale"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            1.8,
+            3.0
+        ],
+        "seed_width": [
+            1.0,
+            1.5
+        ],
+        "shape": {
+            "en": "Oblong-shaped achene with rounded bottom and flat top, compressed; large notch near the base",
+            "fr": "Akène de forme oblongue avec une base arrondie et un sommet plat, comprimé ; grande encoche près de la base"
+        },
+        "surface_texture": {
+            "en": "Achenes from the centre of the flower head have a glossy surface; achenes from the outer edge have a dull surface",
+            "fr": "Les akènes du centre de la tête de fleur ont une surface brillante ; les akènes du bord extérieur ont une surface terne"
+        },
+        "colour": {
+            "en": "Most achenes are straw yellow with a pale collar, base and a central stripe. Achenes from the outer edge are dark brown with reddish-brown and pale yellow streaks",
+            "fr": "La plupart des akènes sont jaune paille avec un col, une base et une bande centrale pâles. Les akènes du bord extérieur sont brun foncé avec des stries brun rougeâtre et jaune pâle"
+        },
+        "other_features": {
+            "en": "Achenes are strongly dimorphic: the achenes from the centre of the flower head are more numerous and have a long, white pappus. The less numerous achenes from the outer edge of the flower do not have a pappus",
+            "fr": "Les akènes sont fortement dimorphes : les akènes du centre de la tête de fleur sont plus nombreux et ont un pappus blanc long. Les akènes moins nombreux du bord extérieur de la fleur n'ont pas de pappus"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Malta knapweed",
+                "scientific_name": "Centaurea melitensis",
+                "description": "Malta knapweed achenes are a similar size, oblong shape, and pale colour as the achenes of yellow starthistle from the inside of the seed head. Malta knapweed has a deeper basal notch, a shorter pappus with wider bristles, and a grey background colour compared to yellow starthistle achenes."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Centaurée de Malte",
+                "scientific_name": "Centaurea melitensis",
+                "description": "Les akènes de la centaurée de Malte sont de taille similaire, de forme oblongue et de couleur pâle comme les akènes de la centaurée solstice à l'intérieur de la tête de graine. La centaurée de Malte a une encoche basale plus profonde, un pappus plus court avec des soies plus larges et une couleur de fond grise par rapport aux akènes de la centaurée solstice."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Centaurea_solstitialis_img4_1397578223101_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Centaurea_solstitialis_img7_1504020109420_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Centaurea_solstitialis_img2_1397578142257_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Centaurea_solstitialis_img1_1397578081585_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Centaurea_solstitialis_img3_1397578174710_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Centaurea_solstitialis_img6_1397578286805_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Centaurea_solstitialis_img9_1504020169631_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Centaurea_solstitialis_img8_1504020144243_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Centaurea_solstitialis_img5_1397578262820_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/centaurea-solstitialis/eng/1397665243729/1397665282252"
+}

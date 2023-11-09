@@ -1,0 +1,87 @@
+{
+    "scientific_name": "Asclepias syriaca",
+    "family": {
+        "en": "Asclepiaceae",
+        "fr": "Asclépiadacées"
+    },
+    "common_name": {
+        "en": "Common milkweed",
+        "fr": "Asclépiade commune"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "True seed",
+        "fr": "Vrai semence"
+    },
+    "identification_features": {
+        "seed_length": [
+            6.0,
+            7.0
+        ],
+        "seed_width": [
+            5.0,
+            6.0
+        ],
+        "shape": {
+            "en": "Tear-drop shaped (widest near base)",
+            "fr": "En forme de goutte (plus large près de la base)"
+        },
+        "surface_texture": {
+            "en": "Smooth, dull outer wing of seed is bubbled",
+            "fr": "Lisse, aile extérieure de la graine est bombée"
+        },
+        "colour": {
+            "en": "Overall reddish-brown colour, darkening towards centre of seed. Reddish-brown marking on one side of seed",
+            "fr": "Couleur globale brun-rougeâtre, s'assombrissant vers le centre de la graine. Marque brun-rougeâtre sur un côté de la graine"
+        },
+        "other_features": {
+            "en": "Wing differs from seed in texture and in colour (lighter). Hilum not obvious, at base of seed. Fresh seed in capsule has a tuft of white hairs (mature seed does not)",
+            "fr": "L'aile diffère de la graine en texture et en couleur (plus claire). Hilum non évident, à la base de la graine. La graine fraîche dans la capsule a une touffe de poils blancs (la graine mature n'en a pas)"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Showy milkweed",
+                "scientific_name": "Asclepias speciosa",
+                "description": "Showy milkweed is found in BC, AB, SK, MB, and in the western United States. Seeds of both species are similar to common milkweed seeds in teardrop shape, size, reddish-brown colour and markings. It may be necessary to examine habitat and distribution pattern of the milkweed to aid in identification."
+            },
+            {
+                "name": "Butterflyweed",
+                "scientific_name": "Asclepias tuberosa",
+                "description": "Butterflyweed is found in ON, QC, and in the eastern and southern United States. Seeds of both species are similar to common milkweed seeds in teardrop shape, size, reddish-brown colour and markings. It may be necessary to examine habitat and distribution pattern of the milkweed to aid in identification."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Asclépiade voyante",
+                "scientific_name": "Asclepias speciosa",
+                "description": "L'asclépiade voyante se trouve en Colombie-Britannique, en Alberta, en Saskatchewan, au Manitoba et dans l'ouest des États-Unis. Les graines des deux espèces sont similaires aux graines d'asclépiade commune en forme de goutte, de taille, de couleur brun-rougeâtre et de marques. Il peut être nécessaire d'examiner l'habitat et le schéma de distribution de l'asclépiade pour faciliter l'identification."
+            },
+            {
+                "name": "Asclépiade tubéreuse",
+                "scientific_name": "Asclepias tuberosa",
+                "description": "L'asclépiade tubéreuse se trouve en Ontario, au Québec et dans l'est et le sud des États-Unis. Les graines des deux espèces sont similaires aux graines d'asclépiade commune en forme de goutte, de taille, de couleur brun-rougeâtre et de marques. Il peut être nécessaire d'examiner l'habitat et le schéma de distribution de l'asclépiade pour faciliter l'identification."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_asclepias_syriaca_img1_1404844762301_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_asclepias_syriaca_img3_1404844857927_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_asclepias_syriaca_img2_1404844812755_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_asclepias_speciosa_img1_1404844912880_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_asclepias_tuberosa_img1_1404845060741_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/asclepias-syriaca/eng/1404910220946/1404910222009"
+}

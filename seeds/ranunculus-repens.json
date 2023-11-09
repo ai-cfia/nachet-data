@@ -1,0 +1,75 @@
+{
+    "scientific_name": "Ranunculus repens",
+    "family": {
+        "en": "Buttercup family",
+        "fr": "Famille des renonculacées"
+    },
+    "common_name": {
+        "en": "Creeping buttercup",
+        "fr": "Renoncule rampante"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.0,
+            2.5
+        ],
+        "seed_width": [
+            1.5,
+            2.5
+        ],
+        "shape": {
+            "en": "Obovate (upside-down egg shape)",
+            "fr": "Obovale (forme d'œuf à l'envers)"
+        },
+        "surface_texture": {
+            "en": "Roughened with fine pitting, visible under magnification",
+            "fr": "Rugueuse avec de petites fossettes, visibles sous grossissement"
+        },
+        "colour": {
+            "en": "Golden- to medium-brown",
+            "fr": "Brun doré à brun moyen"
+        },
+        "other_features": {
+            "en": "Straight or hooked peg (about 1.0 mm long) near top of seed surface appears thick and corky",
+            "fr": "Un ergot droit ou crochu (d'environ 1,0 mm de long) près du sommet de la surface de la graine semble épais et liégeux"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Tall buttercup",
+                "scientific_name": "Ranunculus acris",
+                "description": "Found across southern Canada and the northern United States. Similar to creeping buttercup in size, shape, top peg, and surface pitting. Tends to have dark brown or black seeds when mature. Surface appears thinner, not corky, and more glossy than creeping buttercup."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Renoncule âcre",
+                "scientific_name": "Ranunculus acris",
+                "description": "Trouvé dans le sud du Canada et le nord des États-Unis. Similaire à la renoncule rampante en termes de taille, de forme, d'ergot supérieur et de fossettes de surface. Tend à avoir des graines brun foncé ou noires à maturité. La surface semble plus mince, non liégeuse et plus brillante que celle de la renoncule rampante."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_ranunculus_repens_img1_1405078915135_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_ranunculus_acris_img1_1405078986135_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_ranunculus_repens_img2_1405078947307_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/ranunculus-repens/eng/1405359977292/1405359978183"
+}

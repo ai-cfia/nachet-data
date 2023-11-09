@@ -1,0 +1,75 @@
+{
+    "scientific_name": "Galium verrucosum",
+    "family": {
+        "en": "Rubiaceae",
+        "fr": "Rubiaceae"
+    },
+    "common_name": {
+        "en": "Warty bedstraw",
+        "fr": "Gaillet verruqueux"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Schizocarp",
+        "fr": "Schizocarpe"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.0,
+            3.0
+        ],
+        "seed_width": [],
+        "shape": {
+            "en": "Spherical, slightly compressed dorsiventrally",
+            "fr": "Sphérique, légèrement comprimé dorsiventrallement"
+        },
+        "surface_texture": {
+            "en": "Densely covered with tubercles",
+            "fr": "Densément couvert de tubercules"
+        },
+        "colour": {
+            "en": "Pale green to straw yellow",
+            "fr": "Vert pâle à jaune paille"
+        },
+        "other_features": {
+            "en": "Hilum is located on the ventral side, and is marked by a small knot of tissue",
+            "fr": "Le hilum est situé sur le côté ventral et est marqué par un petit nœud de tissu"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Cleavers",
+                "scientific_name": "Galium aparine",
+                "description": "Cleavers are a similar size, a similar globose shape and bristles with an inflated base that appear similar to the rough surface of warty bedstraw. Cleavers have tubercles that are white and translucent rather than the opaque yellowish tubercles of warty bedstraw. The hilum area is a deep hole rather than the tissue knot of warty bedstraw."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Gaillet gratteron",
+                "scientific_name": "Galium aparine",
+                "description": "Le gaillet gratteron est de taille similaire, de forme globuleuse similaire et de soies avec une base gonflée qui ressemblent à la surface rugueuse du gaillet verruqueux. Le gaillet gratteron a des tubercules blancs et translucides plutôt que les tubercules jaunâtres opaques du gaillet verruqueux. La zone du hilum est un trou profond plutôt que le nœud de tissu du gaillet verruqueux."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_galium_verrucosum_06cnsh_1475602242580_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_galium_verrucosum_04cnsh_1475602216087_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_galium_verrucosum_07cnsh_1475602261925_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_galium_aparine_08cnsh_1475602016950_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_galium_aparine_06cnsh_1475601990959_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_galium_aparine_05cnsh_1475601967787_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/galium-verrucosum/eng/1475881553966/1475881554388"
+}

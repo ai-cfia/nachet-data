@@ -1,0 +1,75 @@
+{
+    "scientific_name": "Amaranthus tuberculatus",
+    "family": {
+        "en": "Amaranthaceae",
+        "fr": "Amaranthacées"
+    },
+    "common_name": {
+        "en": "Tall water-hemp",
+        "fr": "Amarante tuberculée"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [],
+        "seed_width": [
+            0.8,
+            1.3
+        ],
+        "shape": {
+            "en": "Oval or ovate",
+            "fr": "Ovale ou ovée"
+        },
+        "surface_texture": {
+            "en": "Glossy, smooth",
+            "fr": "Brillante, lisse"
+        },
+        "colour": {
+            "en": "Dark reddish brown",
+            "fr": "Brun rougeâtre foncé"
+        },
+        "other_features": {
+            "en": "Hilum is near the top of the seed in a notch. Seeds may have a persistent funiculus at the hilum. The rim around the outside of the seed, common in Amaranthus spp. is diminished or lacking in this species.",
+            "fr": "L'hile est situé près du sommet de la graine dans une encoche. Les graines peuvent avoir un funicule persistant à l'hile. Le rebord autour de la graine, commun chez les Amaranthus spp., est diminué ou absent chez cette espèce."
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Redroot pigweed",
+                "scientific_name": "Amaranthus retroflexus",
+                "description": "Redroot pigweed seed has a similar lenticular shape, notched hilum and glossy surface as tall water-hemp. Redroot pigweed seed is larger by up to 0.5 mm, has a pronounced rim, and is black. Tall water-hemp seeds do not have a rim and are reddish-brown."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Amarante réfléchie",
+                "scientific_name": "Amaranthus retroflexus",
+                "description": "La graine d'amarante réfléchie a une forme lenticulaire similaire, un hile encoché et une surface brillante comme l'amarante tuberculée. La graine d'amarante réfléchie est plus grande jusqu'à 0,5 mm, a un rebord prononcé et est noire. Les graines d'amarante tuberculée n'ont pas de rebord et sont brun rougeâtre."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_amaranthus_tubriculatus_04cnsh_1476383162006_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_amaranthus_tuberculatus_01cnsh_1476383046250_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_amaranthus_tubriculatus_03cnsh_1476383098574_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_amaranthus_retroflexus_02cnsh_1476382903849_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_amaranthus_retroflexus_04cnsh_1476382963209_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_amaranthus_retroflexus_01cnsh_1476382871602_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/amaranthus-tuberculatus/eng/1472604808680/1472742385047"
+}

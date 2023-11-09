@@ -1,0 +1,75 @@
+{
+    "scientific_name": "Acanthospermum hispidum",
+    "family": {
+        "en": "Asteraceae",
+        "fr": "Asteraceae"
+    },
+    "common_name": {
+        "en": "Hispid starbur",
+        "fr": "Étoile hispide"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene - a one-seeded, dry fruit",
+        "fr": "Akène - un fruit sec à une graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            4.0,
+            6.0
+        ],
+        "seed_width": [
+            2.5,
+            3.5
+        ],
+        "shape": {
+            "en": "triangular",
+            "fr": "triangulaire"
+        },
+        "surface_texture": {
+            "en": "smooth and glossy covered in 1.0 mm-long hooked spines",
+            "fr": "lisse et brillant, couvert de piquants crochus d'une longueur de 1,0 mm"
+        },
+        "colour": {
+            "en": "light brown to medium brown spines tend to be darker",
+            "fr": "brun clair à brun moyen, les épines ont tendance à être plus foncées"
+        },
+        "other_features": {
+            "en": "two long, spreading spines (may be slightly curved) at top, or apex, of seed",
+            "fr": "deux longues épines étalées (peuvent être légèrement courbées) au sommet, ou apex, de la graine"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Low starbur",
+                "scientific_name": "Acanthospermum humile",
+                "description": "found in southeastern United States and New York state similar to hisbid starbur in triangular shape, medium-brown colour, and the presence of 2 long spines coming from apex shorter and narrower than hisbid starbur by 0.5–1.0 mm hooked spines run along only one side of achene (hooked spines cover the hispid starbur achene) slightly curved to one side (hispid starbur achene is straight)"
+            }
+        ],
+        "fr": [
+            {
+                "name": "Étoile basse",
+                "scientific_name": "Acanthospermum humile",
+                "description": "trouvé dans le sud-est des États-Unis et dans l'État de New York similaire à l'étoile hispide par sa forme triangulaire, sa couleur brun moyen et la présence de 2 longues épines venant de l'apex plus courte et plus étroite que l'étoile hispide de 0,5 à 1,0 mm les épines crochues courent le long d'un seul côté de l'akène (les épines crochues couvrent l'akène de l'étoile hispide) légèrement courbée d'un côté (l'akène de l'étoile hispide est droit)"
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_acanthospermum_hispidum_img3_1415281068052_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_acanthospermum_hispidum_img1_1404822685691_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_acanthospermum_hispidum_img2_1404822789239_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/acanthospermum-hispidum/eng/1404825430584/1404825432256"
+}

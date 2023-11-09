@@ -1,0 +1,82 @@
+{
+    "scientific_name": "Raphanus raphanistrum",
+    "family": {
+        "en": "Brassicaceae",
+        "fr": "Brassicacées"
+    },
+    "common_name": {
+        "en": "Wild radish",
+        "fr": "Radis sauvage"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual",
+            "Winter annual",
+            "Biennial"
+        ],
+        "fr": [
+            "Annuelle",
+            "Annuelle d'hiver",
+            "Bisannuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.5,
+            4.5
+        ],
+        "seed_width": [
+            2.3,
+            3.5
+        ],
+        "shape": {
+            "en": "Oblong to oval",
+            "fr": "Oblong à ovale"
+        },
+        "surface_texture": {
+            "en": "Reticulate surface with small, shallow interspaces",
+            "fr": "Surface réticulée avec de petits espaces peu profonds"
+        },
+        "colour": {
+            "en": "Reddish-brown with a darker area at the hilum",
+            "fr": "Brun rougeâtre avec une zone plus sombre au hilum"
+        },
+        "other_features": {
+            "en": "Pods break up at maturity into one-seeded, cylindrical segments",
+            "fr": "Les gousses se brisent à maturité en segments cylindriques à une graine"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Radish",
+                "scientific_name": "Raphanus sativus",
+                "description": "Radish seeds are a similar shape, colour and have similar surface reticulations as wild radish. Radish seeds (length: 3.3 - 5.0 mm; width: 2.8 - 5.0 mm) are generally larger sometimes have a pointed hilum end, slightly compressed and the surface reticulations are heavier than in wild radish."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Radis",
+                "scientific_name": "Raphanus sativus",
+                "description": "Les graines de radis ont une forme, une couleur et des réticulations de surface similaires à celles du radis sauvage. Les graines de radis (longueur : 3,3 - 5,0 mm ; largeur : 2,8 - 5,0 mm) sont généralement plus grandes, ont parfois une extrémité hilum pointue, légèrement comprimée et les réticulations de surface sont plus marquées que chez le radis sauvage."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_raphanus_raphanistrum_01cnsh_1476891147097_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_raphanus_raphanistrum_04cnsh_1476891266417_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_raphanus_raphanistrum_03cnsh_1476891208042_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_raphanus_raphanistrum_copyright_1476891301397_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_raphanus_sativus_02cnsh_1476891366288_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_raphanus_sativus_01cnsh_1476891334808_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/raphanus-raphanistrum/eng/1477313605483/1477313605933"
+}

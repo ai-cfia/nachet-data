@@ -1,0 +1,77 @@
+{
+    "scientific_name": "Inula britannica",
+    "family": {
+        "en": "Asteraceae",
+        "fr": "Asteraceae"
+    },
+    "common_name": {
+        "en": "British yellowhead",
+        "fr": "Tête jaune britannique"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            1.0,
+            1.5
+        ],
+        "seed_width": [
+            0.2,
+            0.5
+        ],
+        "shape": {
+            "en": "Oblong with flat ends",
+            "fr": "Oblong avec des extrémités plates"
+        },
+        "surface_texture": {
+            "en": "Several longitudinal ribs, rough and covered with thin white hairs",
+            "fr": "Plusieurs côtes longitudinales, rugueux et couvert de fins poils blancs"
+        },
+        "colour": {
+            "en": "Medium brown",
+            "fr": "Brun moyen"
+        },
+        "other_features": {
+            "en": "Barbed pappus hairs, thin white tissue ring at the base of the achene",
+            "fr": "Poils de pappus barbelés, anneau de tissu blanc mince à la base de l'akène"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Common groundsel",
+                "scientific_name": "Senecio vulgaris",
+                "description": "Similar size, oblong shape, hairs on surface as British yellowhead. The surface hairs of common groundsel are short and thick; the hairs of British yellowhead are longer and thin. Common groundsel does not have a white ring of tissue at the base of the achene."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Séneçon commun",
+                "scientific_name": "Senecio vulgaris",
+                "description": "Taille similaire, forme oblongue, poils à la surface comme la tête jaune britannique. Les poils de surface du séneçon commun sont courts et épais ; les poils de la tête jaune britannique sont plus longs et fins. Le séneçon commun n'a pas d'anneau de tissu blanc à la base de l'akène."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_inula_britannica_04cnsh_1475602822742_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_inula_britannica_07cnsh_1475602896272_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_inula_britannica_06cnsh_1475602872629_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_senecio_vulgaris_01cnsh_1475606459169_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_senecio_vulgaris_02cnsh_1475606476195_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/inula-britannica/eng/1475881600189/1475881600693"
+}

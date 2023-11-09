@@ -1,0 +1,77 @@
+{
+    "scientific_name": "Rhaponticum repens",
+    "family": {
+        "en": "Asteraceae",
+        "fr": "Asteraceae"
+    },
+    "common_name": {
+        "en": "Russian knapweed",
+        "fr": "Rhizome rampant russe"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.5,
+            4.0
+        ],
+        "seed_width": [
+            1.5,
+            2.5
+        ],
+        "shape": {
+            "en": "Obovate-shaped achene, compressed",
+            "fr": "Akène en forme d'obovale, comprimé"
+        },
+        "surface_texture": {
+            "en": "Achene has shallow longitudinal ridges",
+            "fr": "L'akène présente de légères côtes longitudinales"
+        },
+        "colour": {
+            "en": "Achene is bone-white to pale straw colour",
+            "fr": "L'akène est de couleur blanc cassé à paille pâle"
+        },
+        "other_features": {
+            "en": "Pappus present only on immature achenes Small (0.5 mm) notch at or near the base of the achene Short peg at the top of the achene",
+            "fr": "Pappus présent uniquement sur les akènes immatures Petite encoche (0,5 mm) à la base ou près de la base de l'akène Petit ergot au sommet de l'akène"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Gumweed",
+                "scientific_name": "Grindelia squarrosa",
+                "description": "Gumweed achenes may be similar obovate size, longitudinal ribs and pale colour as Russian knapweed. Gumweed achenes are more angular-shaped than Russian knapweed, and do not have a notch at the base of the achene. Gumweed also lacks a pappus."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Grindelia squarrosa",
+                "scientific_name": "Grindelia squarrosa",
+                "description": "Les akènes de la Grindelia squarrosa peuvent être de taille similaire, de couleur pâle et présenter des côtes longitudinales comme le Rhizome rampant russe. Les akènes de la Grindelia squarrosa ont une forme plus angulaire que ceux du Rhizome rampant russe et ne présentent pas d'encoche à la base de l'akène. La Grindelia squarrosa n'a pas non plus de pappus."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_acroptilon_repens_04cnsh_1476889133179_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_acroptilon_repens_03cnsh_1476889102678_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_acroptilon_repens_02cnsh_1476889067298_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_rhaponticum_repens_05_1476891393113_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_grindelia_squarrosa_01cnsh_1476890125711_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/rhaponticum-repens/eng/1477314273515/1477314274018"
+}

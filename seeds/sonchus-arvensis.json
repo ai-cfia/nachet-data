@@ -1,0 +1,78 @@
+{
+    "scientific_name": "Sonchus arvensis",
+    "family": {
+        "en": "Asteraceae",
+        "fr": "Asteraceae"
+    },
+    "common_name": {
+        "en": "Perennial sow thistle",
+        "fr": "Chardon des champs vivace"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.5,
+            3.5
+        ],
+        "seed_width": [
+            1.0,
+            1.5
+        ],
+        "shape": {
+            "en": "Long oval-shaped achene; flattened",
+            "fr": "Akène de forme ovale allongée ; aplati"
+        },
+        "surface_texture": {
+            "en": "Achene has a dull surface with longitudinal folds and small transverse ridges",
+            "fr": "L'akène a une surface terne avec des plis longitudinaux et de petites crêtes transversales"
+        },
+        "colour": {
+            "en": "Achene is dark brown",
+            "fr": "L'akène est brun foncé"
+        },
+        "other_features": {
+            "en": "Pappus of fine white filaments 2-3 times as long as the achene may be present",
+            "fr": "Un pappus de fins filaments blancs, 2 à 3 fois plus long que l'akène, peut être présent"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Annual sow thistle",
+                "scientific_name": "Sonchus oleraceus",
+                "description": "Annual sow thistle achenes are similar in size, oval shape, being compressed and having longitudinal ridges as perennial sow thistle. Annual sow thistle achenes are narrower at the base, a lighter colour with variable transverse wrinkling as perennial sow thistle."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Chardon des champs annuel",
+                "scientific_name": "Sonchus oleraceus",
+                "description": "Les akènes du chardon des champs annuel sont similaires en taille, en forme ovale, comprimés et présentant des crêtes longitudinales comme le chardon des champs vivace. Les akènes du chardon des champs annuel sont plus étroits à la base, d'une couleur plus claire avec des plis transversaux variables comme le chardon des champs vivace."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_sonchus_arvensis_01cnsh_1476894111949_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_sonchus_arvensis_04cnsh_1476894175393_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_sonchus_arvensis_copyright_1476894207797_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_sonchus_arvensis_03cnsh_1476894140617_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_sonchus_oleraceus_02cnsh_1476894291886_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_sonchus_oleraceus_01cnsh_1476894261273_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/sonchus-arvensis/eng/1477079283039/1477079283382"
+}

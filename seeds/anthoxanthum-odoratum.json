@@ -1,0 +1,76 @@
+{
+    "scientific_name": "Anthoxanthum odoratum",
+    "family": {
+        "en": "Poaceae",
+        "fr": "Poacées"
+    },
+    "common_name": {
+        "en": "Sweet vernal grass",
+        "fr": "Flouve odorante"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Grain",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.0,
+            3.0
+        ],
+        "seed_width": [
+            1.0,
+            1.2
+        ],
+        "shape": {
+            "en": "Elongated oval",
+            "fr": "Ovale allongé"
+        },
+        "surface_texture": {
+            "en": "Papery and slightly roughened like sandpaper",
+            "fr": "Papier et légèrement rugueux comme du papier de verre"
+        },
+        "colour": {
+            "en": "Medium reddish-brown, becoming pale at tip",
+            "fr": "Marron rougeâtre moyen, devenant pâle à l'extrémité"
+        },
+        "other_features": {
+            "en": "Long, bent awn extends straight from tip of 2 papery, sterile florets surrounding fertile, plump floret",
+            "fr": "Une longue arête courbée s'étend directement depuis l'extrémité de 2 glumes stériles en papier entourant la glume fertile et charnue"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Annual vernal grass",
+                "scientific_name": "Anthoxanthum aristatum",
+                "description": "Found only in BC, similar to sweet vernal grass in size, elliptical shape, reddish-brown colour, bent awn-tipped enclosing florets, and dense bristles. Florets are similar to sweet vernal grass; plants are easily distinguishable by their duration and vegetative features. Florets are slightly (~0.5 mm) smaller than sweet vernal grass. Hairs are in vertical lines (outer, sterile, florets of sweet vernal grass are densely covered by stiff hairs)."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Flouve annuelle",
+                "scientific_name": "Anthoxanthum aristatum",
+                "description": "Trouvée uniquement en Colombie-Britannique, similaire à la flouve odorante en termes de taille, de forme elliptique, de couleur marron rougeâtre, de glumes stériles en papier avec une arête courbée et de soies denses. Les glumes sont similaires à celles de la flouve odorante ; les plantes sont facilement distinguables par leur durée de vie et leurs caractéristiques végétatives. Les glumes sont légèrement (~0,5 mm) plus petites que celles de la flouve odorante. Les soies sont disposées en lignes verticales (les glumes stériles externes de la flouve odorante sont densément couvertes de soies raides)."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_anthoxanthum_odoratum_img3_1404823547572_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_anthoxanthum_odoratum_img1_1404823398399_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_anthoxanthum_odoratum_img2_1404823493993_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_anthoxanthum_aristatum_img1_1404823267117_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/anthoxanthum-odoratum/eng/1404825805336/1404825820586"
+}

@@ -1,0 +1,81 @@
+{
+    "scientific_name": "Setaria faberi",
+    "family": {
+        "en": "Poaceae",
+        "fr": "Poacées"
+    },
+    "common_name": {
+        "en": "Giant foxtail",
+        "fr": "Setaire géante"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Spikelet",
+        "fr": "Épillet"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.5,
+            3.5
+        ],
+        "seed_width": [
+            1.5,
+            2.0
+        ],
+        "shape": {
+            "en": "Ovate with a pointed tip; one side is flat (plano-convex)",
+            "fr": "Ovale avec une pointe effilée; un côté est plat (plano-convexe)"
+        },
+        "surface_texture": {
+            "en": "Lemma surface is transversely ridged, smooth at the tip. Palea is grid-patterned with 2 shiny crescents along the outer edges",
+            "fr": "La surface de la lemme est striée transversalement, lisse à l'extrémité. La paléa est en forme de grille avec 2 croissants brillants le long des bords extérieurs"
+        },
+        "colour": {
+            "en": "Spikelet straw yellow to medium brown",
+            "fr": "Épillet jaune paille à brun moyen"
+        },
+        "other_features": {
+            "en": "The papery second glume extends up to 3/4 of the length of the lemma",
+            "fr": "La deuxième glume papier s'étend jusqu'à 3/4 de la longueur de la lemme"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Yellow foxtail",
+                "scientific_name": "Setaria pumila subsp. pumila",
+                "description": "Yellow foxtail is similar in size, yellow colour, lemma wrinkling and ovate shape as giant foxtail spikelets. The lemma ridges of yellow foxtail remain strong to the tip, the palea lacks the shiny outer edges of giant foxtail, and the second glume reaches halfway up the lemma."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Setaire jaune",
+                "scientific_name": "Setaria pumila subsp. pumila",
+                "description": "La setaire jaune est similaire en taille, en couleur jaune, en ridules de la lemme et en forme ovale aux épillets de la setaire géante. Les crêtes de la lemme de la setaire jaune restent solides jusqu'à la pointe, la paléa ne présente pas les bords extérieurs brillants de la setaire géante et la deuxième glume atteint la moitié de la lemme."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_setaria_faberi_04cnsh_1475606566459_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_setaria_faberi_05cnsh_1476892889364_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_setaria_faberi_03cnsh_1476892846813_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_setaria_faberi_02cnsh_1476892817612_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_setaria_faberi_copyright_1476892954627_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_setaria_faberi_01cnsh_1476892787288_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_setaria_pumila_pumila_01cnsh_1476893006222_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_setaria_pumila_pumila_img3_1509564827407_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_setaria_pumila_pumila_03cnsh_1476893120621_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/setaria-faberi/eng/1477321118197/1477321118539"
+}

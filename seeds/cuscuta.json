@@ -1,0 +1,73 @@
+{
+    "scientific_name": "Cuscuta spp.",
+    "family": {
+        "en": "Convolvulaceae",
+        "fr": "Convolvulacées"
+    },
+    "common_name": {
+        "en": "Dodder",
+        "fr": "Cuscute"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [],
+        "seed_width": [],
+        "shape": {
+            "en": "Seeds may be ovate, globose, or trigonous; may be compressed on one or two sides; radicle may protrude past the hilum",
+            "fr": "Les graines peuvent être ovales, globuleuses ou trigones ; peuvent être comprimées sur un ou deux côtés ; le radicule peut dépasser l'hile"
+        },
+        "surface_texture": {
+            "en": "Surface of seeds is finely to coarsely rough, granular, pitted, reticulate or scurfy",
+            "fr": "La surface des graines est finement à grossièrement rugueuse, granuleuse, piquetée, réticulée ou écaillée"
+        },
+        "colour": {
+            "en": "Seed is light grey, yellowish, reddish or dark brown",
+            "fr": "La graine est de couleur gris clair, jaunâtre, rougeâtre ou brun foncé"
+        },
+        "other_features": {
+            "en": "Scar area round, in the centre the seed's hilum appears as a raised line, point or slit Fruit is a capsule containing up to 4 seeds Embryo coiled, endosperm hard and clear",
+            "fr": "La zone de cicatrice est ronde, au centre l'hile de la graine apparaît comme une ligne, un point ou une fente surélevée. Le fruit est une capsule contenant jusqu'à 4 graines. L'embryon est enroulé, l'endosperme est dur et transparent."
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Stone cells",
+                "scientific_name": "Solanum spp.",
+                "description": "Similar species: Stone cells (from Solanum spp.)"
+            }
+        ],
+        "fr": [
+            {
+                "name": "Cellules de pierre",
+                "scientific_name": "Solanum spp.",
+                "description": "Espèces similaires : Cellules de pierre (de Solanum spp.)"
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cuscuta_campestris_04cnsh_1475673643104_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cuscuta_chinensis_01cnsh_1475596242409_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cuscuta_megalocarpa_01cnsh_1475596300846_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cuscuta_sp_2_copyright_1475596653588_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cuscuta_sp_1_copyright_1475596624438_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_stone_cells_02cnsh_1504020209986_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_stone_cells_01cnsh_1475606864348_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/cuscuta/eng/1405080464363/1405080465754"
+}

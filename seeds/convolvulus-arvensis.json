@@ -1,0 +1,80 @@
+{
+    "scientific_name": "Convolvulus arvensis",
+    "family": {
+        "en": "Convolvulaceae",
+        "fr": "Convolvulacées"
+    },
+    "common_name": {
+        "en": "Field bindweed",
+        "fr": "Liseron des champs"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            3.0,
+            5.0
+        ],
+        "seed_width": [
+            2.3,
+            3.7
+        ],
+        "shape": {
+            "en": "Seed ovate, trigonous with the hilum at the narrow end",
+            "fr": "Graine ovale, trigone avec l'hile à l'extrémité étroite"
+        },
+        "surface_texture": {
+            "en": "Seed coarsely roughened with dense tubercles",
+            "fr": "Graine grossièrement rugueuse avec des tubercules denses"
+        },
+        "colour": {
+            "en": "Seed greyish-brown, brown, orange to black with lighter tubercles",
+            "fr": "Graine brunâtre grisâtre, brune, orange à noire avec des tubercules plus clairs"
+        },
+        "other_features": {
+            "en": "Hilum is orange and oval-shaped",
+            "fr": "L'hile est orange et de forme ovale"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Hedge bindweed",
+                "scientific_name": "Calystegia sepium",
+                "description": "Hedge bindweed has a similar ovate shape, brownish colour, orange hilum and surface tubercles. Hedge bindweed (length: 4.0 - 5.5 mm; width: 4.0 - 4.5 mm) is generally larger than field bindweed, has a large hump on the convex side, smaller tubercles and a D-shaped hilum rather than oval."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Liseron des haies",
+                "scientific_name": "Calystegia sepium",
+                "description": "Le liseron des haies a une forme ovale similaire, une couleur brunâtre, un hile orange et des tubercules en surface. Le liseron des haies (longueur : 4,0 - 5,5 mm ; largeur : 4,0 - 4,5 mm) est généralement plus grand que le liseron des champs, a une bosse importante sur le côté convexe, des tubercules plus petits et un hile en forme de D plutôt qu'ovale."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_convolvulus_arvensis_02cnsh_1475595720222_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_convolvulus_arvensis_01cnsh_1475595684765_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_convolvulus_arvensis_x_section_copyright_1475595847041_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_convolvulus_arvensis_copyright_1475595820923_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_convolvulus_arvensis_04cnsh_1475595768282_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_convolvulus_arvensis_03cnsh_1475595742321_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_calystegia_sepium_03cnsh_1475592342400_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_calystegia_sepium_05cnsh_1475592369197_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/convolvulus-arvensis/eng/1476204319835/1476204320116"
+}

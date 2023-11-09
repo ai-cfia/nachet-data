@@ -1,0 +1,86 @@
+{
+    "scientific_name": "Buglossoides arvensis",
+    "family": {
+        "en": "Boraginaceae",
+        "fr": "Boraginacées"
+    },
+    "common_name": {
+        "en": "Corn gromwell/Field gromwell",
+        "fr": "Buglosse des champs"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Nutlet",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.5,
+            3.0
+        ],
+        "seed_width": [
+            1.5
+        ],
+        "shape": {
+            "en": "Egg-shaped",
+            "fr": "En forme d'œuf"
+        },
+        "surface_texture": {
+            "en": "Shiny with scattered warts and pits",
+            "fr": "Brillant avec des verrues et des fosses dispersées"
+        },
+        "colour": {
+            "en": "Grey to grey-brown",
+            "fr": "Gris à brun-gris"
+        },
+        "other_features": {
+            "en": "Rounded base is a distinguishing feature, base is dull, brown, with 2 raised warts",
+            "fr": "La base arrondie est une caractéristique distinctive, la base est terne, brune, avec 2 verrues saillantes"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Blueweed",
+                "scientific_name": "Echium vulgare",
+                "description": "Found across Canada and the United States, similar to corn gromwell in size, triangular shape, and brown colour. Strongly angled nutlets, with raised rim around the base."
+            },
+            {
+                "name": "Gromwell",
+                "scientific_name": "Lithospermum officinale",
+                "description": "Found in MB, ON, QC, NB, and the north-eastern United States, similar to corn gromwell in size, shape, and rounded, brown base. Nutlets are more rounded and whitish in colour."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Buglosse commune",
+                "scientific_name": "Echium vulgare",
+                "description": "Trouvée à travers le Canada et les États-Unis, similaire à la buglosse des champs en termes de taille, de forme triangulaire et de couleur brune. Akènes fortement angulaires, avec un rebord saillant autour de la base."
+            },
+            {
+                "name": "Buglosse officinale",
+                "scientific_name": "Lithospermum officinale",
+                "description": "Trouvée au MB, ON, QC, NB et dans le nord-est des États-Unis, similaire à la buglosse des champs en termes de taille, de forme et de base arrondie brune. Les akènes sont plus arrondis et de couleur blanchâtre."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_buglossoides_arvensis_img2_1404845296680_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_buglossoides_arvensis_img1_1404845150522_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_buglossoides_arvensis_img3_1404845342649_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_echium_vulgare_img1_1404907275427_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_lithospermum_officinale_img1_1404845521322_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/buglossoides-arvensis/eng/1404910248806/1404910249837"
+}

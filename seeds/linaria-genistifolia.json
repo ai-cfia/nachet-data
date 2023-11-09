@@ -1,0 +1,88 @@
+{
+    "scientific_name": "Linaria genistifolia",
+    "family": {
+        "en": "Plantaginaceae",
+        "fr": "Plantaginacées"
+    },
+    "common_name": {
+        "en": "Broomleaf toadflax",
+        "fr": "Linaire à feuilles de genêt"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            0.6,
+            0.8
+        ],
+        "seed_width": [
+            0.4,
+            0.5
+        ],
+        "shape": {
+            "en": "Seed blocky, often with one tapered end",
+            "fr": "Graine trapue, souvent avec une extrémité effilée"
+        },
+        "surface_texture": {
+            "en": "Seed covered in ridges that form a wavy-wrinkled pattern",
+            "fr": "Graine couverte de crêtes formant un motif ondulé et ridé"
+        },
+        "colour": {
+            "en": "Seed black with a bluish or silver sheen, immature seeds are greyish",
+            "fr": "Graine noire avec un éclat bleuâtre ou argenté, les graines immatures sont grisâtres"
+        },
+        "other_features": {
+            "en": "The seed edges are reticulated and winged, approximately 0.2 mm wide",
+            "fr": "Les bords de la graine sont réticulés et ailés, d'environ 0,2 mm de large"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Dalmatian toadflax",
+                "scientific_name": "Linaria dalmatica",
+                "description": "Dalmatian toadflax seeds are a similar size, blackish colour, rough surface and sharp winged edges as broomleaf toadflax. The shape tends to be more blocky without one tapered end and the winged edges do not have a strong microscopic pattern compared to broomleaf toadflax."
+            },
+            {
+                "name": "Striped toadflax",
+                "scientific_name": "Linaria repens",
+                "description": "Striped toadflax seeds are a similar size, dark colour and rough surface as broomleaf toadflax. Striped toadflax seeds lack a winged edge and have a dull brownish surface compared to broomleaf toadflax."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Linaire de Dalmatie",
+                "scientific_name": "Linaria dalmatica",
+                "description": "Les graines de la linaire de Dalmatie sont de taille similaire, de couleur noire, avec une surface rugueuse et des bords ailés tranchants comme la linaire à feuilles de genêt. La forme tend à être plus trapue sans extrémité effilée et les bords ailés n'ont pas de motif microscopique prononcé par rapport à la linaire à feuilles de genêt."
+            },
+            {
+                "name": "Linaire rampante",
+                "scientific_name": "Linaria repens",
+                "description": "Les graines de la linaire rampante sont de taille similaire, de couleur foncée et de surface rugueuse comme la linaire à feuilles de genêt. Les graines de linaire rampante n'ont pas de bord ailé et ont une surface brunâtre terne par rapport à la linaire à feuilles de genêt."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_linaria_genistifolia_spp_genistifolia_01cnsh_1475604274431_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_linaria_genistifolia_spp_genistifolia_04cnsh_1475604320280_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_linaria_dalmatica_04cnsh_1475604190946_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_linaria_repens_02cnsh_1475604398256_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_linaria_repens_07cnsh_1475604431517_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_linaria_dalmatica_03cnsh_1475604170033_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/linaria-genistifolia/eng/1476284852499/1476284852905"
+}

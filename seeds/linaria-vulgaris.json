@@ -1,0 +1,77 @@
+{
+    "scientific_name": "Linaria vulgaris",
+    "family": {
+        "en": "Plantaginaceae",
+        "fr": "Plantaginacées"
+    },
+    "common_name": {
+        "en": "Common toadflax/Butter-and-eggs",
+        "fr": "Linaire vulgaire"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            1.7,
+            2.5
+        ],
+        "seed_width": [
+            1.5,
+            2.3
+        ],
+        "shape": {
+            "en": "Seed round to oval with a wing around the outside; flattened",
+            "fr": "Graine ronde à ovale avec une aile autour de l'extérieur ; aplatie"
+        },
+        "surface_texture": {
+            "en": "The centre of the seed is covered with tubercles",
+            "fr": "Le centre de la graine est couvert de tubercules"
+        },
+        "colour": {
+            "en": "Seed black with bronze highlights",
+            "fr": "Graine noire avec des reflets bronze"
+        },
+        "other_features": {
+            "en": "A thin wing surrounds the seed, 0.3 - 1.0 mm wide, minutely reticulated",
+            "fr": "Une fine aile entoure la graine, large de 0,3 à 1,0 mm, minutieusement réticulée"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Melancholy toadflax",
+                "scientific_name": "Linaria tristis",
+                "description": "This species has rounded, flattened seeds that are a similar size and colour to yellow toadflax. Melancholy toadflax may be smooth or have a few tubercles like yellow toadflax, but only on one side of the seed."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Linaire triste",
+                "scientific_name": "Linaria tristis",
+                "description": "Cette espèce a des graines rondes et aplaties de taille et de couleur similaires à celles de la linaire vulgaire. La linaire triste peut être lisse ou avoir quelques tubercules comme la linaire vulgaire, mais seulement d'un côté de la graine."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_linaria_vulgaris_img2_1405078397709_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_linaria_vulgaris_img1_1405078359397_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_linaria_vulgaris_img3_1509564765061_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_linaria_tristis_img2_1509564785433_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_linaria_tristis_img1_1405078501226_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/linaria-vulgaris/eng/1405080697802/1405080698646"
+}

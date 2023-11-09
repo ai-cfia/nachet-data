@@ -1,0 +1,77 @@
+{
+    "scientific_name": "Thlaspi arvense",
+    "family": {
+        "en": "Brassicaceae",
+        "fr": "Brassicacées"
+    },
+    "common_name": {
+        "en": "Stinkweed",
+        "fr": "Thlaspi des champs"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual",
+            "Winter Annual"
+        ],
+        "fr": [
+            "Annuelle",
+            "Annuelle d'hiver"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            1.9,
+            2.7
+        ],
+        "seed_width": [
+            1.0,
+            2.0
+        ],
+        "shape": {
+            "en": "Seed oval shape tapering to hilum end; compressed",
+            "fr": "Graine de forme ovale s'affinant vers l'extrémité du hilum ; comprimée"
+        },
+        "surface_texture": {
+            "en": "Distinctive pattern of concentric ridges on seed",
+            "fr": "Motif distinctif de crêtes concentriques sur la graine"
+        },
+        "colour": {
+            "en": "Reddish-brown in immature seeds, dark brown when mature",
+            "fr": "Marron rougeâtre dans les graines immatures, marron foncé à maturité"
+        },
+        "other_features": {
+            "en": "Hilum at narrow end, looks like an open mouth with tissue inside",
+            "fr": "Hilum à l'extrémité étroite, ressemblant à une bouche ouverte avec du tissu à l'intérieur"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Garlic mustard",
+                "scientific_name": "Alliaria petiolata",
+                "description": "Garlic mustard seeds are a similar size, dark brown colour and have a concentric ridge surface pattern like stinkweed. Stinkweed seeds are oval and compressed while garlic mustards seeds are elongate and compressed only at the hilum end."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Alliaire officinale",
+                "scientific_name": "Alliaria petiolata",
+                "description": "Les graines d'alliaire officinale sont de taille similaire, de couleur marron foncé et présentent un motif de crêtes concentriques à la surface, tout comme les graines de thlaspi des champs. Les graines de thlaspi des champs sont ovales et comprimées, tandis que les graines d'alliaire officinale sont allongées et comprimées uniquement à l'extrémité du hilum."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_thlaspi_arvense_img4_1509982565147_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_alliaria_petiolata_img2_1509981182964_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_alliaria_petiolata_img1_1405511322000_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/thlaspi-arvense/eng/1405513848343/1405513849125"
+}

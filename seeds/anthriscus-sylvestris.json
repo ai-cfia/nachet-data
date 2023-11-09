@@ -1,0 +1,80 @@
+{
+    "scientific_name": "Anthriscus sylvestris",
+    "family": {
+        "en": "Apiaceae",
+        "fr": "Apiacées"
+    },
+    "common_name": {
+        "en": "Cow parsley",
+        "fr": "Cerfeuil des bois"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Biennial",
+            "Short-lived perennial"
+        ],
+        "fr": [
+            "Bisannuel",
+            "Vivace de courte durée"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Schizocarp",
+        "fr": "Schizocarpe"
+    },
+    "identification_features": {
+        "seed_length": [
+            6.0,
+            7.0
+        ],
+        "seed_width": [
+            1.2,
+            1.6
+        ],
+        "shape": {
+            "en": "Elongate, tapering to a remnant floral style at the top",
+            "fr": "Allongée, s'amincissant vers un style floral résiduel en haut"
+        },
+        "surface_texture": {
+            "en": "Shiny, smooth",
+            "fr": "Brillante, lisse"
+        },
+        "colour": {
+            "en": "Medium brown",
+            "fr": "Brun moyen"
+        },
+        "other_features": {
+            "en": "Furrow along ventral side of mericarp. Teardrop-shaped depression at base of mericarp.",
+            "fr": "Sillon le long du côté ventral du méricarpe. Dépression en forme de goutte d'eau à la base du méricarpe."
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Garden chervil",
+                "scientific_name": "Anthriscus cerefolium",
+                "description": "Garden chervil is a similar elongated shape, size, brown colour and floral style to cow parsley. Garden chervil has a longer floral style (2.0 - 4.0 mm), a bumpy surface texture and is thinner (1.0 mm) compared to cow parsley."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Cerfeuil des jardins",
+                "scientific_name": "Anthriscus cerefolium",
+                "description": "Le cerfeuil des jardins a une forme allongée similaire, une taille similaire, une couleur brune et un style floral similaire au cerfeuil des bois. Le cerfeuil des jardins a un style floral plus long (2,0 - 4,0 mm), une texture de surface bosselée et est plus mince (1,0 mm) par rapport au cerfeuil des bois."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_anthriscus_sylvestris_03cnsh_1475586887913_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_anthriscus_sylvestris_01cnsh_1475586856125_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_anthriscus_sylvestris_copyright_1475586946577_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_anthriscus_sylvestris_04cnsh_1475586917434_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_anthriscus_cerefolium_01cnsh_1475586785967_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_anthriscus_cerefolium_04cnsh_1475586825973_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/anthriscus-sylvestris/eng/1473681911151/1473681911507"
+}

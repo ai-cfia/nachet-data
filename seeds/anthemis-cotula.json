@@ -1,0 +1,77 @@
+{
+    "scientific_name": "Anthemis cotula",
+    "family": {
+        "en": "Asteraceae",
+        "fr": "Asteraceae"
+    },
+    "common_name": {
+        "en": "Mayweed",
+        "fr": "Matricaire"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            1.0,
+            2.3
+        ],
+        "seed_width": [
+            0.8,
+            1.0
+        ],
+        "shape": {
+            "en": "Wedge-shaped, tapering to the base",
+            "fr": "En forme de coin, s'amincissant à la base"
+        },
+        "surface_texture": {
+            "en": "Tuberculate in longitudinal rows",
+            "fr": "Tuberculé en rangées longitudinales"
+        },
+        "colour": {
+            "en": "Straw yellow to brown",
+            "fr": "Jaune paille à brun"
+        },
+        "other_features": {
+            "en": "",
+            "fr": ""
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Corn chamomile",
+                "scientific_name": "Anthemis arvensis",
+                "description": "The achenes of corn chamomile have a similar shaped and straw yellow colour as mayweed. Corn chamomile achenes (length: 2.3 - 2.8 mm; width: 1.5 mm) are generally larger than mayweed, and the surface is thick and ribbed rather than thin and tuberculate."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Matricaire des champs",
+                "scientific_name": "Anthemis arvensis",
+                "description": "Les akènes de la matricaire des champs ont une forme similaire et une couleur jaune paille comme la matricaire. Les akènes de la matricaire des champs (longueur : 2,3 - 2,8 mm ; largeur : 1,5 mm) sont généralement plus grands que ceux de la matricaire, et la surface est épaisse et côtelée plutôt que mince et tuberculée."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_anthemis_cotula_03cnsh_1475586754555_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_anthemis_cotula_02cnsh_1475586724197_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_anthemis_cotula_01cnsh_1475586690638_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_anthemis_arvensis_01cnsh_1475586600285_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_anthemis_arvensis_02cnsh_1475586655567_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/anthemis-cotula/eng/1473681891296/1473681891685"
+}

@@ -1,0 +1,92 @@
+{
+    "scientific_name": "Silene latifolia subsp. alba",
+    "family": {
+        "en": "Caryophyllaceae",
+        "fr": "Caryophyllacées"
+    },
+    "common_name": {
+        "en": "White cockle",
+        "fr": "Silène blanc"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Biennial",
+            "Short-lived perennial"
+        ],
+        "fr": [
+            "Bisannuel",
+            "Vivace de courte durée"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            1.3,
+            1.5
+        ],
+        "seed_width": [
+            1.0,
+            1.3
+        ],
+        "shape": {
+            "en": "Seed inflated D-shaped, with the hilum in the middle of the flat edge",
+            "fr": "Graine en forme de D gonflé, avec le hile au milieu du bord plat"
+        },
+        "surface_texture": {
+            "en": "Surface is densely covered with randomly arranged tubercles",
+            "fr": "La surface est densément couverte de tubercules disposés de manière aléatoire"
+        },
+        "colour": {
+            "en": "Greyish-brown to bluish-grey. Immature seeds are reddish",
+            "fr": "Gris-brun à gris-bleu. Les graines immatures sont rougeâtres"
+        },
+        "other_features": {
+            "en": "A prominent collar extends one-half to two-thirds around the hilum, forming a distinctive 'open mouth'",
+            "fr": "Un collier proéminent s'étend d'un demi à deux tiers autour du hile, formant une 'bouche ouverte' distinctive"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Night-flowering catchfly",
+                "scientific_name": "Silene noctiflora",
+                "description": "Seed has similar D-shape, size and randomly arranged tubercles as white cockle. White cockle seed is usually covered in a whitish bloom, has an 'open mouth' hilum, with a round, inflated shape. Night-flowering catchfly seed may have a yellowish bloom, or is reddish. The hilum is bordered by two small pads and the seed does not appear inflated."
+            },
+            {
+                "name": "Bladder campion",
+                "scientific_name": "Silene vulgaris",
+                "description": "Similar shape and size as white cockle. White cockle seed is usually covered in a whitish bloom, has an 'open mouth' hilum, with randomly arranged tubercles and an inflated shape. Bladder campion seed is usually greyish. The hilum is bordered by two large pads, with surface tubercles in rows and is an angular shape."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Silène noctiflore",
+                "scientific_name": "Silene noctiflora",
+                "description": "La graine a une forme en D similaire, une taille et des tubercules disposés de manière aléatoire comme le silène blanc. La graine de silène blanc est généralement recouverte d'une floraison blanchâtre, a un hile 'bouche ouverte' avec une forme ronde et gonflée. La graine de silène noctiflore peut avoir une floraison jaunâtre ou être rougeâtre. Le hile est bordé de deux petites plaques et la graine ne semble pas gonflée."
+            },
+            {
+                "name": "Silène vulgaire",
+                "scientific_name": "Silene vulgaris",
+                "description": "Forme et taille similaires au silène blanc. La graine de silène blanc est généralement recouverte d'une floraison blanchâtre, a un hile 'bouche ouverte' avec des tubercules disposés de manière aléatoire et une forme gonflée. La graine de silène vulgaire est généralement grisâtre. Le hile est bordé de deux grandes plaques, avec des tubercules de surface disposés en rangées et a une forme angulaire."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_silene_latifolia_04cnsh_1476893187853_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_silene_latifolia_01cnsh_1476893155644_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_silene_latifolia_02cnsh_1475606624825_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_silene_latifolia_img5_1509980839743_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_silene_noctiflora_03cnsh_1476893260483_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_silene_vulgaris_05cnsh_1476893528028_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_silene_noctiflora_05cnsh_1476893327321_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_silene_vulgaris_04cnsh_1476893494916_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/silene-latifolia-subsp-alba/eng/1477321452854/1477321453208"
+}

@@ -1,0 +1,78 @@
+{
+    "scientific_name": "Jacobaea vulgaris",
+    "family": {
+        "en": "Asteraceae",
+        "fr": "Asteraceae"
+    },
+    "common_name": {
+        "en": "Tansy ragwort",
+        "fr": "Séneçon jacobée"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Short-lived perennial"
+        ],
+        "fr": [
+            "Vivace de courte durée"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            1.3,
+            2.5
+        ],
+        "seed_width": [
+            0.4,
+            1.0
+        ],
+        "shape": {
+            "en": "Achene elongate; tapered at base and top is truncate",
+            "fr": "Akène allongé ; effilé à la base et tronqué au sommet"
+        },
+        "surface_texture": {
+            "en": "Achene surface has a satin sheen with a roughened surface Achene is ribbed, with short hairs in the grooves",
+            "fr": "La surface de l'akène a un éclat satiné avec une surface rugueuse. L'akène est côtelé, avec de courts poils dans les rainures."
+        },
+        "colour": {
+            "en": "Achene is light yellow to golden brown with white-haired furrows",
+            "fr": "L'akène est jaune clair à brun doré avec des sillons blancs poilus"
+        },
+        "other_features": {
+            "en": "A long, white pappus sometimes present on immature achenes Achenes are dimorphic; the uncommon outer fruits are hairless",
+            "fr": "Un long pappus blanc est parfois présent sur les akènes immatures. Les akènes sont dimorphes ; les fruits externes peu communs sont sans poils."
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Common groundsel",
+                "scientific_name": "Senecio vulgaris",
+                "description": "Common groundsel has a similar size, cylindrical shape, longitudinal ribs and short surface hairs as tansy ragwort. Common groundsel (length: 2.8 - 3.0 mm) is generally longer, a darker colour and the surface hairs are more dense than tansy ragwort."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Séneçon commun",
+                "scientific_name": "Senecio vulgaris",
+                "description": "Le séneçon commun a une taille similaire, une forme cylindrique, des côtes longitudinales et de courts poils de surface comme la séneçon jacobée. Le séneçon commun (longueur : 2,8 - 3,0 mm) est généralement plus long, d'une couleur plus foncée et les poils de surface sont plus denses que ceux de la séneçon jacobée."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_senecio_jacobaea_01cnsh_1475606091675_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_senecio_jacobaea_05cnsh_1475606323517_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_senecio_jacobaea_03cnsh_1475606255898_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_senecio_jacobaea_04cnsh_1475606298834_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_senecio_vulgaris_01cnsh_1475606459169_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_senecio_vulgaris_05cnsh_1475606493062_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/jacobaea-vulgaris/eng/1476288051060/1476288051528"
+}

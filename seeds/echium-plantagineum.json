@@ -1,0 +1,83 @@
+{
+    "scientific_name": "Echium plantagineum",
+    "family": {
+        "en": "Boraginaceae",
+        "fr": "Boraginacées"
+    },
+    "common_name": {
+        "en": "Paterson's curse",
+        "fr": "Mélilot des champs"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Winter annual",
+            "biennial"
+        ],
+        "fr": [
+            "Annuelle d'hiver",
+            "bisannuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Nutlet",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.5,
+            4.2
+        ],
+        "seed_width": [
+            1.5,
+            3.0
+        ],
+        "shape": {
+            "en": "Ovate-shaped nutlet with a flat base and narrow top; slightly trigonous",
+            "fr": "Akène en forme d'ovale avec une base plate et un sommet étroit ; légèrement trigone"
+        },
+        "surface_texture": {
+            "en": "Nutlet is densely covered in small tubercles and ridges",
+            "fr": "L'akène est densément couvert de petites tubercules et de crêtes"
+        },
+        "colour": {
+            "en": "Colour of nutlet is off-white to straw-yellow, surface between the tubercles is pale",
+            "fr": "La couleur de l'akène est blanc cassé à jaune paille, la surface entre les tubercules est pâle"
+        },
+        "other_features": {
+            "en": "Nutlet has a flat base and a pronounced ridge around the centre of the fruit.",
+            "fr": "L'akène a une base plate et une crête prononcée autour du centre du fruit."
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Blueweed",
+                "scientific_name": "Echium vulgare",
+                "description": "The two species are similar in size, ovate shape, straw-yellow colour and surface ornamentation. Blueweed nutlets are a darker colour than Paterson's curse, and the surface ornamentation is usually low ridges and streaks rather than tubercles. The surface colour of blueweed (between the tubercles) is dark brown or black, the surface colour of Paterson's curse is pale."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Buglosse commune",
+                "scientific_name": "Echium vulgare",
+                "description": "Les deux espèces sont similaires en taille, en forme ovale, en couleur jaune paille et en ornementation de surface. Les akènes de la buglosse commune sont d'une couleur plus foncée que celles du mélilot des champs, et l'ornementation de surface est généralement constituée de crêtes et de stries basses plutôt que de tubercules. La couleur de surface de la buglosse commune (entre les tubercules) est brun foncé ou noir, la couleur de surface du mélilot des champs est pâle."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Echium_plantagineum_img4_1504020263996_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Echium_plantagineum_img2_1397669594201_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Echium_plantagineum_img3_1397669620326_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Echium_plantagineum_img7_1504021300519_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Echium_plantagineum_img5_1504021261282_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Echium_plantagineum_img1_1397669573357_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Echium_plantagineum_img6_1504021280748_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Echium_plantagineum_img3_1397669620326_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Echium_plantagineum_img7_1504021300519_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/echium-plantagineum/eng/1397674030909/1397674084254"
+}

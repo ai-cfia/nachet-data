@@ -1,0 +1,89 @@
+{
+    "scientific_name": "Echium vulgare",
+    "family": {
+        "en": "Boraginaceae",
+        "fr": "Boraginacées"
+    },
+    "common_name": {
+        "en": "Blueweed/Viper's bugloss",
+        "fr": "Vipérine commune"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Biennial",
+            "Short-lived perennial"
+        ],
+        "fr": [
+            "Bisannuelle",
+            "Vivace de courte durée"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Nutlet",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.5,
+            3.0
+        ],
+        "seed_width": [
+            1.25,
+            1.5
+        ],
+        "shape": {
+            "en": "Angular (diamond-shaped)",
+            "fr": "Angulaire (en forme de diamant)"
+        },
+        "surface_texture": {
+            "en": "Densely covered with small bumps overlain with large, wart-like projections. Overall surface is glossy.",
+            "fr": "Densément couvert de petites bosses recouvertes de grandes protubérances en forme de verrues. La surface globale est brillante."
+        },
+        "colour": {
+            "en": "Medium brown, dark brown between wart-like projections",
+            "fr": "Brun moyen, brun foncé entre les protubérances en forme de verrues"
+        },
+        "other_features": {
+            "en": "Flat basal area is distinctive: dull, roughened and brown, with 2 peg-like projections and an open hilum",
+            "fr": "La zone basale plate est distinctive : terne, rugueuse et brune, avec 2 projections en forme de cheville et un hile ouvert"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Corn gromwell",
+                "scientific_name": "Buglossoides arvensis",
+                "description": "Found in BC, MB, ON, QC, NS, and across the United States. Similar to blueweed in size, brown colour and triangular shape (corn gromwell nutlets are not as strongly angled). Rounded base."
+            },
+            {
+                "name": "Gromwell",
+                "scientific_name": "Lithospermum officinale",
+                "description": "Found in MB, ON, QC, NB, and the northeastern United States. Whitish colour similar to blueweed in size and triangular shape (gromwell nutlets are more rounded). Rounded base."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Buglosse des champs",
+                "scientific_name": "Buglossoides arvensis",
+                "description": "Trouvé en Colombie-Britannique, au Manitoba, en Ontario, au Québec, en Nouvelle-Écosse et dans tout le territoire des États-Unis. Similaire à la vipérine commune en termes de taille, de couleur brune et de forme triangulaire (les akènes de buglosse des champs ne sont pas aussi fortement angulaires). Base arrondie."
+            },
+            {
+                "name": "Grémil officinal",
+                "scientific_name": "Lithospermum officinale",
+                "description": "Trouvé au Manitoba, en Ontario, au Québec, au Nouveau-Brunswick et dans le nord-est des États-Unis. Couleur blanchâtre similaire à la vipérine commune en termes de taille et de forme triangulaire (les akènes de grémil officinal sont plus arrondis). Base arrondie."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_echium_vulgare_img1_1404907275427_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_echium_vulgare_img2_1404907314287_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_echium_vulgare_img3_1404907348131_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_buglossoides_arvensis_img1_1404845150522_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_lithospermum_officinale_img1_1404845521322_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/echium-vulgare/eng/1405080494848/1405080495973"
+}

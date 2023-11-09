@@ -1,0 +1,78 @@
+{
+    "scientific_name": "Centaurea stoebe",
+    "family": {
+        "en": "Asteraceae",
+        "fr": "Asteraceae"
+    },
+    "common_name": {
+        "en": "Spotted knapweed",
+        "fr": "Centaurée maculée"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            1.8,
+            3.5
+        ],
+        "seed_width": [
+            0.8,
+            2.0
+        ],
+        "shape": {
+            "en": "Oblong-shaped with rounded bottom and flat top, laterally compressed; large notch near the base",
+            "fr": "En forme d'oblong avec un fond arrondi et un sommet plat, comprimé latéralement; grande encoche près de la base"
+        },
+        "surface_texture": {
+            "en": "Smooth, dull",
+            "fr": "Lisse, terne"
+        },
+        "colour": {
+            "en": "Light to dark greenish-brown achene with pale markings",
+            "fr": "Akène de couleur brun verdâtre clair à foncé avec des marques pâles"
+        },
+        "other_features": {
+            "en": "Achene pale markings consist of: a strong central line and thin or broken lines to either side, and a pale area around the basal notch and the top",
+            "fr": "Les marques pâles de l'akène se composent d'une ligne centrale forte et de lignes minces ou brisées de chaque côté, ainsi que d'une zone pâle autour de l'encoche basale et du sommet"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Diffuse knapweed",
+                "scientific_name": "Centurea diffusa",
+                "description": "Diffuse knapweed achenes are: a similar size, oblong shape, pappus and dark colouring with pale stripes as spotted knapweed. Diffuse knapweed achenes (1.0 - 1.5 mm wide) are narrower than spotted knapweed, with strong central and side stripes. The pappus are generally shorter in diffuse knapweed (0.1 - 1.0 mm long) compared to spotted knapweed. The brown colour of diffuse knapweed achenes is usually reddish while spotted knapweed is greenish."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Centaurée diffuse",
+                "scientific_name": "Centurea diffusa",
+                "description": "Les akènes de la centaurée diffuse sont de taille similaire, de forme oblongue, avec un pappus et une coloration foncée avec des rayures pâles comme la centaurée maculée. Les akènes de la centaurée diffuse (1,0 - 1,5 mm de large) sont plus étroits que ceux de la centaurée maculée, avec des rayures centrales et latérales fortes. Le pappus est généralement plus court chez la centaurée diffuse (0,1 - 1,0 mm de long) par rapport à la centaurée maculée. La couleur brune des akènes de la centaurée diffuse est généralement rougeâtre tandis que celle de la centaurée maculée est verdâtre."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_stoebe_04cnsh_1475593838736_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_stoebe_05cnsh_1475593869099_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_stoebe_01cnsh_1475593792749_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_stoebe_010cnsh_1475593892654_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_diffusa_01cnsh_1475593451012_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_diffusa_05cnsh_1475593526841_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/centaurea-stoebe/eng/1476276329541/1476276330024"
+}

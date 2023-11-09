@@ -1,0 +1,76 @@
+{
+    "scientific_name": "Galega officinalis",
+    "family": {
+        "en": "Fabaceae",
+        "fr": "Fabacées"
+    },
+    "common_name": {
+        "en": "Goat's-rue",
+        "fr": "Galega officinale"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            3.1,
+            5.0
+        ],
+        "seed_width": [
+            1.5,
+            2.2
+        ],
+        "shape": {
+            "en": "Seed long oval with a side notch, compressed",
+            "fr": "Graine longue ovale avec une encoche latérale, comprimée"
+        },
+        "surface_texture": {
+            "en": "Seed dull, slightly roughened",
+            "fr": "Graine terne, légèrement rugueuse"
+        },
+        "colour": {
+            "en": "Most seeds are a dull greenish-yellow, some are reddish-brown",
+            "fr": "La plupart des graines sont d'un jaune verdâtre terne, certaines sont brun rougeâtre"
+        },
+        "other_features": {
+            "en": "Hilum is round and surrounded by a ring of raised tissue. Furrow evident between radicle and cotyledons",
+            "fr": "L'hile est rond et entouré d'un anneau de tissu surélevé. Sillon évident entre la radicule et les cotylédons"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Oriental goat's rue",
+                "scientific_name": "Galega orientalis",
+                "description": "Oriental goat's-rue seed are a similar size, long oval shape and round hilum as goat's-rue. Oriental goat's-rue seeds have a pointed base, glossy surface and a shallow or no radicle furrow. Goat's-rue seeds are dull with a round base and pronounced radicle furrow."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Galega orientalis",
+                "scientific_name": "Galega orientalis",
+                "description": "Les graines de la galega orientale sont de taille similaire, de forme ovale allongée et d'hile ronde comme celles de la galega officinale. Les graines de la galega orientale ont une base pointue, une surface brillante et un sillon radiculaire peu profond ou inexistant. Les graines de la galega officinale sont ternes avec une base ronde et un sillon radiculaire prononcé."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_galega_officinalis_img2_1404909632614_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_galega_officinalis_img3_1404909662536_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_galega_officinalis_img4_1404909708818_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_galega_orientalis_img1_1404909752303_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/galega-officinalis/eng/1405080573911/1405080574833"
+}

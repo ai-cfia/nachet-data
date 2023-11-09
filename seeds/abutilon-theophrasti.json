@@ -1,0 +1,77 @@
+{
+    "scientific_name": "Abutilon theophrasti",
+    "family": {
+        "en": "Malvaceae",
+        "fr": "Malvacées"
+    },
+    "common_name": {
+        "en": "Velvetleaf",
+        "fr": "Abutilon à feuilles de chanvre"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            3.0,
+            4.0
+        ],
+        "seed_width": [
+            2.3,
+            3.6
+        ],
+        "shape": {
+            "en": "Heart-shaped seed with unequal lobes and a conspicuous notch at hilum end",
+            "fr": "Graine en forme de cœur avec des lobes inégaux et une encoche visible à l'extrémité du hile"
+        },
+        "surface_texture": {
+            "en": "Seed dull with minute reticulations and scattered tubercles, concentrated at the hilum",
+            "fr": "Graine terne avec de petites réticulations et des tubercules dispersés, concentrés au niveau du hile"
+        },
+        "colour": {
+            "en": "Seed greyish brown with a lighter-coloured pubescence",
+            "fr": "Graine brun grisâtre avec une pubescence de couleur plus claire"
+        },
+        "other_features": {
+            "en": "Flap-like tissue covering the hilum may be present",
+            "fr": "Un tissu en forme de rabat couvrant le hile peut être présent"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Flower-of-an-hour",
+                "scientific_name": "Hibiscus trionum",
+                "description": "Flower-of-an-hour seeds are a similar heart shape, brownish colour, minutely reticulate surface and tissue covering the hilum as velvetleaf. Flower-of-an-hour seeds (length: 2.5 mm; width: 2.3 mm) are generally smaller than velvetleaf, densely covered with tubercles made up of brown hairs and resin glands, the surface is dark brown, and the lobes of the seed are equal or subequal. Velvetleaf seeds have fewer tubercles, the surface is light greyish-brown and the lobes are unequal."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Hibiscus trionum",
+                "scientific_name": "Hibiscus trionum",
+                "description": "Les graines de l'Hibiscus trionum ont une forme de cœur similaire, une couleur brunâtre, une surface minutieusement réticulée et un tissu couvrant le hile comme l'abutilon à feuilles de chanvre. Les graines de l'Hibiscus trionum (longueur : 2,5 mm ; largeur : 2,3 mm) sont généralement plus petites que celles de l'abutilon à feuilles de chanvre, densément couvertes de tubercules composés de poils bruns et de glandes à résine, la surface est brun foncé et les lobes de la graine sont égaux ou subégaux. Les graines de l'abutilon à feuilles de chanvre ont moins de tubercules, la surface est brun grisâtre clair et les lobes sont inégaux."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_abutilon_theophrasti_01cnsh_1476382781946_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_abutilon_theophrasti_03cnsh_1476382814598_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_abutilon_theophrasti_05cnsh_1476382840261_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_hibiscus_trionum_02cnsh_1476383555450_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_hibiscus_trionum_01cnsh_1476383529959_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/abutilon-theophrasti/eng/1472604373914/1472604374428"
+}

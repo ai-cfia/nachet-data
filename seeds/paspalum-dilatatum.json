@@ -1,0 +1,77 @@
+{
+    "scientific_name": "Paspalum dilatatum",
+    "family": {
+        "en": "Poaceae",
+        "fr": "Poacées"
+    },
+    "common_name": {
+        "en": "Dallis grass",
+        "fr": "Herbe de Dallis"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Spikelet",
+        "fr": "Épillet"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.3,
+            3.8
+        ],
+        "seed_width": [
+            1.6,
+            2.2
+        ],
+        "shape": {
+            "en": "Broad oval with a pointed tip and a truncate base",
+            "fr": "Ovale large avec une pointe pointue et une base tronquée"
+        },
+        "surface_texture": {
+            "en": "Glumes and sterile floret are papery, fertile floret's palea and lemma are hard and shell-like with small tubercles",
+            "fr": "Les glumes et la fleur stérile sont papier, la palea et le lemma de la fleur fertile sont durs et en forme de coquille avec de petits tubercules"
+        },
+        "colour": {
+            "en": "Dark yellow spikelet, pale yellow floret",
+            "fr": "Épillet jaune foncé, fleur jaune pâle"
+        },
+        "other_features": {
+            "en": "Glume edges have long, curled hairs; glume surface has sparse hairs and is gland-dotted. Glumes have 3-5 longitudinal nerves, central nerve is prominent",
+            "fr": "Les bords des glumes ont de longs poils bouclés ; la surface des glumes a des poils clairsemés et est ponctuée de glandes. Les glumes ont 3 à 5 nervures longitudinales, la nervure centrale est proéminente"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Field paspalum",
+                "scientific_name": "Paspalum laeve",
+                "description": "Field paspalum spikelets are a similar size, oval shape, papery glumes, hard paleas and lemmas, and dark yellow colour. Field paspalum has a humped profile and the glumes lack the curled hairs of Dallis grass spikelets."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Paspalum lisse",
+                "scientific_name": "Paspalum laeve",
+                "description": "Les épillets de paspalum lisse sont de taille similaire, de forme ovale, avec des glumes papier, des paleas et des lemmas durs et en forme de coquille, et une couleur jaune foncé. Le paspalum lisse a un profil bosselé et les glumes n'ont pas les poils bouclés des épillets de l'herbe de Dallis."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_PaspalumDilatatum_img1_1397671307212_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_PaspalumDilatatum_img2_1397671394947_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_PaspalumDilatatum_img5_1504021578275_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_PaspalumDilatatum_img3_1397671423182_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_PaspalumDilatatum_img4_1504021555094_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/paspalum-dilatatum/eng/1397746550135/1397746661463"
+}

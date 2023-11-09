@@ -1,0 +1,80 @@
+{
+    "scientific_name": "Persicaria perfoliata",
+    "family": {
+        "en": "Polygonaceae",
+        "fr": "Polygonacées"
+    },
+    "common_name": {
+        "en": "Devil's-tail tearthumb",
+        "fr": "Épine-vinette à feuilles perfoliées"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            3.4,
+            4.0
+        ],
+        "seed_width": [
+            3.5,
+            3.8
+        ],
+        "shape": {
+            "en": "Spherical, slightly three-angled at the top with a white dot of tissue",
+            "fr": "Sphérique, légèrement trilobé en haut avec un point blanc de tissu"
+        },
+        "surface_texture": {
+            "en": "Smooth, glossy",
+            "fr": "Lisse, brillant"
+        },
+        "colour": {
+            "en": "Perianth is dark bluish-purple when fresh, fades to a light bluish-purple when dried. Achene is black, rarely fading into straw yellow at the base. Seed inside is chalk-white with reddish seed coat",
+            "fr": "Le périanthe est d'un bleu-violet foncé lorsqu'il est frais, il devient d'un bleu-violet clair lorsqu'il est sec. L'akène est noir, rarement jaune paille à la base. La graine à l'intérieur est blanche comme de la craie avec un revêtement de graines rougeâtre"
+        },
+        "other_features": {
+            "en": "The achene retains perianth tissue at the base",
+            "fr": "L'akène conserve des tissus de périanthe à la base"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Halberdleaf tearthumb",
+                "scientific_name": "Persicaria arifolia",
+                "description": "Similar size, black achene colour, glossy achene surface and thick perianth as devil's-tail tearthumb. Halberdleaf tearthumb's perianth is not as thick and the achene is compressed and slightly pointed at the top compared to devil's-tail tearthumb."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Épine-vinette à feuilles en fer de hache",
+                "scientific_name": "Persicaria arifolia",
+                "description": "Taille similaire, couleur d'akène noire, surface d'akène brillante et périanthe épais comme l'épine-vinette à feuilles perfoliées. Le périanthe de l'épine-vinette à feuilles en fer de hache n'est pas aussi épais et l'akène est comprimé et légèrement pointu en haut par rapport à l'épine-vinette à feuilles perfoliées."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_PersicariaPerfoliata_img6_1504021662319_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_PersicariaPerfoliata_img5_1397671615558_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_PersicariaPerfoliata_img2_1397671545214_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_PersicariaPerfoliata_img4_1397671588917_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_PersicariaPerfoliata_img1_1397671472010_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_PersicariaPerfoliata_img3_1397671568026_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_PersicariaPerfoliata_img5_1397671615558_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_PersicariaPerfoliata_img4_1397671588917_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/persicaria-perfoliata/eng/1397752966598/1397753000895"
+}

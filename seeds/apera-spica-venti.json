@@ -1,0 +1,88 @@
+{
+    "scientific_name": "Apera spica-venti",
+    "family": {
+        "en": "Poaceae",
+        "fr": "Poacées"
+    },
+    "common_name": {
+        "en": "Silky bent-grass",
+        "fr": "Agrostide à épis"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Winter annual"
+        ],
+        "fr": [
+            "Annuelle d'hiver"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Grain, enclosed by palea and lemma",
+        "fr": "Grain, enveloppé par la palea et le lemma"
+    },
+    "identification_features": {
+        "seed_length": [
+            3.0,
+            3.7
+        ],
+        "seed_width": [
+            0.5
+        ],
+        "shape": {
+            "en": "elongated oval",
+            "fr": "ovale allongé"
+        },
+        "surface_texture": {
+            "en": "roughened, pebbled surface, like sandpaper",
+            "fr": "surface rugueuse, texturée comme du papier de verre"
+        },
+        "colour": {
+            "en": "medium brown",
+            "fr": "brun moyen"
+        },
+        "other_features": {
+            "en": "long, thin awn extends straight from tip\nshort, thin stalk (rachilla) on inner base of seed\ntuft of long, white bristles at base of outer side (lemma)\ngrain is soft (will yield under pressure)",
+            "fr": "une longue arête mince s'étend droit depuis l'extrémité\nune tige courte et mince (rachilla) à la base interne de la graine\ntouffe de longues soies blanches à la base du côté externe (lemma)\nle grain est mou (se déforme sous pression)"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Interrupted bent-grass",
+                "scientific_name": "Apera interrupta",
+                "description": "found in BC, ON, and the northwestern United States\nsimilar to silky bent-grass in shape, awn, tuft of hairs at base, roughened surface texture and short hairs at top of lemma\nfloret longer than silky bent-grass by 1.0–2.0 mm, with an awn up to 7.0 mm longer"
+            },
+            {
+                "name": "Velvet bent-grass",
+                "scientific_name": "Agrostis canina",
+                "description": "found in QC, NB, NS, PE, NL, and the northeastern United States\nsimilar to silky bent-grass in shape, size, awn and rachilla\nLonger than silky bent-grass by 1.0–2.0 mm\nawn is not bent, surface is smooth, and colour is darker than silky bent-grass"
+            }
+        ],
+        "fr": [
+            {
+                "name": "Agrostide interrompue",
+                "scientific_name": "Apera interrupta",
+                "description": "trouvée en Colombie-Britannique, en Ontario et dans le nord-ouest des États-Unis\nsimilaire à l'agrostide à épis en termes de forme, d'arête, de touffe de poils à la base, de texture de surface rugueuse et de poils courts au sommet du lemma\nflore plus longue que l'agrostide à épis de 1,0 à 2,0 mm, avec une arête jusqu'à 7,0 mm plus longue"
+            },
+            {
+                "name": "Agrostide des chiens",
+                "scientific_name": "Agrostis canina",
+                "description": "trouvée au Québec, au Nouveau-Brunswick, en Nouvelle-Écosse, à l'Île-du-Prince-Édouard, à Terre-Neuve-et-Labrador et dans le nord-est des États-Unis\nsimilaire à l'agrostide à épis en termes de forme, de taille, d'arête et de rachilla\nplus longue que l'agrostide à épis de 1,0 à 2,0 mm\nl'arête n'est pas courbée, la surface est lisse et la couleur est plus foncée que celle de l'agrostide à épis"
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_apera_spica_venti_img1_1404823718354_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_apera_spica_venti_img4_1404823836464_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_apera_spica_venti_img3_1404823797464_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_apera_spica_venti_img2_1404823754932_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_apera_interrupta_img1_1404823909777_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_apera_interrupta_img2_1404823951481_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_agrostis_canina_img1_1404824067247_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/apera-spica-venti/eng/1404826330527/1404826331636"
+}

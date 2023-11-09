@@ -1,0 +1,81 @@
+{
+    "scientific_name": "Lepidium campestre",
+    "family": {
+        "en": "Brassicaceae",
+        "fr": "Brassicacées"
+    },
+    "common_name": {
+        "en": "Field peppergrass",
+        "fr": "Cresson des champs"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual",
+            "Biennial"
+        ],
+        "fr": [
+            "Annuelle",
+            "Bisannuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.0,
+            3.0
+        ],
+        "seed_width": [
+            1.5,
+            2.0
+        ],
+        "shape": {
+            "en": "Oval",
+            "fr": "Ovale"
+        },
+        "surface_texture": {
+            "en": "Densely covered in small tubercles",
+            "fr": "Densément couverte de petites tubercules"
+        },
+        "colour": {
+            "en": "Dark reddish-brown",
+            "fr": "Brun rougeâtre foncé"
+        },
+        "other_features": {
+            "en": "One end of seed is rounded and the other end is narrow with yellowish tissue over the hilum. Pale line visible between the radicle and the cotyledons on the seed.",
+            "fr": "Une extrémité de la graine est arrondie et l'autre extrémité est étroite avec un tissu jaunâtre sur le hilum. Une ligne pâle est visible entre le radicule et les cotylédons sur la graine."
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Globe-pod hoary cress",
+                "scientific_name": "Lepidium appelianum",
+                "description": "Globe-pod hoary cress has a similar oval shape and roughened surface as field peppergrass. Globe-pod hoary cress (length: 2.0 - 2.5 mm; width: 1.3 - 1.8 mm) is generally smaller than field peppergrass, reddish rather than dark reddish-brown, the hilum area is rounded and the surface is not tuberculate."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Cresson blanc à gousses globuleuses",
+                "scientific_name": "Lepidium appelianum",
+                "description": "Le cresson blanc à gousses globuleuses a une forme ovale similaire et une surface rugueuse comme le cresson des champs. Le cresson blanc à gousses globuleuses (longueur : 2,0 - 2,5 mm ; largeur : 1,3 - 1,8 mm) est généralement plus petit que le cresson des champs, de couleur rougeâtre plutôt que brun rougeâtre foncé, la zone du hilum est arrondie et la surface n'est pas tuberculée."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lepidium_campestre_04cnsh_1475603133688_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lepidium_campestre_02cnsh_1475603113463_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lepidium_campestre_copyright_1475603196909_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lepidium_campestre_01cnsh_1475603092319_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lepidium_appelianum_02cnsh_1475602944981_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lepidium_appelianum_03cnsh_1475602965290_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lepidium_appelianum_05cnsh_1475603010855_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/lepidium-campestre/eng/1476287494739/1476287495238"
+}

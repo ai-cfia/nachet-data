@@ -1,0 +1,86 @@
+{
+    "scientific_name": "Datura stramonium",
+    "family": {
+        "en": "Solanaceae",
+        "fr": "Solanacées"
+    },
+    "common_name": {
+        "en": "Jimsonweed",
+        "fr": "Datura stramoine"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.5,
+            4.0
+        ],
+        "seed_width": [
+            2.5,
+            3.0
+        ],
+        "shape": {
+            "en": "Rounded D-shaped seed, compressed, hilum is along the narrow edge",
+            "fr": "Graine en forme de D arrondi, comprimée, le hile est le long du bord étroit"
+        },
+        "surface_texture": {
+            "en": "Seed dull, pitted surface with wrinkles",
+            "fr": "Graine mate, surface rugueuse avec des rides"
+        },
+        "colour": {
+            "en": "Seed dull black to brown; immature seeds are lighter",
+            "fr": "Graine noire à brun terne ; les graines immatures sont plus claires"
+        },
+        "other_features": {
+            "en": "The hilum is triangular, 1.0 mm long and filled with white to pinkish tissue. There is a small bump at the bottom of the hilum",
+            "fr": "Le hile est triangulaire, long de 1,0 mm et rempli de tissu blanc à rosâtre. Il y a une petite bosse au bas du hile"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Buffalo bur",
+                "scientific_name": "Solanum rostratum",
+                "description": "The seeds are a similar rounded D-shape, pitted surface, compressed and black colour as jimsonweed. Buffalo bur seeds (length: 2.5 - 3.3 mm; width: 2.3 - 2.5 mm) are generally smaller than jimsonweed, have a deeply pitted surface, wavy edges, and an open hilum."
+            },
+            {
+                "name": "Large thorn apple",
+                "scientific_name": "Datura ferox",
+                "description": "The seeds of large thorn apple are the same rounded D-shape, size, black colour and dull, pitted and wrinkled surface as jimsonweed. The hilum of large thorn apple is oval with rounded edges, not triangular with straight edges as jimsonweed. There is also a notch next to the hilum, rather than a bump as in jimsonweed."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Buffalo bur",
+                "scientific_name": "Solanum rostratum",
+                "description": "Les graines sont de forme arrondie en D, avec une surface piquetée, comprimées et de couleur noire comme la datura stramoine. Les graines de buffalo bur (longueur : 2,5 - 3,3 mm ; largeur : 2,3 - 2,5 mm) sont généralement plus petites que celles de la datura stramoine, elles ont une surface profondément piquetée, des bords ondulés et un hile ouvert."
+            },
+            {
+                "name": "Grande datura",
+                "scientific_name": "Datura ferox",
+                "description": "Les graines de grande datura ont la même forme arrondie en D, la même taille, la même couleur noire et la même surface mate, piquetée et ridée que la datura stramoine. Le hile de la grande datura est ovale avec des bords arrondis, et non triangulaire avec des bords droits comme la datura stramoine. Il y a également une encoche à côté du hile, plutôt qu'une bosse comme dans la datura stramoine."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_datura_stramonium_01cnsh_1475596838760_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_datura_stramonium_04cnsh_1475596887082_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_solanum_rostratum_02cnsh_1475606792444_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_datura_ferox_04cnsh_1475596805981_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/datura-stramonium/eng/1476290557484/1476290557859"
+}

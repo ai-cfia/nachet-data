@@ -1,0 +1,78 @@
+{
+    "scientific_name": "Neslia paniculata",
+    "family": {
+        "en": "Brassicaceae",
+        "fr": "Brassicacées"
+    },
+    "common_name": {
+        "en": "Ball mustard",
+        "fr": "Moutarde en boule"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual",
+            "Winter annual"
+        ],
+        "fr": [
+            "Annuelle",
+            "Annuelle d'hiver"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Single-seeded pod (does not split open at maturity)",
+        "fr": "Gousse à une seule graine (ne s'ouvre pas à maturité)"
+    },
+    "identification_features": {
+        "seed_length": [
+            1.5,
+            2.0
+        ],
+        "seed_width": [
+            2.0,
+            2.5
+        ],
+        "shape": {
+            "en": "Oval to globular",
+            "fr": "Ovale à globulaire"
+        },
+        "surface_texture": {
+            "en": "Network of ridges (fine network of lines between ridges)",
+            "fr": "Réseau de crêtes (fin réseau de lignes entre les crêtes)"
+        },
+        "colour": {
+            "en": "Light brown to medium brown (pod), Orange (seed)",
+            "fr": "Brun clair à brun moyen (gousse), Orange (graine)"
+        },
+        "other_features": {
+            "en": "Ball mustard is usually encountered in the pod. Naked seed is oily and fragile.",
+            "fr": "La moutarde en boule est généralement rencontrée dans la gousse. La graine nue est huileuse et fragile."
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "White ball-mustard",
+                "scientific_name": "Calepina irregularis",
+                "description": "Native to Europe; found only in Virginia and North Carolina. Pods are similar to ball mustard in size (white ball-mustard is ~0.5 mm larger), oval shape and presence of a single seed. Pod is covered by a network of ridges (ridges are more widely spaced than those on ball mustard pod). One end of pod is drawn into a point."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Moutarde blanche en boule",
+                "scientific_name": "Calepina irregularis",
+                "description": "Originaire d'Europe ; se trouve uniquement en Virginie et en Caroline du Nord. Les gousses sont similaires à celles de la moutarde en boule en termes de taille (la moutarde blanche en boule est ~0,5 mm plus grande), de forme ovale et de présence d'une seule graine. La gousse est recouverte d'un réseau de crêtes (les crêtes sont plus espacées que celles de la gousse de moutarde en boule). Une extrémité de la gousse est pointue."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_neslia_paniculata_img3_1405078616805_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_neslia_paniculata_img2_1405078587258_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_neslia_paniculata_img1_1405078558382_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_calepina_irregularis_img1_1405078668477_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/neslia-paniculata/eng/1405359917792/1405359918698"
+}

@@ -1,0 +1,80 @@
+{
+    "scientific_name": "Eriochloa villosa",
+    "family": {
+        "en": "Poaceae",
+        "fr": "Poacées"
+    },
+    "common_name": {
+        "en": "Woolly cup grass",
+        "fr": "Herbe à coupe laineuse"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Spikelet",
+        "fr": "Épillet"
+    },
+    "identification_features": {
+        "seed_length": [
+            3.9,
+            6.2
+        ],
+        "seed_width": [
+            2.0,
+            3.2
+        ],
+        "shape": {
+            "en": "Ovate-shaped spikelet with a pointed tip, compressed dorsiventrally",
+            "fr": "Épillet en forme d'ovale avec une pointe pointue, comprimé dorsiventrallement"
+        },
+        "surface_texture": {
+            "en": "Glumes and sterile floret of spikelet are smooth and leathery; fertile floret is hard with a grid pattern",
+            "fr": "Les glumes et la fleur stérile de l'épillet sont lisses et coriaces ; la fleur fertile est dure avec un motif en grille"
+        },
+        "colour": {
+            "en": "The spikelet is straw yellow, often with purple streaks; floret is straw yellow",
+            "fr": "L'épillet est jaune paille, souvent avec des stries violettes ; la fleur est jaune paille"
+        },
+        "other_features": {
+            "en": "Ring of hardened tissue at the base of the spikelet",
+            "fr": "Anneau de tissu durci à la base de l'épillet"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Field paspalum",
+                "scientific_name": "Paspalum laeve",
+                "description": "The two species are a similar size, straw-yellow colour, oval shape, and flattened cross-section. Field paspalum spikelets have humped profiles, papery glumes and no purple streaks, while woolly cup grass spikelets are flattened in profile; have leathery glumes and purple streaks. Field paspalum does not have a ring of tissue at the base of its spikelet."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Paspalum lisse",
+                "scientific_name": "Paspalum laeve",
+                "description": "Les deux espèces ont une taille similaire, une couleur jaune paille, une forme ovale et une section transversale aplatie. Les épillets de paspalum lisse ont des profils bosselés, des glumes papier et aucune stries violettes, tandis que les épillets d'herbe à coupe laineuse sont aplatis en profil ; ont des glumes coriaces et des stries violettes. Le paspalum lisse n'a pas d'anneau de tissu à la base de son épillet."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Eriochloa_villosa_img7_1504021374702_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Eriochloa_villosa_img4_1397669739858_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Eriochloa_villosa_img2_1397669706139_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Eriochloa_villosa_img1_1397669690217_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Eriochloa_villosa_img8_1504021392156_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Eriochloa_villosa_img3_1397669723233_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Eriochloa_villosa_img5_1397669763202_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Eriochloa_villosa_img6_1504021352203_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/eriochloa-villosa/eng/1397676750035/1397676778948"
+}

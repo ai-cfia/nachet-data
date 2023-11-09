@@ -1,0 +1,80 @@
+{
+    "scientific_name": "Bromus tectorum",
+    "family": {
+        "en": "Poaceae",
+        "fr": "Poacées"
+    },
+    "common_name": {
+        "en": "Downy brome",
+        "fr": "Brome pubescent"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual",
+            "Winter annual"
+        ],
+        "fr": [
+            "Annuelle",
+            "Annuelle d'hiver"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Floret",
+        "fr": "Fleuron"
+    },
+    "identification_features": {
+        "seed_length": [
+            9.0,
+            12.0
+        ],
+        "seed_width": [
+            1.0,
+            2.0
+        ],
+        "shape": {
+            "en": "Elongate oval-shaped floret with a flared top",
+            "fr": "Fleuron de forme ovale allongée avec le sommet évasé"
+        },
+        "surface_texture": {
+            "en": "Lemma and palea are papery with hyaline margins, glabrous or hairy",
+            "fr": "Le lemma et la palea sont papier avec des marges hyalines, glabres ou poilus"
+        },
+        "colour": {
+            "en": "Florets are straw-yellow, may have a purplish wash",
+            "fr": "Les fleurons sont jaune paille, peuvent avoir une teinte violacée"
+        },
+        "other_features": {
+            "en": "Palea teeth longer than 1.0 mm. Floret is curved away from the palea. Caryopsis is usually dark purple, can be reddish-brown.",
+            "fr": "Les dents de la palea sont plus longues que 1,0 mm. Le fleuron est courbé loin de la palea. La caryopse est généralement de couleur violet foncé, peut être brun rougeâtre."
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Barren brome",
+                "scientific_name": "Bromus sterilis",
+                "description": "Barren brome has a similar elongate shape with an awn of similar length, and is also curved away from the palea. Barren brome has small palea teeth, a brown caryopsis that can be flat or folded and the lemma is 14.0 - 20.0 mm long. Downy brome has long palea teeth, a purple, flat caryopsis and the lemma is 9.0 - 12.0 mm long, shorter than barren brome."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Brome stérile",
+                "scientific_name": "Bromus sterilis",
+                "description": "Le brome stérile a une forme allongée similaire avec une arête de longueur similaire et est également courbé loin de la palea. Le brome stérile a de petites dents de palea, une caryopse brune qui peut être plate ou pliée et le lemma mesure 14,0 - 20,0 mm de long. Le brome pubescent a de longues dents de palea, une caryopse violette et plate et le lemma mesure 9,0 - 12,0 mm de long, plus court que le brome stérile."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_tectorum_02cnsh_1475592244608_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_tectorum_04cnsh_1475592266909_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_tectorum_copyright_1475592315245_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_tectorum_06cnsh_1475592292075_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_sterilis_02cnsh_1475592200309_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_sterilis_03cnsh_1475592220201_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/bromus-tectorum/eng/1473682049891/1473682050410"
+}

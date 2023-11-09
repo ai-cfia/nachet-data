@@ -1,0 +1,78 @@
+{
+    "scientific_name": "Aegilops cylindrica",
+    "family": {
+        "en": "Poaceae",
+        "fr": "Poacées"
+    },
+    "common_name": {
+        "en": "Jointed goatgrass",
+        "fr": "Égilope cylindrique"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Winter Annual"
+        ],
+        "fr": [
+            "Annuelle hivernale"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Spikelet",
+        "fr": "Épillet"
+    },
+    "identification_features": {
+        "seed_length": [
+            8.0,
+            10.0
+        ],
+        "seed_width": [
+            2.0,
+            3.0
+        ],
+        "shape": {
+            "en": "Cylindrical with flat ends",
+            "fr": "Cylindrique avec des extrémités plates"
+        },
+        "surface_texture": {
+            "en": "Smooth with longitudinal ridges and may have scattered short hairs",
+            "fr": "Lisse avec des crêtes longitudinales et peut avoir des poils courts dispersés"
+        },
+        "colour": {
+            "en": "Green when immature, golden-yellow when mature, some are purplish tinged",
+            "fr": "Vert quand immature, jaune doré quand mature, certains sont teintés de pourpre"
+        },
+        "other_features": {
+            "en": "Spikelets are embedded in a rachis segment that floats in water. Lower spikelet segments may have awns 3.0 mm - 9.0 mm long, upper spikelets often have longer awns",
+            "fr": "Les épillets sont encastrés dans un segment de rachis qui flotte dans l'eau. Les segments inférieurs des épillets peuvent avoir des arêtes de 3,0 mm à 9,0 mm de long, les épillets supérieurs ont souvent des arêtes plus longues"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Itchgrass",
+                "scientific_name": "Rottboellia cochinchinensis",
+                "description": "Itchgrass has similar cylindrical spikelet segments as jointed goatgrass. The spikelet segments of itchgrass are shorter and wider than jointed goatgrass, and lacks hairs and awns."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Rottboellia cochinchinensis",
+                "scientific_name": "Rottboellia cochinchinensis",
+                "description": "Rottboellia cochinchinensis a des segments d'épillets cylindriques similaires à ceux de l'égilope cylindrique. Les segments d'épillets de Rottboellia cochinchinensis sont plus courts et plus larges que ceux de l'égilope cylindrique, et ne possèdent ni poils ni arêtes."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_aegilops_cylindrica_05cnsh_1475586018990_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_aegilops_cylindrica_copyright_1475586050453_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_aegilops_cylindricia_10cnsh_1475586082076_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_aegilops_cylindrica_03cnsh_1475585985240_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_rottboellia_cochinchinensis_01cnsh_alternate_1475605832110_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_rottboellia_cochinchinensis_03cnsh_alternate_1475605852168_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/aegilops-cylindrica/eng/1396452201582/1396452202582"
+}

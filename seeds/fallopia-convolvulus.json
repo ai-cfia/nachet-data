@@ -1,0 +1,76 @@
+{
+    "scientific_name": "Fallopia convolvulus",
+    "family": {
+        "en": "Polygonaceae",
+        "fr": "Polygonacées"
+    },
+    "common_name": {
+        "en": "Wild buckwheat",
+        "fr": "Renouée liseron"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.5,
+            3.5
+        ],
+        "seed_width": [
+            2.0,
+            2.5
+        ],
+        "shape": {
+            "en": "Oval (widest at middle)",
+            "fr": "Ovale (plus large au milieu)"
+        },
+        "surface_texture": {
+            "en": "Roughened with fine lines",
+            "fr": "Rugueuse avec de fines lignes"
+        },
+        "colour": {
+            "en": "Mature achenes: black, Immature achenes: dull brown",
+            "fr": "Akènes matures : noirs, Akènes immatures : brun terne"
+        },
+        "other_features": {
+            "en": "Outer covering may wholly or partially cover the achene. Outer covering is light brown, slightly wrinkled and papery, with lines where lobes overlap.",
+            "fr": "L'enveloppe externe peut recouvrir entièrement ou partiellement l'akène. L'enveloppe externe est de couleur brun clair, légèrement ridée et papier, avec des lignes là où les lobes se chevauchent."
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Prostrate knotweed",
+                "scientific_name": "Polygonum aviculare",
+                "description": "Found across Canada and the United States. Similar to wild buckwheat in size (prostrate knotweed is slightly smaller in width by 0.5 mm), black colour, triangular cross-section, widespread distribution and roughened surface texture. Seeds do not have smooth edges. Obovate (egg-shaped) outline, with widest point below middle."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Renouée des oiseaux",
+                "scientific_name": "Polygonum aviculare",
+                "description": "Présente partout au Canada et aux États-Unis. Similaire à la renouée liseron en termes de taille (la renouée des oiseaux est légèrement plus petite en largeur de 0,5 mm), de couleur noire, de section triangulaire, de distribution répandue et de texture de surface rugueuse. Les graines n'ont pas de bords lisses. Contour obovale (en forme d'œuf), avec le point le plus large en dessous du milieu."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_fallopia_convolvulus_img4_1404909469473_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_fallopia_convolvulus_img2_1404908077432_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_fallopia_convolvulus_img3_1404908115214_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_polygonum_aviculare_img1_1404909528567_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/fallopia-convolvulus/eng/1405080548926/1405080549926"
+}

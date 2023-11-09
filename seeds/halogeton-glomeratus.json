@@ -1,0 +1,84 @@
+{
+    "scientific_name": "Halogeton glomeratus",
+    "family": {
+        "en": "Chenopodiaceae",
+        "fr": "Chénopodiacées"
+    },
+    "common_name": {
+        "en": "Halogeton",
+        "fr": "Halogeton"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual",
+            "Winter annual"
+        ],
+        "fr": [
+            "Annuelle",
+            "Annuelle d'hiver"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Utricle",
+        "fr": "Utricule"
+    },
+    "identification_features": {
+        "seed_length": [
+            1.3,
+            2.6
+        ],
+        "seed_width": [
+            1.0,
+            1.8
+        ],
+        "shape": {
+            "en": "Oval-shaped utricle with a protruding radicle tip; compressed",
+            "fr": "Utricule de forme ovale avec une pointe de radicelle saillante ; comprimée"
+        },
+        "surface_texture": {
+            "en": "Utricle has a dull surface texture",
+            "fr": "L'utricle a une texture de surface terne"
+        },
+        "colour": {
+            "en": "Utricle is brown-orange, perianth is straw yellow",
+            "fr": "L'utricle est brun-orange, le périanthe est jaune paille"
+        },
+        "other_features": {
+            "en": "Tightly coiled embryo can be seen through utricle and seed walls. The perianth of some utricles are drawn out into wings at the top of the fruit, 1.5 - 3.0 mm long",
+            "fr": "L'embryon étroitement enroulé peut être vu à travers l'utricle et les parois de la graine. Le périanthe de certains utricules se prolonge en ailes au sommet du fruit, de 1,5 à 3,0 mm de long"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Russian thistle",
+                "scientific_name": "Salsola tragus",
+                "description": "Similar fruit shape, both have a coiled embryo visible through the utricle and seed walls. The utricle of Russian thistle is thicker than halogeton which is compressed. Russian thistle utricles have a perianth of a similar shape as halogeton, but the colour is grey and it is funnel-shaped while halogeton is compressed."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Chardon russe",
+                "scientific_name": "Salsola tragus",
+                "description": "Forme de fruit similaire, les deux ont un embryon enroulé visible à travers l'utricle et les parois de la graine. L'utricle du chardon russe est plus épais que celui de l'halogeton qui est comprimé. Les utricules du chardon russe ont une forme similaire à celle de l'halogeton, mais la couleur est grise et il est en forme d'entonnoir tandis que l'halogeton est comprimé."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_halogeton_glomeratus_07cnsh_1475602458458_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_halogeton_glomeratus_09cnsh_1475602476771_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_halogeton_glomeratus_05cnsh_1475602430784_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_halogeton_glomeratus_03cnsh_1475602385780_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_halogeton_glomeratus_01cnsh_1475602341431_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_halogeton_glomeratus_04cnsh_1475602408131_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_halogeton_glomeratus_03cnsh_1475602385780_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_halogeton_glomeratus_01cnsh_1475602341431_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_salsola_tragus_01cnsh_1475605999378_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_salsola_tragus_02cnsh_1475606018088_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/halogeton-glomeratus/eng/1476288469638/1476288470137"
+}

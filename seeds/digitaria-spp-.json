@@ -1,0 +1,72 @@
+{
+    "scientific_name": "Digitaria spp.",
+    "family": {
+        "en": "Poaceae",
+        "fr": "Poacées"
+    },
+    "common_name": {
+        "en": "Crabgrass",
+        "fr": "Digitaires"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual",
+            "Perennial"
+        ],
+        "fr": [
+            "Annuelle",
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Spikelet",
+        "fr": "Épillet"
+    },
+    "identification_features": {
+        "seed_length": [],
+        "seed_width": [],
+        "shape": {
+            "en": "Short or long oval-shaped; pointed at the top",
+            "fr": "En forme d'ovale court ou long ; pointu au sommet"
+        },
+        "surface_texture": {
+            "en": "Papery and hairy",
+            "fr": "Papier et poilu"
+        },
+        "colour": {
+            "en": "Spikelet glumes straw-yellow; florets generally brown or greenish-brown; some species black",
+            "fr": "Glumes de l'épillet jaune paille ; les fleurons sont généralement brun ou brun verdâtre ; certaines espèces sont noires"
+        },
+        "other_features": {
+            "en": "Long oval-shaped Digitaria spp. spikelets have a distinctive pointed glume partially covering the lemma. In short oval-shaped Digitaria spp. spikelets, the glume covers the entire lemma. Digitaria spp. florets do not have rachillas or pedicels, conspicuous palea teeth or a distinct callus",
+            "fr": "Les épillets de Digitaria spp. en forme d'ovale long ont une glume pointue distinctive qui recouvre partiellement le lemma. Dans les épillets de Digitaria spp. en forme d'ovale court, la glume recouvre entièrement le lemma. Les fleurons de Digitaria spp. n'ont pas de rachilles ou de pédicelles, de dents de paléa visibles ou de callosités distinctes"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Paniceae genera",
+                "scientific_name": "",
+                "description": "Genera from the same tribe as Digitaria spp., Paniceae, have certain features that distinguish them from other tribes in the Poaceae: Shed as a spikelet. Spikelets have papery, unequal glumes, a papery sterile floret and a hard, shell-like or leathery fertile floret. Florets lack a rachilla or pedicels. Inconspicuous palea teeth. Florets tend to be short oval rather than elongate."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Genres de Paniceae",
+                "scientific_name": "",
+                "description": "Les genres de la même tribu que Digitaria spp., Paniceae, ont certaines caractéristiques qui les distinguent des autres tribus de la famille des Poacées : Se détache en tant qu'épillet. Les épillets ont des glumes papier inégales, un fleuron stérile papier et un fleuron fertile dur, en forme de coquille ou coriace. Les fleurons n'ont pas de rachille ou de pédicelles. Dents de paléa peu visibles. Les fleurons ont tendance à être courts et ovales plutôt qu'allongés."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_digitaria_ischaemum_03cnsh_1475597211696_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_digitaria_sanguinalis_02cnsh_1475597251336_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_digitaria_sanguinalis_01cnsh_1475597231618_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_digitaria_ciliaris_03cnsh_1475597185752_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_digitaria_sanguinalis_03cnsh_1475597271606_eng.jpg"
+        ],
+        "similar_species": []
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/digitaria-spp-/eng/1476289904010/1476289904416"
+}

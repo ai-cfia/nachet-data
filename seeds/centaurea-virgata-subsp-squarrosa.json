@@ -1,0 +1,77 @@
+{
+    "scientific_name": "Centaurea virgata subsp. squarrosa",
+    "family": {
+        "en": "Asteraceae",
+        "fr": "Asteraceae"
+    },
+    "common_name": {
+        "en": "Squarrose knapweed",
+        "fr": "Centaurée squarreuse"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.5,
+            3.5
+        ],
+        "seed_width": [
+            1.5
+        ],
+        "shape": {
+            "en": "Achene is oblong with a rounded bottom and flat top, laterally compressed with a small notch near the base",
+            "fr": "L'akène est oblong avec une base arrondie et un sommet plat, comprimé latéralement avec une petite encoche près de la base"
+        },
+        "surface_texture": {
+            "en": "Achene is smooth and dull",
+            "fr": "L'akène est lisse et terne"
+        },
+        "colour": {
+            "en": "Light brown to straw-coloured achene with strong central stripe, numerous thin side stripes and a pale area around the basal notch",
+            "fr": "Akène brun clair à couleur paille avec une bande centrale prononcée, de nombreuses bandes latérales fines et une zone pâle autour de l'encoche basale"
+        },
+        "other_features": {
+            "en": "Collar at top of the achene is narrow and yellowish. Notch at the base of the achene is shallow (under 1.0 mm depth).",
+            "fr": "Le collier en haut de l'akène est étroit et jaunâtre. L'encoche à la base de l'akène est peu profonde (moins de 1,0 mm de profondeur)."
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Spotted knapweed",
+                "scientific_name": "Centaurea stoebe",
+                "description": "Spotted knapweed achenes are a similar size, oblong shape, dark colour, striped pattern and pappus length as squarrose knapweed. Spotted knapweed is narrower (by 0.5 mm), often lighter in colour with a shallower notch (by 0.5 mm) and a narrower pale area around the notch than squarrose knapweed."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Centaurée maculée",
+                "scientific_name": "Centaurea stoebe",
+                "description": "Les akènes de la centaurée maculée sont de taille similaire, de forme oblongue, de couleur foncée, avec un motif rayé et une longueur de pappus similaire à la centaurée squarreuse. La centaurée maculée est plus étroite (de 0,5 mm), souvent plus claire avec une encoche plus peu profonde (de 0,5 mm) et une zone pâle plus étroite autour de l'encoche que la centaurée squarreuse."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_virgata_02cnsh_1475593961246_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_virgata_01cnsh_1475593926110_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_virgata_03cnsh_1475593990947_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_virgata_04cnsh_1475594051016_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_stoebe_05cnsh_1475593869099_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_stoebe_01cnsh_1475593792749_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/centaurea-virgata-subsp-squarrosa/eng/1475881483177/1475881483683"
+}

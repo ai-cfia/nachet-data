@@ -1,0 +1,78 @@
+{
+    "scientific_name": "Solanum carolinense",
+    "family": {
+        "en": "Solanaceae",
+        "fr": "Solanacées"
+    },
+    "common_name": {
+        "en": "Horse nettle",
+        "fr": "Morelle de Caroline"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            1.7,
+            3.5
+        ],
+        "seed_width": [
+            1.4,
+            2.1
+        ],
+        "shape": {
+            "en": "Oval shaped seed, flattened",
+            "fr": "Graine de forme ovale, aplatie"
+        },
+        "surface_texture": {
+            "en": "Faint pattern of wavy-edged cells on seed surface can be seen under magnification",
+            "fr": "Un léger motif de cellules à bords ondulés peut être observé à la surface de la graine sous grossissement"
+        },
+        "colour": {
+            "en": "Seed yellow to orange",
+            "fr": "Graine jaune à orange"
+        },
+        "other_features": {
+            "en": "Hilum is a slit along the narrow edge of seed and is 0.5 mm long",
+            "fr": "L'hile est une fente le long du bord étroit de la graine et mesure 0,5 mm de long"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Silverleaf nightshade",
+                "scientific_name": "Solanum elaeagnifolium",
+                "description": "Silverleaf nightshade seeds are a similar flattened oval shape, and smooth surface as horse nettle seeds. Silverleaf nightshade seeds (length: 3.0 - 4.0 mm; width: 2.3 - 3.5 mm) are generally larger than horse nettle seeds, brown coloured and the surface pattern is long, wavy lines around the outside of the seed."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Morelle faux-jasmin",
+                "scientific_name": "Solanum elaeagnifolium",
+                "description": "Les graines de morelle faux-jasmin ont une forme ovale aplatie similaire et une surface lisse comme les graines de morelle de Caroline. Les graines de morelle faux-jasmin (longueur : 3,0 - 4,0 mm ; largeur : 2,3 - 3,5 mm) sont généralement plus grandes que les graines de morelle de Caroline, de couleur brune et le motif de surface est constitué de longues lignes ondulées autour de l'extérieur de la graine."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_solanum_carolinense_img2_1405428563617_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_solanum_carolinense_img4_1509564855642_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_solanum_carolinense_img3_1405428600852_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_solanum_carolinense_img1_1405428532914_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_Solanum_elaeagnifolium_img1_1397672204312_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_solanum_elaeagnifolium_img1_1405428665617_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/solanum-carolinense/eng/1405513776328/1405513777296"
+}

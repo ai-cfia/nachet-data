@@ -1,0 +1,75 @@
+{
+    "scientific_name": "Ulex europaeus",
+    "family": {
+        "en": "Fabaceae",
+        "fr": "Fabacées"
+    },
+    "common_name": {
+        "en": "Common gorse",
+        "fr": "Ajonc d'Europe"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "True seed",
+        "fr": "Graine véritable"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.0,
+            2.5
+        ],
+        "seed_width": [
+            2.0,
+            2.5
+        ],
+        "shape": {
+            "en": "Heart-shaped in outline, oval in cross-section",
+            "fr": "En forme de cœur en contour, ovale en coupe transversale"
+        },
+        "surface_texture": {
+            "en": "Smooth, with a slight sheen",
+            "fr": "Lisse, avec un léger éclat"
+        },
+        "colour": {
+            "en": "Dark greenish-brown when mature, light greenish-brown when immature",
+            "fr": "Marron verdâtre foncé à maturité, marron verdâtre clair à l'immaturité"
+        },
+        "other_features": {
+            "en": "Hilum is located in a notch at the top of the seed. Hilum is surrounded on 3 sides by a characteristic tissue (tissue is persistent and is usually found on processed seed)",
+            "fr": "L'hile est situé dans une encoche en haut de la graine. L'hile est entouré sur 3 côtés par un tissu caractéristique (le tissu est persistant et se trouve généralement sur les graines traitées)"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Scotch broom",
+                "scientific_name": "Cytisus scoparius",
+                "description": "Found in BC, NS, PE, and along both coasts of the United States. Similar to common gorse seeds in size (scotch broom seeds are ~0.5 mm longer), shape and the presence of tissue at the top. Light greenish- or reddish-brown (common gorse seeds are darker). Long oval in outline."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Genêt à balais",
+                "scientific_name": "Cytisus scoparius",
+                "description": "Trouvé en Colombie-Britannique, Nouvelle-Écosse, Île-du-Prince-Édouard et le long des deux côtes des États-Unis. Similaire aux graines d'ajonc d'Europe en termes de taille (les graines de genêt à balais sont ~0,5 mm plus longues), de forme et de présence de tissu en haut. Marron verdâtre clair ou rougeâtre (les graines d'ajonc d'Europe sont plus foncées). Long ovale en contour."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_ulex_europaeus_img2_1405512116000_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_ulex_europaeus_img1_1405512081734_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_cytisus_scoparius_img1_1405535456184_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/ulex-europaeus/eng/1405514018375/1405514019171"
+}

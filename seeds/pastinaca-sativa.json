@@ -1,0 +1,80 @@
+{
+    "scientific_name": "Pastinaca sativa",
+    "family": {
+        "en": "Apiaceae",
+        "fr": "Apiacées"
+    },
+    "common_name": {
+        "en": "Wild parsnip",
+        "fr": "Panais sauvage"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Biennial"
+        ],
+        "fr": [
+            "Bisannuel"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Schizocarp",
+        "fr": "Schizocarpe"
+    },
+    "identification_features": {
+        "seed_length": [
+            3.5,
+            4.5
+        ],
+        "seed_width": [
+            4.5,
+            6.0
+        ],
+        "shape": {
+            "en": "Oval-shaped, flattened",
+            "fr": "De forme ovale, aplatie"
+        },
+        "surface_texture": {
+            "en": "Smooth, slightly wrinkled on dorsal side",
+            "fr": "Lisse, légèrement ridée sur le côté dorsal"
+        },
+        "colour": {
+            "en": "Straw-yellow with reddish oil ducts",
+            "fr": "Jaune paille avec des canaux d'huile rougeâtres"
+        },
+        "other_features": {
+            "en": "The dorsal side has four oil ducts that extend almost the length of the mericarp and three thin, arched ribs between them. The ventral side of the mericarp has two oil ducts and no ribs",
+            "fr": "Le côté dorsal comporte quatre canaux d'huile qui s'étendent presque sur toute la longueur du méricarpe et trois fines côtes arquées entre eux. Le côté ventral du méricarpe comporte deux canaux d'huile et aucune côte"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Cow parsnip",
+                "scientific_name": "Heracleum sphondylium subsp. montanum",
+                "description": "The fruits of cow parsnip are a similar flat oval shape, straw yellow colour with reddish oil ducts as wild parsnip. Wild parsnip fruits can be up to half as long as cow parsnip. The oil ducts of cow parsnip fruits reach almost to the base, and the dorsal ribs are not as prominent as wild parsnip."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Panais des montagnes",
+                "scientific_name": "Heracleum sphondylium subsp. montanum",
+                "description": "Les fruits du panais des montagnes ont une forme ovale plate similaire, de couleur jaune paille avec des canaux d'huile rougeâtres comme le panais sauvage. Les fruits du panais sauvage peuvent être jusqu'à la moitié de la longueur du panais des montagnes. Les canaux d'huile des fruits du panais des montagnes atteignent presque la base et les côtes dorsales ne sont pas aussi saillantes que celles du panais sauvage."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_pastinaca_sativa_sativa_04cnsh_1475605440910_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_pastinaca_sativa_copyright_1475605341240_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_pastinaca_sativa_03cnsh_1475605291077_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_pastinaca_sativa_04cnsh_1475605320662_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_pastinaca_sativa_sativa_03cnsh_1475605373114_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_pastinaca_sativa_01cnsh_1475605263627_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_heracleum_sphondylium_01cnsh_1475602776988_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_heracleum_sphondylium_03cnsh_1475602797995_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/pastinaca-sativa/eng/1475881671321/1475881671682"
+}

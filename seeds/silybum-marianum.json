@@ -1,0 +1,79 @@
+{
+    "scientific_name": "Silybum marianum",
+    "family": {
+        "en": "Asteraceae",
+        "fr": "Asteraceae"
+    },
+    "common_name": {
+        "en": "Blessed milkthistle",
+        "fr": "Chardon-Marie"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual",
+            "Biennial"
+        ],
+        "fr": [
+            "Annuelle",
+            "Bisannuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            6.5,
+            7.5
+        ],
+        "seed_width": [
+            2.0,
+            2.5
+        ],
+        "shape": {
+            "en": "Oblong",
+            "fr": "Ovale"
+        },
+        "surface_texture": {
+            "en": "Smooth with a sheen",
+            "fr": "Lisse avec un éclat"
+        },
+        "colour": {
+            "en": "Dark brown with occasional golden streaks",
+            "fr": "Brun foncé avec des stries dorées occasionnelles"
+        },
+        "other_features": {
+            "en": "Achene has two ends. Top is a lobed peg, ringed by thin rim (a remnant of the floral parts). Base is a small slit (seen only under magnification). A long white pappus may be present on freshly harvested seeds.",
+            "fr": "L'akène a deux extrémités. Le sommet est un tenon lobé, entouré d'une fine bordure (un reste des parties florales). La base est une petite fente (visible uniquement sous grossissement). Un long pappus blanc peut être présent sur les graines fraîchement récoltées."
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Nodding thistle",
+                "scientific_name": "Carduus nutans",
+                "description": "Found across Canada (except in NU, YT, NT) and the United States (except in Florida). One-half the length and width of blessed milkthistle. Similar to blessed milkthistle in shape, satiny surface texture, and the presence of prominent peg at top of achene. Top peg is not lobed, and is a lighter colour than blessed milkthistle."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Chardon penché",
+                "scientific_name": "Carduus nutans",
+                "description": "Trouvé à travers le Canada (sauf au NU, YT, NT) et aux États-Unis (sauf en Floride). La moitié de la longueur et de la largeur du chardon-Marie. Similaire au chardon-Marie en termes de forme, de texture de surface satinée et de la présence d'un tenon proéminent au sommet de l'akène. Le tenon supérieur n'est pas lobé et est d'une couleur plus claire que le chardon-Marie."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_silybum_marianum_img5_1405428400664_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_silybum_marianum_img3_1405428352102_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_silybum_marianum_img2_1405428301461_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_silybum_marianum_img4_1405428377446_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_carduus_nutans_img1_1405428448946_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/silybum-marianum/eng/1405360036042/1405360037120"
+}

@@ -1,0 +1,80 @@
+{
+    "scientific_name": "Euphorbia esula",
+    "family": {
+        "en": "Euphorbiaceae",
+        "fr": "Euphorbiacées"
+    },
+    "common_name": {
+        "en": "Leafy spurge",
+        "fr": "Euphorbe ésule"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.1,
+            3.0
+        ],
+        "seed_width": [
+            1.5,
+            2.3
+        ],
+        "shape": {
+            "en": "Oval-shaped seed; ends are slightly flattened",
+            "fr": "Graine de forme ovale ; les extrémités sont légèrement aplaties"
+        },
+        "surface_texture": {
+            "en": "Seed smooth, with a raphe on one side",
+            "fr": "Graine lisse, avec un raphé sur un côté"
+        },
+        "colour": {
+            "en": "Seed surface is usually light grey with reddish-brown mottles, but can be solid grey, orange or brown",
+            "fr": "La surface de la graine est généralement gris clair avec des taches brun rougeâtre, mais peut être gris uni, orange ou brun"
+        },
+        "other_features": {
+            "en": "The hilum is usually covered by a caruncle",
+            "fr": "L'hile est généralement recouvert d'une caroncule"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Cypress spurge",
+                "scientific_name": "Euphorbia cyparissias",
+                "description": "The seeds of cypress spurge have a similar oval shape, grey colour and tissue over the hilum as leafy spurge. Cypress spurge seeds (length: 2.0 - 2.5 mm; width: 2.0 - 2.3 mm) are generally shorter and wider than leafy spurge. Most are a solid light grey colour, but can be brown; all are without mottles."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Euphorbe cyprès",
+                "scientific_name": "Euphorbia cyparissias",
+                "description": "Les graines de l'euphorbe cyprès ont une forme ovale similaire, une couleur grise et un tissu sur l'hile comme l'euphorbe ésule. Les graines de l'euphorbe cyprès (longueur : 2,0 - 2,5 mm ; largeur : 2,0 - 2,3 mm) sont généralement plus courtes et plus larges que celles de l'euphorbe ésule. La plupart sont d'une couleur gris clair unie, mais peuvent être brunes ; toutes sont sans taches."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_euphorbia_esula_08cnsh_1475601908311_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_euphorbia_esula_x_section_copyright_1475601946908_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_euphorbia_esula_01cnsh_1475601428692_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_euphorbia_esula_04cnsh_1475601476211_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_euphorbia_esula_09cnsh_1475601928318_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_euphorbia_esula_07cnsh_1475601879863_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_euphorbia_cyparissias_01cnsh_1475601373408_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_euphorbia_cyparissias_02cnsh_1475601404636_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/euphorbia-esula/eng/1405080520629/1405080521707"
+}

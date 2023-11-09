@@ -1,0 +1,82 @@
+{
+    "scientific_name": "Avena fatua",
+    "family": {
+        "en": "Poaceae",
+        "fr": "Poacées"
+    },
+    "common_name": {
+        "en": "Wild oat",
+        "fr": "Avoine sauvage"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Floret",
+        "fr": "Fleuron"
+    },
+    "identification_features": {
+        "seed_length": [
+            10.0,
+            15.0
+        ],
+        "seed_width": [
+            2.5,
+            4.0
+        ],
+        "shape": {
+            "en": "Floret elongate; tapered at the top and narrowed at the base with a flared callus",
+            "fr": "Fleuron allongé ; effilé en haut et rétréci à la base avec un calus évasé"
+        },
+        "surface_texture": {
+            "en": "Floret has a rough surface",
+            "fr": "Le fleuron a une surface rugueuse"
+        },
+        "colour": {
+            "en": "Floret tends to be a reddish colour with a straw yellow tip, but can be straw yellow to brown",
+            "fr": "Le fleuron a tendance à être de couleur rougeâtre avec une pointe jaune paille, mais peut être jaune paille à brun"
+        },
+        "other_features": {
+            "en": "Callus at the base of the floret is prominent and spoon-shaped. Caryopsis is covered in hairs, the scutellum is absent and often has an indentation where the awn arose from the lemma. A strongly bent and twisted awn is attached to the upper 1/2 of the lemma; up to 40.0 mm long",
+            "fr": "Le calus à la base du fleuron est proéminent et en forme de cuillère. La caryopse est couverte de poils, le scutellum est absent et présente souvent une indentation où l'arête est apparue à partir de la lemme. Une arête fortement courbée et tordue est attachée à la moitié supérieure de la lemme ; jusqu'à 40,0 mm de long"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Tame oat",
+                "scientific_name": "Avena sativa",
+                "description": "Tame oat florets are similar to those of wild oat in length, elongated shape, lighter colour and a pointed rachilla. Tame oat florets tend to be wider (width: 2.5 - 4.5 mm), a uniform straw yellow (although red-brown and grey varieties occur), with a smooth to slightly pebbled surface. The callus of tame oat tends to be peg-like and fractured. There may be a rudimentary awn that does not create an indentation on the caryopsis."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Avoine cultivée",
+                "scientific_name": "Avena sativa",
+                "description": "Les fleurons de l'avoine cultivée sont similaires à ceux de l'avoine sauvage en termes de longueur, de forme allongée, de couleur plus claire et de rachille pointue. Les fleurons de l'avoine cultivée ont tendance à être plus larges (largeur : 2,5 - 4,5 mm), d'un jaune paille uniforme (bien que des variétés rouge-brun et gris existent), avec une surface lisse à légèrement granuleuse. Le calus de l'avoine cultivée a tendance à être en forme de cheville et fracturé. Il peut y avoir une arête rudimentaire qui ne crée pas d'indentation sur la caryopse."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_fatua_04cnsh_1475587220448_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_fatua_03cnsh_1475587161417_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_fatua_06cnsh_1475587243352_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_fatua_11cnsh_1475588358490_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_fatua_x_section_copyright_1475588381122_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_fatua_01cnsh_2_1475587067760_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_sativa_hulless_01cnsh_1475588481004_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_sativa_06cnsh_1475588459756_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_sativa_02cnsh_1475588403667_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_sativa_03cnsh_1475588427559_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/avena-fatua/eng/1473681928384/1473681928951"
+}

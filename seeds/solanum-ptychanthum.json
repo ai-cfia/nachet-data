@@ -1,0 +1,76 @@
+{
+    "scientific_name": "Solanum ptychanthum",
+    "family": {
+        "en": "Solanaceae",
+        "fr": "Solanacées"
+    },
+    "common_name": {
+        "en": "Eastern black nightshade",
+        "fr": "Morelle noire de l'Est"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "True seed",
+        "fr": "Vraie graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            1.5,
+            2.0
+        ],
+        "seed_width": [
+            1.0,
+            1.5
+        ],
+        "shape": {
+            "en": "Oval",
+            "fr": "Ovale"
+        },
+        "surface_texture": {
+            "en": "Glossy surface, covered with network of wavy-edged cells",
+            "fr": "Surface brillante, recouverte d'un réseau de cellules à bords ondulés"
+        },
+        "colour": {
+            "en": "Dull golden-yellow",
+            "fr": "Jaune doré terne"
+        },
+        "other_features": {
+            "en": "Hilum is a thin slit along thin edge area around hilum is pulled, elongating the seed",
+            "fr": "L'hile est une fente mince le long du bord fin, la zone autour de l'hile est tirée, allongeant la graine"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Black nightshade",
+                "scientific_name": "Solanum nigrum",
+                "description": "Found across Canada (except in the Far North) and along the coasts of the United States. Similar to eastern black nightshade in yellow colour and wavy-edged cell surface pattern. Larger than eastern black nightshade by ~0.5 mm. Teardrop shape, with no cell pattern in the centre."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Morelle noire",
+                "scientific_name": "Solanum nigrum",
+                "description": "Trouvée partout au Canada (sauf dans le Grand Nord) et le long des côtes des États-Unis. Similaire à la morelle noire de l'Est par sa couleur jaune et son motif de surface de cellules à bords ondulés. Plus grande que la morelle noire de l'Est d'environ 0,5 mm. Forme de goutte, sans motif de cellules au centre."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_solanum_ptychanthum_img2_1405428775524_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_solanum_ptychanthum_img1_1405428731555_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_solanum_nigrum_img2_1405428862852_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_solanum_nigrum_img1_1405428822789_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/solanum-ptychanthum/eng/1405513822359/1405513823125"
+}

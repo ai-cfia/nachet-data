@@ -1,0 +1,77 @@
+{
+    "scientific_name": "Avena sterilis",
+    "family": {
+        "en": "Poaceae",
+        "fr": "Poacées"
+    },
+    "common_name": {
+        "en": "Sterile oat",
+        "fr": "Avoine stérile"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Pair of florets",
+        "fr": "Paire d'épillets"
+    },
+    "identification_features": {
+        "seed_length": [
+            10.0,
+            27.0
+        ],
+        "seed_width": [
+            2.5,
+            4.0
+        ],
+        "shape": {
+            "en": "Floret elongate, tapers at top into long, papery lemma extensions",
+            "fr": "Épillet allongé, se rétrécissant vers le haut en de longues extensions de lemma papier"
+        },
+        "surface_texture": {
+            "en": "Floret pebbled texture",
+            "fr": "Texture de l'épillet en petits cailloux"
+        },
+        "colour": {
+            "en": "Florets tend to be reddish colour with straw yellow tips, but can be solid straw yellow",
+            "fr": "Les épillets ont tendance à être de couleur rougeâtre avec des extrémités jaune paille, mais peuvent être d'un jaune paille uniforme"
+        },
+        "other_features": {
+            "en": "Florets usually shed as a pair, but may detach during processing Callus at base of the first floret is prominent and elongated, the callus of the second floret is peg-like A strongly bent and twisted awn is attached to upper half of lemma; up to 80.0 mm long",
+            "fr": "Les épillets sont généralement perdus par paire, mais peuvent se détacher pendant le traitement Le cal de la première épillet est proéminent et allongé, celui de la deuxième épillet est en forme de cheville Une arête fortement courbée et torsadée est attachée à la moitié supérieure du lemma ; jusqu'à 80,0 mm de long"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Wild oat",
+                "scientific_name": "Avena fatua",
+                "description": "Wild oat florets are a similar elongated shape, reddish colour, presence of callus hairs, prominent callus, and twisted awn. Wild oat florets (length: 10.0 - 15.0 mm; width: 2.5 - 4.0 mm) are generally shorter, have a longer callus, not shed in pairs and the papery lemma tips are not as prominent as in sterile oat."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Avoine folle",
+                "scientific_name": "Avena fatua",
+                "description": "Les épillets de l'avoine folle ont une forme allongée similaire, une couleur rougeâtre, la présence de poils caliciformes, un cal proéminent et une arête torsadée. Les épillets de l'avoine folle (longueur : 10,0 - 15,0 mm ; largeur : 2,5 - 4,0 mm) sont généralement plus courts, ont un cal plus long, ne sont pas perdus par paires et les extrémités du lemma papier ne sont pas aussi proéminentes que chez l'avoine stérile."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_sterilis_08cnsh_1475588963697_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_sterilis_16cnsh_1475589090320_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_fatua_04cnsh_1475587220448_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_fatua_03cnsh_1475587161417_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_avena_fatua_11cnsh_1475588358490_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/avena-sterilis/eng/1473681944310/1473681944839"
+}

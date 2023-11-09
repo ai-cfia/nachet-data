@@ -1,0 +1,89 @@
+{
+    "scientific_name": "Bothriochloa ischaemum",
+    "family": {
+        "en": "Poaceae",
+        "fr": "Poacées"
+    },
+    "common_name": {
+        "en": "Yellow Bluestem",
+        "fr": "Bothriochloa ischaemum"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Spikelet",
+        "fr": "Épillet"
+    },
+    "identification_features": {
+        "seed_length": [
+            4.0,
+            5.0
+        ],
+        "seed_width": [
+            0.8,
+            1.0
+        ],
+        "shape": {
+            "en": "Long ovate with 2 stalks from the base",
+            "fr": "Long ovale avec 2 tiges à partir de la base"
+        },
+        "surface_texture": {
+            "en": "Smooth, dull to slightly shiny, with longitudinal furrows and scattered hairs on the dorsal side",
+            "fr": "Lisse, terne à légèrement brillant, avec des sillons longitudinaux et des poils dispersés sur le côté dorsal"
+        },
+        "colour": {
+            "en": "Pale yellow with purple tips",
+            "fr": "Jaune pâle avec des extrémités violettes"
+        },
+        "other_features": {
+            "en": "A pair of pedicels extend 3/4 up the ventral side of the spikelet. Pedicels may have sterile spikelets attached. Copious white hairs are found around the base, along the margins of the spikelet, and on the pedicels. Short teeth are evident along the upper margins of the dorsal side of the spikelet.",
+            "fr": "Une paire de pédicelles s'étend aux 3/4 du côté ventral de l'épillet. Les pédicelles peuvent avoir des épillets stériles attachés. De nombreux poils blancs se trouvent autour de la base, le long des marges de l'épillet et sur les pédicelles. De courtes dents sont visibles le long des marges supérieures du côté dorsal de l'épillet."
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Australian bluestem",
+                "scientific_name": "Bothriochloa bladhii",
+                "description": "Australian bluestem spikelets are a similar size, ovate shape, yellow colour and smooth surface as yellow bluestem. Australian bluestem spikelets are generally about 0.5 mm shorter than yellow bluestem and have a reddish cast and/or purple streaks on the glumes. The dorsal side of Australian bluestem spikelets is often dull with short, scattered hairs."
+            },
+            {
+                "name": "Silver beardgrass",
+                "scientific_name": "Bothriochloa laguroides",
+                "description": "Silver beardgrass spikelets are a similar size, ovate shape, yellow colour and smooth surface as yellow bluestem. Silver beardgrass spikelets (3.5 - 4.0 mm long) are generally shorter than yellow bluestem (4.0 - 5.0 mm long). The teeth on the dorsal glume of the spikelet appear shorter, and the hairs at the pedicel tip (5.0 - 7.0 mm long) are longer, compared to yellow bluestem (2.0 - 3.0 mm). The dorsal side of silver beardgrass spikelets is smooth, and a uniform colour, in yellow bluestem it is furrowed with purple tips."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Bothriochloa bladhii",
+                "scientific_name": "Bothriochloa bladhii",
+                "description": "Épillets de Bothriochloa bladhii de taille similaire, de forme ovale, de couleur jaune et de surface lisse comme ceux de Bothriochloa ischaemum. Les épillets de Bothriochloa bladhii sont généralement environ 0,5 mm plus courts que ceux de Bothriochloa ischaemum et ont une teinte rougeâtre et/ou des stries violettes sur les glumes. Le côté dorsal des épillets de Bothriochloa bladhii est souvent terne avec de courts poils dispersés."
+            },
+            {
+                "name": "Bothriochloa laguroides",
+                "scientific_name": "Bothriochloa laguroides",
+                "description": "Épillets de Bothriochloa laguroides de taille similaire, de forme ovale, de couleur jaune et de surface lisse comme ceux de Bothriochloa ischaemum. Les épillets de Bothriochloa laguroides (3,5 - 4,0 mm de long) sont généralement plus courts que ceux de Bothriochloa ischaemum (4,0 - 5,0 mm de long). Les dents sur la glume dorsale de l'épillet semblent plus courtes et les poils à l'extrémité du pédicelle (5,0 - 7,0 mm de long) sont plus longs, par rapport à Bothriochloa ischaemum (2,0 - 3,0 mm). Le côté dorsal des épillets de Bothriochloa laguroides est lisse et d'une couleur uniforme, tandis que celui de Bothriochloa ischaemum est sillonné avec des extrémités violettes."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_ischaemum_07cnsh_1475590279539_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_ischaemum_06cnsh_1475590251745_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_ischaemum_05cnsh_1475590217547_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_ischaemum_04cnsh_1475590150444_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_bladhi_07cnsh_1475590090449_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_bladhii_04cnsh_1475590122290_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_laguroides_torreyana_05cnsh_1475590390600_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/bothriochloa-ischaemum/eng/1397574589970/1397574804341"
+}

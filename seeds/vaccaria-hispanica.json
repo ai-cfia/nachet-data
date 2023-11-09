@@ -1,0 +1,76 @@
+{
+    "scientific_name": "Vaccaria hispanica",
+    "family": {
+        "en": "Caryophyllaceae",
+        "fr": "Caryophyllacées"
+    },
+    "common_name": {
+        "en": "Cow cockle",
+        "fr": "Vaccaria d'Espagne"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [],
+        "seed_width": [
+            1.5,
+            2.4
+        ],
+        "shape": {
+            "en": "Globose-shaped seed",
+            "fr": "Graine de forme globuleuse"
+        },
+        "surface_texture": {
+            "en": "Small tubercles in rows over seed surface",
+            "fr": "Petits tubercules en rangées sur la surface de la graine"
+        },
+        "colour": {
+            "en": "Mature seeds black; immature seeds reddish-brown",
+            "fr": "Graines matures noires ; graines immatures brun-rougeâtre"
+        },
+        "other_features": {
+            "en": "Slightly flattened around outside of seed Hilum a small opening on flattened edge",
+            "fr": "Légèrement aplatie autour de l'extérieur de la graine. Hilum est une petite ouverture sur le bord aplati"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Bouncingbet",
+                "scientific_name": "Saponaria officinalis",
+                "description": "Bouncingbet seeds are a similar size, black colour, round outline and rough surface as cow cockle seeds. Bouncingbet seeds are compressed, the hilum is in a notch, and the surface pattern is made of raised cells rather than tuberculate as cow cockle seeds."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Saponaire officinale",
+                "scientific_name": "Saponaria officinalis",
+                "description": "Les graines de saponaire officinale sont de taille similaire, de couleur noire, d'outline ronde et de surface rugueuse comme les graines de vaccaria d'Espagne. Les graines de saponaire officinale sont comprimées, le hilum est dans une encoche et le motif de surface est constitué de cellules surélevées plutôt que tuberculées comme les graines de vaccaria d'Espagne."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_vaccaria_hispanica_img2_1405512239484_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_vaccaria_hispanica_img4_1509983029511_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_vaccaria_hispanica_img5_1509983045405_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_vaccaria_hispanica_img1_1404823155694_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_vaccaria_hispanica_img3_1405512273031_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_saponaria_officinalis_img2_1509983006628_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_saponaria_officinalis_img1_1405512311984_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/vaccaria-hispanica/eng/1405513962218/1405513963015"
+}

@@ -1,0 +1,63 @@
+{
+    "scientific_name": "Peganum harmala",
+    "family": {
+        "en": "Nitrariaceae",
+        "fr": "Nitrariacées"
+    },
+    "common_name": {
+        "en": "African-rue",
+        "fr": "Rue africaine"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.0,
+            4.5
+        ],
+        "seed_width": [
+            1.5,
+            3.0
+        ],
+        "shape": {
+            "en": "Trigonous seed; shaped similar to an orange wedge",
+            "fr": "Graine trigone; de forme similaire à un quartier d'orange"
+        },
+        "surface_texture": {
+            "en": "Seed surface is rough, bubbled and/or covered with reticulations",
+            "fr": "La surface de la graine est rugueuse, bosselée et/ou recouverte de réticulations"
+        },
+        "colour": {
+            "en": "Seed is blackish-red to red, translucent",
+            "fr": "La graine est rouge noirâtre à rouge, translucide"
+        },
+        "other_features": {
+            "en": "Hilum is a small hole at one end.",
+            "fr": "L'hile est un petit trou à une extrémité."
+        }
+    },
+    "similar_species": {
+        "en": [],
+        "fr": []
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Peganum_harmala_img1_1397671158539_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Peganum_harmala_img2_1397671181633_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Peganum_harmala_img4_1504021610581_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Peganum_harmala_img3_1397671201680_eng.jpg"
+        ],
+        "similar_species": []
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/peganum-harmala/eng/1397749468442/1397749511997"
+}

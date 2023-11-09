@@ -1,0 +1,78 @@
+{
+    "scientific_name": "Heracleum mantegazzianum",
+    "family": {
+        "en": "Apiaceae",
+        "fr": "Apiacées"
+    },
+    "common_name": {
+        "en": "Giant hogweed",
+        "fr": "Berce du Caucase"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Monocarpic perennial (dies after flowering)"
+        ],
+        "fr": [
+            "Vivace monocarpique (meurt après la floraison)"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Schizocarp",
+        "fr": "Schizocarpe"
+    },
+    "identification_features": {
+        "seed_length": [
+            6.0,
+            18.0
+        ],
+        "seed_width": [
+            4.0,
+            10.0
+        ],
+        "shape": {
+            "en": "Long oval-shaped mericarp, flattened",
+            "fr": "Méricarpe de forme ovale allongée, aplatie"
+        },
+        "surface_texture": {
+            "en": "Mericarp smooth, dull",
+            "fr": "Méricarpe lisse, terne"
+        },
+        "colour": {
+            "en": "Mericarp straw yellow with reddish oil ducts",
+            "fr": "Méricarpe jaune paille avec des canaux d'huile rougeâtres"
+        },
+        "other_features": {
+            "en": "Teeth along the edge, especially near the top of the mericarp. The oil ducts extend 3/4 down the mericarp and have enlarged ends. The ventral side of the style remnant at the top of the mericarp is M-shaped",
+            "fr": "Dents le long du bord, surtout près du sommet du méricarpe. Les canaux d'huile s'étendent aux 3/4 du méricarpe et ont des extrémités élargies. Le côté ventral du reste du style au sommet du méricarpe est en forme de M"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Cow parsnip",
+                "scientific_name": "Heracleum sphondylium subsp. montanum",
+                "description": "Cow parsnip mericarps are similar size, oval shape, reddish oil ducts and straw yellow colour as giant hogweed. Cow parsnip mericarps have an arrow shape on the ventral side of the style remnant, no teeth on the margin, and have thinner oil ducts compared to giant hogweed."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Panais sauvage",
+                "scientific_name": "Heracleum sphondylium subsp. montanum",
+                "description": "Les méricarpes du panais sauvage sont de taille similaire, de forme ovale, avec des canaux d'huile rougeâtres et une couleur jaune paille comme la berce du Caucase. Les méricarpes du panais sauvage ont une forme de flèche sur le côté ventral du reste du style, pas de dents sur la marge et des canaux d'huile plus minces par rapport à la berce du Caucase."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_heracleum_mantegazzianum_img3_1405078107504_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_heracleum_mantegazzianum_img1_1405078049942_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_heracleum_mantegazzianum_img2_1405078082020_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_heracleum_sphondylium_img3_1405078248880_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_heracleum_sphondylium_img2_1405078195036_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_heracleum_sphondylium_img1_1405078162349_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/heracleum-mantegazzianum/eng/1405080674130/1405080674943"
+}

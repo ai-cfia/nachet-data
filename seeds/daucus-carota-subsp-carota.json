@@ -1,0 +1,80 @@
+{
+    "scientific_name": "Daucus carota subsp. carota",
+    "family": {
+        "en": "Apiaceae",
+        "fr": "Apiacées"
+    },
+    "common_name": {
+        "en": "Wild carrot",
+        "fr": "Carotte sauvage"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Biennial"
+        ],
+        "fr": [
+            "Bisannuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Schizocarp",
+        "fr": "Schizocarpe"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.0,
+            4.0
+        ],
+        "seed_width": [
+            1.3,
+            2.3
+        ],
+        "shape": {
+            "en": "Oval to teardrop-shaped mericarp, flat on one side, compressed",
+            "fr": "Méricarpe de forme ovale à en forme de goutte d'eau, plat d'un côté, comprimé"
+        },
+        "surface_texture": {
+            "en": "Mericarp dull, with 5 ribs on outer side and 2 small arched ribs on inner side",
+            "fr": "Méricarpe terne, avec 5 côtes sur le côté externe et 2 petites côtes arquées sur le côté interne"
+        },
+        "colour": {
+            "en": "Mericarp dull grey-brown with straw yellow ribs and bristles",
+            "fr": "Méricarpe d'un brun-gris terne avec des côtes et des soies jaune paille"
+        },
+        "other_features": {
+            "en": "Ribs on mericarp are straight; the oil ducts between have a smooth surface. Ribs on mericarp are usually winged with prominent hairs that may be removed during processing. Each rib is lined with small bristles that are visible even if the seed is worn. One end of the mericarp has a pointed remnant floral style",
+            "fr": "Les côtes du méricarpe sont droites ; les canaux d'huile entre elles ont une surface lisse. Les côtes du méricarpe sont généralement ailées avec des poils proéminents qui peuvent être enlevés lors du traitement. Chaque côte est bordée de petites soies qui sont visibles même si la graine est usée. Une extrémité du méricarpe a un reste pointu de style floral"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Poison hemlock",
+                "scientific_name": "Conium maculatum",
+                "description": "Poison hemlock has similar mericarp size, teardrop shape, dull brown-coloured fruits and distinct ribs as wild carrot. Poison hemlock (thickness: 1.3 - 2.0 mm) is generally thicker and lacks the rib-associated hairs of wild carrot. The mericarp surface of poison hemlock is wrinkled between wavy ribs, and wild carrot is smooth between straight ribs."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Ciguë tachetée",
+                "scientific_name": "Conium maculatum",
+                "description": "La ciguë tachetée a une taille de méricarpe similaire, une forme en goutte d'eau, des fruits de couleur brun terne et des côtes distinctes comme la carotte sauvage. La ciguë tachetée (épaisseur : 1,3 - 2,0 mm) est généralement plus épaisse et ne possède pas les poils associés aux côtes de la carotte sauvage. La surface du méricarpe de la ciguë tachetée est ridée entre les côtes ondulées, tandis que celle de la carotte sauvage est lisse entre les côtes droites."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_daucus_carota_copyright_1475597087462_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_daucus_carota_02cnsh_1475596964363_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_daucus_carota_04cnsh_1475597013070_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_daucus_carota_05cnsh_1475597042684_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_daucus_carota_x_section_copyright_1475597151344_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_conium_maculatum_02cnsh_1475595491871_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_conium_maculatum_05cnsh_1475595655103_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_conium_maculatum_01cnsh_1475595357453_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/daucus-carota-subsp-carota/eng/1476290268095/1476290268579"
+}

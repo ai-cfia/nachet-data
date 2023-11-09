@@ -1,0 +1,92 @@
+{
+    "scientific_name": "Elymus repens",
+    "family": {
+        "en": "Poaceae",
+        "fr": "Poacées"
+    },
+    "common_name": {
+        "en": "Quackgrass",
+        "fr": "Chiendent"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Floret",
+        "fr": "Fleuron"
+    },
+    "identification_features": {
+        "seed_length": [
+            5.0,
+            10.0
+        ],
+        "seed_width": [
+            1.0,
+            1.5
+        ],
+        "shape": {
+            "en": "Floret elongate, concave on palea side, lemma may have a short awn",
+            "fr": "Fleuron allongé, concave du côté de la paléole, la lemme peut avoir une courte arête"
+        },
+        "surface_texture": {
+            "en": "Floret surface is smooth with a shiny bump at the base of the lemma",
+            "fr": "La surface du fleuron est lisse avec une bosse brillante à la base de la lemme"
+        },
+        "colour": {
+            "en": "Floret straw-colour",
+            "fr": "Fleuron de couleur paille"
+        },
+        "other_features": {
+            "en": "The rachilla has parallel sides, with a U-shaped sinus at its base. The palea teeth are short and thick. No hairs on the callus at the base of the lemma",
+            "fr": "La rachille a des côtés parallèles, avec un sinus en forme de U à sa base. Les dents de la paléole sont courtes et épaisses. Pas de poils sur le calus à la base de la lemme"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Western wheatgrass",
+                "scientific_name": "Pascopyrum smithii",
+                "description": "The two species are similar in size, elongate shape and straw colour. Western wheatgrass florets have a transverse groove at the base of the lemma, two lines of hairs on the callus and mixed long and short teeth on the palea. The rachilla is wedge-shaped and arises from a V-shaped sinus. The lemma and palea may be covered in a whitish bloom."
+            },
+            {
+                "name": "Slender wheatgrass",
+                "scientific_name": "Elymus trachycaulus",
+                "description": "The two species are similar in size and elongate shape, although slender wheatgrass appears narrower than quackgrass. Slender wheatgrass florets tend to be paler, purple-tinged and with a slight twist. The callus has a line of hairs at the base of the lemma. Palea teeth are fine and close together, and the rachilla is covered in long hairs."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Agropyre à épi",
+                "scientific_name": "Pascopyrum smithii",
+                "description": "Les deux espèces sont similaires en taille, en forme allongée et en couleur paille. Les fleurons de l'agropyre à épi ont une rainure transversale à la base de la lemme, deux lignes de poils sur le calus et des dents de la paléole de longueurs mixtes. La rachille est en forme de coin et provient d'un sinus en forme de V. La lemme et la paléole peuvent être recouvertes d'une floraison blanchâtre."
+            },
+            {
+                "name": "Élyme des sables",
+                "scientific_name": "Elymus trachycaulus",
+                "description": "Les deux espèces sont similaires en taille et en forme allongée, bien que l'élyme des sables semble plus étroit que le chiendent. Les fleurons de l'élyme des sables ont tendance à être plus pâles, teintés de violet et légèrement torsadés. Le calus a une ligne de poils à la base de la lemme. Les dents de la paléole sont fines et rapprochées, et la rachille est couverte de longs poils."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_elytrigia_repens_05cnsh_1475597515205_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_elytrigia_repens_04cnsh_1475597485811_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_elytrigia_repens_07cnsh_1475597536215_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_elytrigia_repens_08cnsh_1475597557862_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_elytrigia_repens_elymus_repens_11cnsh_1475597700192_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_elytrigia_repens_10cnsh_1475597678617_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_pascopyrum_smithii_09cnsh_1475605197140_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_pascopyrum_smithii_16cnsh_1475605219330_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_pascopyrum_smithii_06cnsh_1475605175893_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_elymus_trachycaulus_01cnsh_1475597419956_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_elymus_trachycaulus_03cnsh_1475597449642_eng.jpg"
+        ],
+        "similar_species": []
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/elymus-repens/eng/1476289566353/1476289566696"
+}

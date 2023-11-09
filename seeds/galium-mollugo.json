@@ -1,0 +1,90 @@
+{
+    "scientific_name": "Galium mollugo",
+    "family": {
+        "en": "Rubiaceae",
+        "fr": "Rubiaceae"
+    },
+    "common_name": {
+        "en": "False baby's breath",
+        "fr": "Gaillet mollugine"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Schizocarp",
+        "fr": "Schizocarpe"
+    },
+    "identification_features": {
+        "seed_length": [
+            1.0,
+            2.0
+        ],
+        "seed_width": [
+            0.5,
+            1.5
+        ],
+        "shape": {
+            "en": "Reniform to round with longitudinal groove on ventral side",
+            "fr": "Reniforme à ronde avec une rainure longitudinale sur le côté ventral"
+        },
+        "surface_texture": {
+            "en": "Wrinkled, may also be bubbled",
+            "fr": "Ridée, peut également être bosselée"
+        },
+        "colour": {
+            "en": "Brown to dark-brown",
+            "fr": "Brun à brun foncé"
+        },
+        "other_features": {
+            "en": "The hilum is in a long groove on the inner side of the fruit",
+            "fr": "Le hile est dans une longue rainure sur le côté interne du fruit"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Northern bedstraw",
+                "scientific_name": "Galium boreale",
+                "description": "Fruits of northern bedstraw are a similar size, reniform shape, brown colour and grooved hilum as false baby's breath. Northern bedstraw fruits are covered in flat, white bristles, while fruits of false baby's breath are glabrous."
+            },
+            {
+                "name": "Yellow bedstraw",
+                "scientific_name": "Galium verum",
+                "description": "Fruits of yellow bedstraw are a similar reniform shape, brown colour, grooved hilum and glabrous, wrinkled surface as false baby's breath. Yellow bedstraw fruits tend to be longer than false baby's breath by up to 0.5 mm, more curved in cross-section and the surface is heavily wrinkled and bubbled."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Gaillet boréal",
+                "scientific_name": "Galium boreale",
+                "description": "Les fruits du gaillet boréal sont de taille similaire, de forme reniforme, de couleur brune et avec un hile rainuré comme le gaillet mollugine. Les fruits du gaillet boréal sont couverts de soies plates et blanches, tandis que les fruits du gaillet mollugine sont glabres."
+            },
+            {
+                "name": "Gaillet jaune",
+                "scientific_name": "Galium verum",
+                "description": "Les fruits du gaillet jaune sont de forme reniforme similaire, de couleur brune, avec un hile rainuré et une surface glabre et ridée comme le gaillet mollugine. Les fruits du gaillet jaune ont tendance à être plus longs que ceux du gaillet mollugine jusqu'à 0,5 mm, plus courbés en coupe transversale et la surface est fortement ridée et bosselée."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_galium_mollugo_xs_copyright_1475602195114_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_galium_mollugo_02cnsh_1475602125361_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_galium_mollugo_03cnsh_1475602144395_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_galium_mollugo_01cnsh_1475602095844_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_galium_boreale_01cnsh_1475602051555_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_galium_boreale_04cnsh_1475602071446_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_gallium_verum_01cnsh_1475602293223_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_gallium_verum_02cnsh_1475602314852_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/galium-mollugo/eng/1475881532159/1475881532626"
+}

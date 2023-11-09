@@ -1,0 +1,76 @@
+{
+    "scientific_name": "Ambrosia artemisiifolia",
+    "family": {
+        "en": "Asteraceae",
+        "fr": "Asteraceae"
+    },
+    "common_name": {
+        "en": "Common ragweed",
+        "fr": "Ambroisie à feuilles d'armoise"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene within a bur",
+        "fr": "Akène dans une bogue"
+    },
+    "identification_features": {
+        "seed_length": [
+            1.9,
+            3.7
+        ],
+        "seed_width": [
+            1.5,
+            2.8
+        ],
+        "shape": {
+            "en": "Bur and achene are obovate",
+            "fr": "La bogue et l'akène sont obovales"
+        },
+        "surface_texture": {
+            "en": "Bur is dull, woody",
+            "fr": "La bogue est terne, ligneuse"
+        },
+        "colour": {
+            "en": "Bur is dark grey with purple streaks. Achene is brown",
+            "fr": "La bogue est gris foncé avec des stries violettes. L'akène est brun"
+        },
+        "other_features": {
+            "en": "Bur has a ring of several spines near top approximately 0.5 mm long and an apical spine approximately 1.5 mm long",
+            "fr": "La bogue a un anneau de plusieurs épines près du sommet d'environ 0,5 mm de long et une épine apicale d'environ 1,5 mm de long"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Perennial ragweed",
+                "scientific_name": "Ambrosia psilostachya",
+                "description": "Perennial ragweed burs are a similar size, obovate shape and grey colour as common ragweed. Perennial ragweed burs have smaller spines, or only an apical spine that may be broken off, and may lack the purple streaks of common ragweed burs. If the burs are removed, it is difficult to distinguish between common and perennial ragweed achenes."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Ambroisie à épis lisses",
+                "scientific_name": "Ambrosia psilostachya",
+                "description": "Les bogues d'ambroisie à épis lisses sont de taille similaire, de forme obovale et de couleur grise comme l'ambroisie à feuilles d'armoise. Les bogues d'ambroisie à épis lisses ont des épines plus petites, ou seulement une épine apicale qui peut être cassée, et peuvent ne pas avoir les stries violettes des bogues d'ambroisie à feuilles d'armoise. Si les bogues sont enlevées, il est difficile de distinguer les akènes d'ambroisie à feuilles d'armoise et d'ambroisie à épis lisses."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_ambrosia_artemisiifolia_01cnsh_1476383198542_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_ambrosia_artemisiifolia_copyright_1476383280351_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_ambrosia_psilostachya_01cnsh_1476383317933_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_ambrosia_psilostachya_03cnsh_1476383360616_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/ambrosia-artemisiifolia/eng/1472605115589/1472605116050"
+}

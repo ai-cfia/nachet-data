@@ -1,0 +1,93 @@
+{
+    "scientific_name": "Panicum spp.",
+    "family": {
+        "en": "Poaceae",
+        "fr": "Poacées"
+    },
+    "common_name": {
+        "en": "Panic grass",
+        "fr": "Herbe de la panique"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Floret",
+        "fr": "Fleur"
+    },
+    "identification_features": {
+        "seed_length": [],
+        "seed_width": [],
+        "shape": {
+            "en": "Oval-shaped",
+            "fr": "De forme ovale"
+        },
+        "surface_texture": {
+            "en": "Smooth and glossy",
+            "fr": "Lisse et brillante"
+        },
+        "colour": {
+            "en": "Greenish-brown with pale ends and several pale, longitudinal lines on lemma",
+            "fr": "Brun verdâtre avec des extrémités pâles et plusieurs lignes longitudinales pâles sur le lemma"
+        },
+        "other_features": {
+            "en": "Callus at base of floret is bow-shaped and can be straw yellow, brown or black. Panicum spp. florets do not have rachillas or pedicels, and the palea lacks conspicuous teeth. Panicum spp. may be found as spikelets; the glumes cover the floret and are papery, straw yellow with raised lines",
+            "fr": "Le calus à la base de la fleur est en forme de nœud et peut être de couleur paille, brune ou noire. Les fleurs de Panicum spp. n'ont pas de rachilles ou de pédicelles, et la paléole ne présente pas de dents apparentes. Panicum spp. peut être trouvé sous forme d'épillets ; les glumes recouvrent la fleur et sont de couleur paille, papier avec des lignes en relief"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Blue panic grass",
+                "scientific_name": "Panicum antidotale",
+                "description": ""
+            },
+            {
+                "name": "Witch grass",
+                "scientific_name": "Panicum capillare",
+                "description": ""
+            },
+            {
+                "name": "Fall panic grass",
+                "scientific_name": "Panicum dichotomiflorum",
+                "description": ""
+            }
+        ],
+        "fr": [
+            {
+                "name": "Herbe de la panique bleue",
+                "scientific_name": "Panicum antidotale",
+                "description": ""
+            },
+            {
+                "name": "Herbe de la sorcière",
+                "scientific_name": "Panicum capillare",
+                "description": ""
+            },
+            {
+                "name": "Herbe de la panique d'automne",
+                "scientific_name": "Panicum dichotomiflorum",
+                "description": ""
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_panicum_antidotale_img7_1509994396984_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_panicum_capillare_copyright_1476890456710_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_panicum_antidotale_04cnsh_1475605004486_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_panicum_capillare_01cnsh_1476890415470_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_panicum_capillare_02cnsh_1475605050851_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_panicum_capillare_03cnsh_1475605151588_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_panicum_dichotomiflorum_01cnsh_1476890490868_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/panicum-spp-/eng/1477312595197/1477312595526"
+}

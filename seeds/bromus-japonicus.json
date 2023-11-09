@@ -1,0 +1,89 @@
+{
+    "scientific_name": "Bromus japonicus",
+    "family": {
+        "en": "Poaceae",
+        "fr": "Poacées"
+    },
+    "common_name": {
+        "en": "Japanese brome",
+        "fr": "Brome japonais"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Floret",
+        "fr": "Fleuron"
+    },
+    "identification_features": {
+        "seed_length": [
+            7.0,
+            9.0
+        ],
+        "seed_width": [
+            1.0,
+            2.0
+        ],
+        "shape": {
+            "en": "Long oval-shaped floret with a flared top, and in-rolled and extended lemma sides",
+            "fr": "Fleuron de forme ovale allongée avec un sommet évasé, des côtés de lemma enroulés et étendus"
+        },
+        "surface_texture": {
+            "en": "Lemma is papery with hyaline margins, scabrous to ciliate on upper half and margins",
+            "fr": "Le lemma est papier avec des marges hyalines, rugueux à cilié sur la moitié supérieure et les marges"
+        },
+        "colour": {
+            "en": "Floret is straw yellow",
+            "fr": "Le fleuron est jaune paille"
+        },
+        "other_features": {
+            "en": "Palea teeth longer than 1.0 mm. Awn bends away from the lemma. The caryopsis is pubescent on the margins.",
+            "fr": "Les dents de la paléole sont plus longues que 1,0 mm. L'arête se courbe loin du lemma. La caryopse est pubescente sur les marges."
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Soft chess",
+                "scientific_name": "Bromus hordeaceus",
+                "description": "Soft chess has a similar size, oval shape, straw colour and extended lemma sides. The caryopsis is not pubescent on the margins. The lemmas of soft chess are often pilose, but may be glabrous. The awn is shorter, up to 4.0 mm."
+            },
+            {
+                "name": "Field brome",
+                "scientific_name": "Bromus arvensis",
+                "description": "Field brome has a similar size, oval shape, straw colour and extended lemma sides. Field brome's awn is up to 3.0 mm shorter than Japanese brome and does not bend backwards from the lemma. Field brome usually has glabrous lemmas, and they tend to not extend as much as Japanese brome lemmas."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Brome mou",
+                "scientific_name": "Bromus hordeaceus",
+                "description": "Le brome mou a une taille, une forme ovale, une couleur paille et des côtés de lemma étendus similaires. La caryopse n'est pas pubescente sur les marges. Les lemmas du brome mou sont souvent pileux, mais peuvent être glabres. L'arête est plus courte, jusqu'à 4,0 mm."
+            },
+            {
+                "name": "Brome des champs",
+                "scientific_name": "Bromus arvensis",
+                "description": "Le brome des champs a une taille, une forme ovale, une couleur paille et des côtés de lemma étendus similaires. L'arête du brome des champs est jusqu'à 3,0 mm plus courte que celle du brome japonais et ne se courbe pas vers l'arrière du lemma. Le brome des champs a généralement des lemmas glabres et ils ont tendance à ne pas s'étendre autant que les lemmas du brome japonais."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_japonicus_05cnsh_1475590790977_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_japonicus_16cnsh_1475591223821_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_japonicus_06cnsh_1475591134527_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_japonicus_17cnsh_1475591332139_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_hordeaceus_03cnsh_1475590702393_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_hordeaceus_02cnsh_1475590678405_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_arvensis_03cnsh_1475590535827_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/bromus-japonicus/eng/1473682018294/1473682018823"
+}

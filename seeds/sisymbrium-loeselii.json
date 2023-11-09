@@ -1,0 +1,78 @@
+{
+    "scientific_name": "Sisymbrium loeselii",
+    "family": {
+        "en": "Brassicaceae",
+        "fr": "Brassicacées"
+    },
+    "common_name": {
+        "en": "Tall hedge mustard",
+        "fr": "Moutarde des haies"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual",
+            "Winter annual"
+        ],
+        "fr": [
+            "Annuelle",
+            "Annuelle d'hiver"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            0.8,
+            1.3
+        ],
+        "seed_width": [
+            0.5,
+            0.8
+        ],
+        "shape": {
+            "en": "Oblong-shaped seed, with rounded or truncate ends",
+            "fr": "Graine de forme oblongue, avec des extrémités arrondies ou tronquées"
+        },
+        "surface_texture": {
+            "en": "Seed glossy, slightly wrinkled",
+            "fr": "Graine brillante, légèrement ridée"
+        },
+        "colour": {
+            "en": "Seed yellowish; dark orange at the hilum end",
+            "fr": "Graine jaunâtre ; orange foncé à l'extrémité de l'hile"
+        },
+        "other_features": {
+            "en": "Radicle often extends past end of seed. Distinct furrow can be seen between radicle and cotyledons",
+            "fr": "Le radicule dépasse souvent l'extrémité de la graine. Un sillon distinct peut être observé entre le radicule et les cotylédons"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Tumble mustard",
+                "scientific_name": "Sisymbrium altissimum",
+                "description": "Tumble mustard seeds are similar in size, oblong shape, wrinkled surface and the distinct furrow between the radicle and the cotyledons. Tumble mustard seeds have a rough rather than a glossy surface. The radicle is at level with the end of the seed, and they are a reddish-brown colour when compared to tall hedge mustard."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Moutarde roulante",
+                "scientific_name": "Sisymbrium altissimum",
+                "description": "Les graines de moutarde roulante sont similaires en taille, en forme oblongue, en surface ridée et en sillon distinct entre le radicule et les cotylédons. Les graines de moutarde roulante ont une surface rugueuse plutôt que brillante. Le radicule est au niveau de l'extrémité de la graine et elles sont de couleur brun rougeâtre par rapport à la moutarde des haies."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_sisymbrium_loeselii_06cnsh_1475606704497_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_sisymbrium_loeselii_05cnsh_1476894066236_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_sisymbrim_altissimum_04cnsh_1476894000437_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_sisymbrium_altissimum_02cnsh_1475606664023_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/sisymbrium-loeselii/eng/1477323068536/1477323068904"
+}

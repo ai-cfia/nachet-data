@@ -1,0 +1,77 @@
+{
+    "scientific_name": "Lythrum salicaria",
+    "family": {
+        "en": "Lythraceae",
+        "fr": "Lythracées"
+    },
+    "common_name": {
+        "en": "Purple loosestrife",
+        "fr": "Salicaire pourpre"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            0.5,
+            1.0
+        ],
+        "seed_width": [
+            0.3,
+            0.5
+        ],
+        "shape": {
+            "en": "Teardrop or cuneate seed",
+            "fr": "Graine en forme de goutte d'eau ou cunéiforme"
+        },
+        "surface_texture": {
+            "en": "Seed glistening with fine longitudinal striations",
+            "fr": "Graine brillante avec de fines stries longitudinales"
+        },
+        "colour": {
+            "en": "Seed dark reddish-brown",
+            "fr": "Graine brun rougeâtre foncé"
+        },
+        "other_features": {
+            "en": "Hilum is a black dot at the wide end of the seed. A raphe extends from the hilum to the narrow end of the seed",
+            "fr": "Le hilum est un point noir à l'extrémité large de la graine. Un raphé s'étend du hilum à l'extrémité étroite de la graine"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Hyssop loosestrife",
+                "scientific_name": "Lythrum hyssopifolia",
+                "description": "Seeds of hyssop loosestrife have a similar teardrop shape, prominent raphe and striated surface as purple loosestrife. Hyssop loosestrife seeds (length: 1.0 mm; width: 1.3 mm) are generally larger, a yellowish colour and not elongated as purple loosestrife."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Salicaire hysope",
+                "scientific_name": "Lythrum hyssopifolia",
+                "description": "Les graines de salicaire hysope ont une forme de goutte d'eau similaire, un raphé proéminent et une surface striée comme la salicaire pourpre. Les graines de salicaire hysope (longueur : 1,0 mm ; largeur : 1,3 mm) sont généralement plus grandes, de couleur jaunâtre et non allongées comme celles de la salicaire pourpre."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lythrum_salicaria_copyright_1475604786072_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lythrum_salicaria_01cnsh_1_1475604734111_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lythrum_salicaria_02cnsh_1_1475604763004_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lythrum_hyssopifolia_05cnsh_1475604702223_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lythrum_hyssopifolia_02cnsh_1475604681538_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/lythrum-salicaria/eng/1476283862539/1476283862851"
+}

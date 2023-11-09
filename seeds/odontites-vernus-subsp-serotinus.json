@@ -1,0 +1,78 @@
+{
+    "scientific_name": "Odontites vernus subsp. serotinus",
+    "family": {
+        "en": "Orobanchaceae",
+        "fr": "Orobanchacées"
+    },
+    "common_name": {
+        "en": "Red bartsia",
+        "fr": "Bartsie rouge"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            1.3,
+            2.3
+        ],
+        "seed_width": [
+            0.8,
+            1.3
+        ],
+        "shape": {
+            "en": "Seed elongate oval",
+            "fr": "Graine ovale allongée"
+        },
+        "surface_texture": {
+            "en": "Seed has a thin coating that is longitudinally ribbed with thin transverse ridges",
+            "fr": "La graine a un revêtement mince qui est longitudinalement nervuré avec de fines crêtes transversales"
+        },
+        "colour": {
+            "en": "Outer coating is white to pale yellow; the seed underneath is reddish with darker ends",
+            "fr": "Le revêtement extérieur est blanc à jaune pâle ; la graine en dessous est rougeâtre avec des extrémités plus foncées"
+        },
+        "other_features": {
+            "en": "",
+            "fr": ""
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Eyebright",
+                "scientific_name": "Euphrasia officinalis",
+                "description": "The seeds of eyebright are a similar size, elongate oval shape, with a white, ribbed coating. The white coating of eyebright seeds is thinner than in red bartsia, allowing the reddish colour of the seed surface to show through."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Euphraise officinale",
+                "scientific_name": "Euphrasia officinalis",
+                "description": "Les graines de l'euphraise officinale sont de taille similaire, de forme ovale allongée, avec un revêtement blanc et nervuré. Le revêtement blanc des graines d'euphraise officinale est plus mince que celui de la bartsie rouge, ce qui permet à la couleur rougeâtre de la surface de la graine de transparaître."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_odontites_verna_03cnsh_1476890265510_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_odontites_verna_04cnsh_1476890340829_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_odontites_verna_05cnsh_1476890390140_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_odontites_verna_01cnsh_1476890206927_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_euphrasia_officinalis_02cnsh_1476890087168_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_euphrasia_officinalis_01cnsh_1476890057799_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/odontites-vernus-subsp-serotinus/eng/1477311719216/1477311719759"
+}

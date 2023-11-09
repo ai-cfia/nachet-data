@@ -1,0 +1,87 @@
+{
+    "scientific_name": "Galeopsis tetrahit",
+    "family": {
+        "en": "Lamiaceae",
+        "fr": "Lamiacées"
+    },
+    "common_name": {
+        "en": "Common hemp-nettle",
+        "fr": "Ortie galeopsis"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Nutlet",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.5,
+            3.0
+        ],
+        "seed_width": [
+            2.0,
+            2.5
+        ],
+        "shape": {
+            "en": "Obovate (upside-down egg-shaped), with widest point above middle",
+            "fr": "Obovale (en forme d'œuf à l'envers), avec le point le plus large au-dessus du milieu"
+        },
+        "surface_texture": {
+            "en": "Bubbled with random pattern, slight sheen overall",
+            "fr": "Bombée avec un motif aléatoire, légèrement brillante dans l'ensemble"
+        },
+        "colour": {
+            "en": "Medium brown, bubbled areas are light brown, with occasional black spots",
+            "fr": "Brun moyen, les zones bombées sont brun clair, avec des taches noires occasionnelles"
+        },
+        "other_features": {
+            "en": "Hilum area is at base of seed (cut diagonally), hilum area is dull and roughened",
+            "fr": "La zone de l'hile est à la base de la graine (coupée en diagonale), la zone de l'hile est terne et rugueuse"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Hairy hemp-nettle",
+                "scientific_name": "Galeopsis pubescens",
+                "description": "Native to Europe; not yet found in North America. Similar to Common hemp-nettle in size, obovate shape, single diagonal hilum, and bubbled surface pattern with black spots. Darker brown and oval shaped (not as narrowed at hilum end as Common hemp-nettle)."
+            },
+            {
+                "name": "Large-flowered hemp-nettle",
+                "scientific_name": "Galeopsis speciosa",
+                "description": "Found in AB, ON, QC. Similar to Common hemp-nettle in size, obovate shape, single diagonal hilum, and bubbled surface pattern with black spots. Darker brown colour than Common hemp-nettle, hilum end more strongly narrowed than Common hemp-nettle."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Ortie galeopsis velue",
+                "scientific_name": "Galeopsis pubescens",
+                "description": "Originaire d'Europe ; pas encore trouvé en Amérique du Nord. Similaire à l'ortie galeopsis commune en taille, en forme obovale, en hile diagonal unique et en motif de surface bombée avec des taches noires. Plus foncée et de forme ovale (moins étroite à l'extrémité du hile que l'ortie galeopsis commune)."
+            },
+            {
+                "name": "Ortie galeopsis à grandes fleurs",
+                "scientific_name": "Galeopsis speciosa",
+                "description": "Trouvée en AB, ON, QC. Similaire à l'ortie galeopsis commune en taille, en forme obovale, en hile diagonal unique et en motif de surface bombée avec des taches noires. Couleur brun plus foncé que l'ortie galeopsis commune, extrémité du hile plus fortement rétrécie que l'ortie galeopsis commune."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_galeopsis_tetrahit_img1_1405077451328_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_galeopsis_tetrahit_img2_1405077488094_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_galeopsis_tetrahit_img3_1405077518985_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_galeopsis_pubescens_img1_1405077567923_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_galeopsis_speciosa_img1_1405077601876_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/galeopsis-tetrahit/eng/1405080598099/1405080599052"
+}

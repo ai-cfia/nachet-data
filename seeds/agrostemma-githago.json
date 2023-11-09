@@ -1,0 +1,81 @@
+{
+    "scientific_name": "Agrostemma githago",
+    "family": {
+        "en": "Caryophyllaceae",
+        "fr": "Caryophyllacées"
+    },
+    "common_name": {
+        "en": "Purple cockle",
+        "fr": "Coquelourde des champs"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual",
+            "Biennial"
+        ],
+        "fr": [
+            "Annuelle",
+            "Bisannuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "True seed",
+        "fr": "Vraie graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.5,
+            3.0
+        ],
+        "seed_width": [
+            2.5,
+            3.0
+        ],
+        "shape": {
+            "en": "Angular oval shape, often flattened on one side",
+            "fr": "Forme ovale angulaire, souvent aplatie d'un côté"
+        },
+        "surface_texture": {
+            "en": "Covered in rows of raised tubercles (wart-like projections) that increase in height away from hilum",
+            "fr": "Recouvert de rangées de tubercules saillants (projections semblables à des verrues) qui augmentent en hauteur à partir de l'hile"
+        },
+        "colour": {
+            "en": "Medium brown to dark brown",
+            "fr": "Brun moyen à brun foncé"
+        },
+        "other_features": {
+            "en": "Hilum appears as an open hole, often with tissue inside seed root and shoot outline are visible as a curved line that meets at the hilum",
+            "fr": "L'hile apparaît comme un trou ouvert, souvent avec du tissu à l'intérieur. La racine de la graine et le contour de la pousse sont visibles sous la forme d'une ligne courbe qui se rencontre à l'hile"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Showy baby's-breath",
+                "scientific_name": "Gypsophila elegans",
+                "description": "Showy baby's-breath and cow cockle are found across Canada and the United States (showy baby's-breath is not known to be found in the Maritime provinces). Showy baby's-breath and cow cockle are similar to purple cockle (rounded shape, open hilum and dark colour). Showy baby's-breath and cow cockle are smaller than purple cockle by approximately 0.5–1.0 mm. Showy baby's-breath has a smooth surface composed of raised cells, cow cockle has a densely warty surface, purple cockle has a surface that is covered in spikes."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Gypsophile élégante",
+                "scientific_name": "Gypsophila elegans",
+                "description": "La gypsophile élégante et la vaccaria hispanica se trouvent partout au Canada et aux États-Unis (la gypsophile élégante n'est pas connue pour être présente dans les provinces maritimes). La gypsophile élégante et la vaccaria hispanica sont similaires à la coquelourde des champs (forme arrondie, hile ouvert et couleur foncée). La gypsophile élégante et la vaccaria hispanica sont plus petites que la coquelourde des champs d'environ 0,5 à 1,0 mm. La gypsophile élégante a une surface lisse composée de cellules saillantes, la vaccaria hispanica a une surface densément verruqueuse, la coquelourde des champs a une surface couverte de piquants."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_agrostemma_githago_img5_1404823018146_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_agrostemma_githago_img3_1404822952084_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_agrostemma_githago_img2_1404822911505_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_agrostemma_githago_img1_1404822869489_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_agrostemma_githago_img4_1404822987803_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_gypsophilia_elegans_img1_1404823095881_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_vaccaria_hispanica_img1_1404823155694_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/agrostemma-githago/eng/1404825489475/1404825490522"
+}

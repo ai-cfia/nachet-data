@@ -1,0 +1,101 @@
+{
+    "scientific_name": "Rumex spp.",
+    "family": {
+        "en": "Polygonaceae",
+        "fr": "Polygonacées"
+    },
+    "common_name": {
+        "en": "Dock",
+        "fr": "Rumex"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual",
+            "Biennial",
+            "Perennial"
+        ],
+        "fr": [
+            "Annuelle",
+            "Bisannuelle",
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.0,
+            3.0
+        ],
+        "seed_width": [],
+        "shape": {
+            "en": "Trigonous, ovate, sharp-edged with a rounded base and a pointed top",
+            "fr": "Trigone, ovale, à bords tranchants avec une base arrondie et un sommet pointu"
+        },
+        "surface_texture": {
+            "en": "Smooth, with a satin sheen",
+            "fr": "Lisse, avec un éclat satiné"
+        },
+        "colour": {
+            "en": "Shade of brown, most are reddish-brown",
+            "fr": "Nuance de brun, la plupart sont brun-rougeâtre"
+        },
+        "other_features": {
+            "en": "May be shed within a perianth, loosely fitting and often removed during processing",
+            "fr": "Peut être libéré dans un péricarpe, ajustement lâche et souvent enlevé lors du traitement"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Curled dock",
+                "scientific_name": "Rumex crispus",
+                "description": "The achenes of Curled dock are medium length (2.0 - 3.0 mm), ovate-shaped, trigonous, smooth surface and reddish-brown in color. The perianth fits loosely, is reddish-brown, papery, dull and trigonous with entire or toothed edges. A tubercle is usually attached to each side."
+            },
+            {
+                "name": "Bitter dock",
+                "scientific_name": "Rumex obtusifolius",
+                "description": "The achenes of Bitter dock are medium-brown, pointed at both ends, and smaller than commonly encountered species. The perianth is reddish brown, papery with tubercles, and has distinctive long teeth on the edges."
+            },
+            {
+                "name": "Field dock",
+                "scientific_name": "Rumex pseudonatronatus",
+                "description": "The achenes of Field dock are medium length (2.0 - 3.0 mm), ovate-shaped, trigonous, smooth surface and reddish-brown in color. The perianth fits loosely, is reddish-brown, papery, dull and trigonous with entire or toothed edges. A tubercle is usually attached to each side."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Rumex crispus",
+                "scientific_name": "Rumex crispus",
+                "description": "Les akènes de Rumex crispus sont de taille moyenne (2,0 - 3,0 mm), de forme ovale, trigones, avec une surface lisse et de couleur brun-rougeâtre. Le péricarpe s'ajuste lâchement, est brun-rougeâtre, papier, terne et trigone avec des bords entiers ou dentelés. Un tubercule est généralement attaché de chaque côté."
+            },
+            {
+                "name": "Rumex obtusifolius",
+                "scientific_name": "Rumex obtusifolius",
+                "description": "Les akènes de Rumex obtusifolius sont de couleur brun-moyen, pointus aux deux extrémités et plus petits que les espèces couramment rencontrées. Le péricarpe est brun-rougeâtre, papier avec des tubercules et présente des dents longues distinctives sur les bords."
+            },
+            {
+                "name": "Rumex pseudonatronatus",
+                "scientific_name": "Rumex pseudonatronatus",
+                "description": "Les akènes de Rumex pseudonatronatus sont de taille moyenne (2,0 - 3,0 mm), de forme ovale, trigones, avec une surface lisse et de couleur brun-rougeâtre. Le péricarpe s'ajuste lâchement, est brun-rougeâtre, papier, terne et trigone avec des bords entiers ou dentelés. Un tubercule est généralement attaché de chaque côté."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_rumex_obtusifolius_01cnsh_1476891541107_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_rumex_obtusifolius_03cnsh_1476891594684_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_rumex_crispus_03cnsh_1475605881561_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_rumex_spp_cnsh_1476891655110_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_rumex_pseudonatronatus_03cnsh_1476891621565_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_rumex_pseudonatronatus_01cnsh_1475605944140_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_rumex_crispus_x_section_copyright_1476891509991_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_rumex_crispus_copyright_1476891479630_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_rumex_crispus_01cnsh_1476891452685_eng.jpg"
+        ],
+        "similar_species": []
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/rumex-spp-/eng/1477314536198/1477314536515"
+}

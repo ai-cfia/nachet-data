@@ -1,0 +1,73 @@
+{
+    "scientific_name": "Stellaria media",
+    "family": {
+        "en": "Caryophyllaceae",
+        "fr": "Caryophyllacées"
+    },
+    "common_name": {
+        "en": "Common chickweed",
+        "fr": "Stellaire moyenne"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual",
+            "Short-lived perennial"
+        ],
+        "fr": [
+            "Annuelle",
+            "Vivace de courte durée"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [],
+        "seed_width": [],
+        "shape": {
+            "en": "Round to wedge-shaped seed; tapering at the hilum end; compressed",
+            "fr": "Graine ronde à en forme de coin; s'effilant à l'extrémité du hilum; comprimée"
+        },
+        "surface_texture": {
+            "en": "Covered in tubercles from stellate bases in regular rows following shape of seed",
+            "fr": "Recouverte de tubercules à partir de bases stellaires disposées en rangées régulières suivant la forme de la graine"
+        },
+        "colour": {
+            "en": "Translucent reddish-brown seed",
+            "fr": "Graine translucide brun-rougeâtre"
+        },
+        "other_features": {
+            "en": "The hilum is at one end of the seed within a closed notch",
+            "fr": "Le hilum se trouve à une extrémité de la graine dans une encoche fermée"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Field chickweed",
+                "scientific_name": "Cerastium arvense",
+                "description": "Field chickweed seed is a similar size, rounded shape, reddish-brown colour and tuberculate surface as common chickweed. Field chickweed seed tends to have a more angular shape, an open notch at the hilum, and is opaque rather than translucent as common chickweed."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Stellaire des champs",
+                "scientific_name": "Cerastium arvense",
+                "description": "La graine de stellaire des champs est de taille similaire, de forme arrondie, de couleur brun-rougeâtre et de surface tuberculée comme celle de la stellaire moyenne. La graine de stellaire des champs a tendance à avoir une forme plus angulaire, une encoche ouverte au niveau du hilum et est opaque plutôt que translucide comme celle de la stellaire moyenne."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_stellaria_media_02cnsh_1476894674274_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_stellaria_media_01cnsh_1475606811572_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cerastium_arvense_02cnsh_1475594179242_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_stellaria_media_04cnsh_1475606830690_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cerastium_arvense_01cnsh_1475594126570_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/stellaria-media/eng/1477077869133/1477077870009"
+}

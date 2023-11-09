@@ -1,0 +1,74 @@
+{
+    "scientific_name": "Lolium persicum",
+    "family": {
+        "en": "Poaceae",
+        "fr": "Poacées"
+    },
+    "common_name": {
+        "en": "Persian darnel",
+        "fr": "Ivraie de Perse"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Floret",
+        "fr": "Fleuron"
+    },
+    "identification_features": {
+        "seed_length": [],
+        "seed_width": [],
+        "shape": {
+            "en": "Oblong",
+            "fr": "Oblong"
+        },
+        "surface_texture": {
+            "en": "Granular",
+            "fr": "Granulaire"
+        },
+        "colour": {
+            "en": "Straw-yellow",
+            "fr": "Jaune paille"
+        },
+        "other_features": {
+            "en": "Lemmas are usually unawned. Rachilla is flat and generally held close to the palea.",
+            "fr": "Les lemmes sont généralement sans arête. La rachille est plate et généralement proche de la paléole."
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Annual ryegrass",
+                "scientific_name": "Lolium multiflorum",
+                "description": "Annual ryegrass has a similar oblong shape, straw-yellow colour and flattened rachilla as Persian darnel. It is often difficult to tell these species apart. Annual ryegrass florets may curve towards the lemma, the rachilla may be held away from the palea, and the florets are usually awned."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Ray-grass annuel",
+                "scientific_name": "Lolium multiflorum",
+                "description": "Le ray-grass annuel a une forme oblongue similaire, une couleur jaune paille et une rachille aplatie comme l'ivraie de Perse. Il est souvent difficile de distinguer ces espèces. Les fleurons de ray-grass annuel peuvent se courber vers le lemme, la rachille peut être éloignée de la paléole et les fleurons sont généralement arêtés."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lolium_persicum_07cnsh_1475604623420_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lolium_persicum_03cnsh_1475604570075_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lolium_persicum_05cnsh_1475604605147_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lolium_persicum_04cnsh_1475604588441_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lolium_persicum_copyright_1475604641455_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lolium_multiflorum_03cnsh_1475604518438_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lolium_multiflorum_02cnsh_1475604497687_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lolium_multiflorum_04cnsh_1475604541914_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/lolium-persicum/eng/1476284178870/1476284179275"
+}

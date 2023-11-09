@@ -1,0 +1,79 @@
+{
+    "scientific_name": "Sorghum halepense",
+    "family": {
+        "en": "Poaceae",
+        "fr": "Poacées"
+    },
+    "common_name": {
+        "en": "Johnson grass",
+        "fr": "Herbe de Johnson"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Spikelet",
+        "fr": "Épillet"
+    },
+    "identification_features": {
+        "seed_length": [
+            3.5,
+            6.3
+        ],
+        "seed_width": [
+            1.5,
+            2.0
+        ],
+        "shape": {
+            "en": "Ovate-shaped spikelet with two stalks at the base and a pointed top",
+            "fr": "Épillet en forme d'ovale avec deux tiges à la base et un sommet pointu"
+        },
+        "surface_texture": {
+            "en": "Glumes are smooth and shiny with teeth near the top",
+            "fr": "Les glumes sont lisses et brillantes avec des dents près du sommet"
+        },
+        "colour": {
+            "en": "Straw yellow at the tips of the glumes darkening to a reddish-purple at the base. Pedicels are straw yellow",
+            "fr": "Jaune paille à l'extrémité des glumes, s'assombrissant en pourpre rougeâtre à la base. Les pédoncules sont jaune paille"
+        },
+        "other_features": {
+            "en": "Papery, inert spikelets may be attached to the pedicels. Can have light hairs around the pedicels and the base of the spikelet. The caryopsis is obovate, reddish-coloured with a large embryo",
+            "fr": "Les épillets papier inerte peuvent être attachés aux pédoncules. Peut avoir des poils légers autour des pédoncules et de la base de l'épillet. La caryopse est obovale, de couleur rougeâtre avec un gros embryon"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Sudan grass",
+                "scientific_name": "Sorghum bicolor subsp. drummondii",
+                "description": "The spikelets of Sudan grass have a similar reddish-purple colour, oval shape, hard glumes and pedicels as Johnson grass. Sudan grass spikelets (length: 5.0 - 6.0 mm; width: 2.0 - 3.0 mm) are generally larger than Johnson grass, and the glumes of many spikelets are dark purple. The pedicels of Sudan grass do not have as well-developed cups at the ends as Johnson grass does."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Herbe du Soudan",
+                "scientific_name": "Sorghum bicolor subsp. drummondii",
+                "description": "Les épillets de l'herbe du Soudan ont une couleur rougeâtre pourpre similaire, une forme ovale, des glumes et des pédoncules durs comme l'herbe de Johnson. Les épillets de l'herbe du Soudan (longueur : 5,0 - 6,0 mm ; largeur : 2,0 - 3,0 mm) sont généralement plus grands que ceux de l'herbe de Johnson, et les glumes de nombreux épillets sont de couleur pourpre foncé. Les pédoncules de l'herbe du Soudan n'ont pas de coupes aussi bien développées aux extrémités que celles de l'herbe de Johnson."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_sorghum_halepense_10cnsh_1476894523672_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_sorghum_halepense_06cnsh_1476894448445_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_sorghum_halepense_11cnsh_1476894548732_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_sorghum_halepense_08cnsh_1476894471167_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_sorghum_halepense_05cnsh_1476894422730_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_sorghum_bicolor_nothossp_drummondii_01cnsh_1476894327604_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_sorghum_bicolor_nothossp_drummondii_03cnsh_1476894361135_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/sorghum-halepense/eng/1477078899055/1477078899439"
+}

@@ -1,0 +1,63 @@
+{
+    "scientific_name": "Zygophyllum fabago",
+    "family": {
+        "en": "Zygophyllaceae",
+        "fr": "Zygophyllacées"
+    },
+    "common_name": {
+        "en": "Syrian bean-caper",
+        "fr": "Câprier de Syrie"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            3.4,
+            5.9
+        ],
+        "seed_width": [
+            1.6,
+            3.9
+        ],
+        "shape": {
+            "en": "Ovate to D-shaped seed, strongly compressed",
+            "fr": "Graine ovale à en forme de D, fortement comprimée"
+        },
+        "surface_texture": {
+            "en": "Seed surface covered with a bubbled crust",
+            "fr": "Surface de la graine recouverte d'une croûte bulleuse"
+        },
+        "colour": {
+            "en": "Surface crust is grey to yellowish-white, seed is translucent red",
+            "fr": "La croûte de surface est grise à blanc jaunâtre, la graine est rouge translucide"
+        },
+        "other_features": {
+            "en": "",
+            "fr": ""
+        }
+    },
+    "similar_species": {
+        "en": [],
+        "fr": []
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Zygophyllum_fabago_img3_1397672368328_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Zygophyllum_fabago_img2_1397672351281_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Zygophyllum_fabago_img1_1397672333766_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Zygophyllum_fabago_img4_1504021735485_eng.jpg"
+        ],
+        "similar_species": []
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/zygophyllum-fabago/eng/1398182447174/1398182478751"
+}

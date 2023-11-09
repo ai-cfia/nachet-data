@@ -1,0 +1,90 @@
+{
+    "scientific_name": "Lepidium draba subsp. draba",
+    "family": {
+        "en": "Brassicaceae",
+        "fr": "Brassicacées"
+    },
+    "common_name": {
+        "en": "Heart-pod hoary cress",
+        "fr": "Cresson blanchâtre à fruits en forme de cœur"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.0,
+            2.5
+        ],
+        "seed_width": [
+            1.5
+        ],
+        "shape": {
+            "en": "Oval",
+            "fr": "Ovale"
+        },
+        "surface_texture": {
+            "en": "Roughened with faint reticulation",
+            "fr": "Rugueuse avec une légère réticulation"
+        },
+        "colour": {
+            "en": "Reddish-brown",
+            "fr": "Brun rougeâtre"
+        },
+        "other_features": {
+            "en": "The pods are heart-shaped, 2.5 - 6.0 mm long and 4.0 - 6.0 mm wide, usually hairy. Seed is ovate in cross section, usually with a furrow between the radicle and cotyledons.",
+            "fr": "Les gousses sont en forme de cœur, mesurant de 2,5 à 6,0 mm de long et de 4,0 à 6,0 mm de large, généralement poilues. La graine est ovale en section transversale, généralement avec un sillon entre le radicule et les cotylédons."
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Globe-pod hoary cress",
+                "scientific_name": "Lepidium appelianum",
+                "description": "Globe-pod hoary cress seeds are a similar size, rough surface and oval shape as heart-pod hoary cress. Globe-pod hoary cress seeds are a lighter colour and oval-shaped in cross-section with no constrictions like heart-pod hoary cress."
+            },
+            {
+                "name": "Lens-pod hoary cress",
+                "scientific_name": "Lepidium chalepense",
+                "description": "Lens-pod hoary cress seeds are a similar size, roughened surface and oval shape as heart-pod hoary cress. Lens-pod hoary cress seeds are a lighter colour with no surface reticulation like heart-pod hoary cress."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Cresson blanchâtre à fruits en forme de globe",
+                "scientific_name": "Lepidium appelianum",
+                "description": "Les graines de cresson blanchâtre à fruits en forme de globe sont de taille similaire, ont une surface rugueuse et une forme ovale comme le cresson blanchâtre à fruits en forme de cœur. Les graines de cresson blanchâtre à fruits en forme de globe sont d'une couleur plus claire et de forme ovale en section transversale, sans constriction comme le cresson blanchâtre à fruits en forme de cœur."
+            },
+            {
+                "name": "Cresson blanchâtre à fruits en forme de lentille",
+                "scientific_name": "Lepidium chalepense",
+                "description": "Les graines de cresson blanchâtre à fruits en forme de lentille sont de taille similaire, ont une surface rugueuse et une forme ovale comme le cresson blanchâtre à fruits en forme de cœur. Les graines de cresson blanchâtre à fruits en forme de lentille sont d'une couleur plus claire et sans réticulation de surface comme le cresson blanchâtre à fruits en forme de cœur."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lepidium_draba_draba_07cnsh_1475603465515_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lepidium_draba_draba_04cnsh_1475603422898_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lepidium_draba_draba_09cnsh_1475603643839_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cardaria_draba_copyright_1475592462696_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lepidium_appelianum_05cnsh_1475603010855_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lepidium_appelianum_02cnsh_1475602944981_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lepidium_draba_chalepense_01cnsh_1475603222120_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lepidium_draba_chalepense_04cnsh_1475603295674_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_lepidium_appelianum_chalepense_draba_1475603067789_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/lepidium-draba-subsp-draba/eng/1476286222772/1476286223100"
+}

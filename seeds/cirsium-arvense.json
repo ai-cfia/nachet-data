@@ -1,0 +1,78 @@
+{
+    "scientific_name": "Cirsium arvense",
+    "family": {
+        "en": "Asteraceae",
+        "fr": "Asteraceae"
+    },
+    "common_name": {
+        "en": "Canada thistle",
+        "fr": "Chardon du Canada"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.5,
+            4.0
+        ],
+        "seed_width": [
+            1.0
+        ],
+        "shape": {
+            "en": "Elongate achene; straight to slightly curved, tapering at the base and truncate at the top",
+            "fr": "Akène allongé ; droit à légèrement courbé, s'amincissant à la base et tronqué au sommet"
+        },
+        "surface_texture": {
+            "en": "Achene fibrous and woody texture, thin longitudinal furrows can be seen with magnification",
+            "fr": "Texture fibreuse et ligneuse de l'akène, de fines rainures longitudinales peuvent être observées à la loupe"
+        },
+        "colour": {
+            "en": "Achene dull yellow to brown",
+            "fr": "Akène jaune terne à brun"
+        },
+        "other_features": {
+            "en": "Narrow pale collar at the top of the achene Immature achenes can have plumose pappus hairs",
+            "fr": "Col étroit et pâle en haut de l'akène. Les akènes immatures peuvent avoir des poils pappus plumeux"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Nodding thistle",
+                "scientific_name": "Carduus nutans",
+                "description": "Nodding thistle achenes have a similar size, shape and colour as Canada thistle. Nodding thistle achenes have a smooth, varnish-like surface with transverse markings, while the achenes of Canada thistle are fibrous and woody with thin furrows and no transverse lines. The top peg is thicker and wider in nodding thistle. The immature achenes of nodding thistle have filamentous pappus hairs and Canada thistle has plumose hairs."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Chardon penché",
+                "scientific_name": "Carduus nutans",
+                "description": "Les akènes du chardon penché ont une taille, une forme et une couleur similaires à celles du chardon du Canada. Les akènes du chardon penché ont une surface lisse et vernissée avec des marques transversales, tandis que les akènes du chardon du Canada sont fibreux et ligneux avec de fines rainures et aucune ligne transversale. Le sommet du chardon penché est plus épais et plus large. Les akènes immatures du chardon penché ont des poils pappus filamenteux tandis que le chardon du Canada a des poils pappus plumeux."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cirsium_arvense_05cnsh_1475594592653_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cirsium_arvense_01cnsh_1475594431018_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cirsium_arvense_03cnsh_1475594481581_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cirsium_arvense_04cnsh_1475594566755_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_nutans_05cnsh_1475592949337_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cirsium_arvense_variant_01cnsh_1475594628178_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_nutans_02cnsh_1475592825972_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/cirsium-arvense/eng/1476275716051/1476275716425"
+}

@@ -1,0 +1,78 @@
+{
+    "scientific_name": "Ambrosia trifida",
+    "family": {
+        "en": "Asteraceae",
+        "fr": "Asteraceae"
+    },
+    "common_name": {
+        "en": "Giant ragweed",
+        "fr": "Ambroisie trifide"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene within a bur",
+        "fr": "Akène dans une bogue"
+    },
+    "identification_features": {
+        "seed_length": [
+            4.0,
+            7.0
+        ],
+        "seed_width": [
+            4.0,
+            6.0
+        ],
+        "shape": {
+            "en": "Ovate to obovate burs with a narrow base and a large apical spine",
+            "fr": "Bogues ovales à obovales avec une base étroite et une grande épine apicale"
+        },
+        "surface_texture": {
+            "en": "Burs woody and dull",
+            "fr": "Bogues ligneuses et mates"
+        },
+        "colour": {
+            "en": "Burs dull greyish-brown, yellowish-brown or brown",
+            "fr": "Bogues d'un brun grisâtre terne, brun jaunâtre ou brun"
+        },
+        "other_features": {
+            "en": "A ring of 5 or 6 small spines is found near the top of the bur. Thin ribs extend down the sides of the bur",
+            "fr": "Un anneau de 5 ou 6 petites épines se trouve près du sommet de la bogue. Des nervures fines descendent le long des côtés de la bogue"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Common ragweed",
+                "scientific_name": "Ambrosia artemisiifolia",
+                "description": "Common ragweed burs are a similar obovate shape and have a similar arrangement of spines as giant ragweed. Common ragweed burs (length: 2.5 - 3.5 mm; width: 2.0 - 2.5 mm) are generally smaller and have less prominent spines than giant ragweed."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Ambroisie à feuilles d'armoise",
+                "scientific_name": "Ambrosia artemisiifolia",
+                "description": "Les bogues de l'ambroisie à feuilles d'armoise ont une forme obovale similaire et une disposition similaire des épines à l'ambroisie trifide. Les bogues de l'ambroisie à feuilles d'armoise (longueur : 2,5 - 3,5 mm ; largeur : 2,0 - 2,5 mm) sont généralement plus petites et ont des épines moins proéminentes que l'ambroisie trifide."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_ambrosia_trifida_copyright_1476383469616_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_ambrosia_trifida_04cnsh_1476383444390_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_ambrosia_trifida_02cnsh_1476383422737_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_ambrosia_trifida_01cnsh_1476383387745_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_ambrosia_artemisiifolia_01cnsh_1476383198542_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_ambrosia_artemisiifolia_04cnsh_1476383221537_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/ambrosia-trifida/eng/1472605410597/1472605411018"
+}

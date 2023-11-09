@@ -1,0 +1,78 @@
+{
+    "scientific_name": "Erucastrum gallicum",
+    "family": {
+        "en": "Brassicaceae",
+        "fr": "Brassicacées"
+    },
+    "common_name": {
+        "en": "Dog mustard",
+        "fr": "Moutarde des chiens"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            1.0,
+            1.5
+        ],
+        "seed_width": [
+            0.8,
+            1.0
+        ],
+        "shape": {
+            "en": "Seed oval to oblong with a groove between the cotyledons and the seed radicle",
+            "fr": "Graine ovale à oblongue avec une rainure entre les cotylédons et le radicule de la graine"
+        },
+        "surface_texture": {
+            "en": "Seed reticulate, with stipples inside of the cells",
+            "fr": "Graine réticulée, avec des stries à l'intérieur des cellules"
+        },
+        "colour": {
+            "en": "Seed reddish-brown",
+            "fr": "Graine brun-rougeâtre"
+        },
+        "other_features": {
+            "en": "Reticulations are the same colour as seed surface",
+            "fr": "Les réticulations sont de la même couleur que la surface de la graine"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Wall-rocket",
+                "scientific_name": "Diplotaxis tenuifolia",
+                "description": "Wall-rocket seed is a similar size, oval to oblong shape, distinctive radicle and surface reticulation as dog mustard. Some wall-rocket seeds are reddish-brown like dog mustard. Wall-rocket is usually greenish-brown with dark cotyledons and the surface reticulations are silvery, while dog mustard has reddish-brown reticulations."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Diplotaxis tenuifolia",
+                "scientific_name": "Diplotaxis tenuifolia",
+                "description": "Les graines de Diplotaxis tenuifolia sont de taille similaire, de forme ovale à oblongue, avec un radicule distinctif et une réticulation de surface comme la moutarde des chiens. Certaines graines de Diplotaxis tenuifolia sont brun-rougeâtre comme la moutarde des chiens. Diplotaxis tenuifolia est généralement brun verdâtre avec des cotylédons foncés et les réticulations de surface sont argentées, tandis que la moutarde des chiens a des réticulations brun-rougeâtre."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_erucastrum_gallicum_04cnsh_1475601287056_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_erucastrum_gallicum_02cnsh_1475601262160_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_erucastrum_gallicum_copyright_1475601347031_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_erucastrum_gallicum_01cnsh_1475601236414_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_diplotaxis_tenuifolia_02cnsh_1475597335494_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_diplotaxis_tenuifolia_01cnsh_1475597313999_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/erucastrum-gallicum/eng/1476289254234/1476289254702"
+}

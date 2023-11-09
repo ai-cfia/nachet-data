@@ -1,0 +1,79 @@
+{
+    "scientific_name": "Bothriochloa laguroides",
+    "family": {
+        "en": "Poaceae",
+        "fr": "Poacées"
+    },
+    "common_name": {
+        "en": "Silver beardgrass",
+        "fr": "Bothriochloa laguroides"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Spikelet",
+        "fr": "Épillet"
+    },
+    "identification_features": {
+        "seed_length": [
+            3.5,
+            4.0
+        ],
+        "seed_width": [
+            1.5,
+            1.7
+        ],
+        "shape": {
+            "en": "Long oval shape with 2 pedicels from the base",
+            "fr": "Forme ovale allongée avec 2 pédicelles à la base"
+        },
+        "surface_texture": {
+            "en": "Smooth and shiny with white hairs",
+            "fr": "Lisse et brillant avec des poils blancs"
+        },
+        "colour": {
+            "en": "Pale yellow",
+            "fr": "Jaune pâle"
+        },
+        "other_features": {
+            "en": "A pair of pedicels extend ¾ up the ventral side of the spikelet. Pedicels may have sterile spikelets attached. Copious white hairs around the base of and along the margins of the spikelet and the pedicels. Short teeth along the upper margins of the dorsal side of the spikelet.",
+            "fr": "Une paire de pédicelles s'étend aux ¾ de la face ventrale de l'épillet. Les pédicelles peuvent être munis d'épillets stériles. Abondants poils blancs à la base et le long des marges de l'épillet et des pédicelles. Dents courtes le long des marges supérieures de la face dorsale de l'épillet."
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Yellow bluestem",
+                "scientific_name": "Bothriochloa ischaemum",
+                "description": "Yellow bluestem is a similar size, oval shape, yellow colour and smooth surface as silver beardgrass. Yellow bluestem spikelets on average are 4.5 mm long and 1.0 mm wide, approximately 1.0 mm longer than silver beardgrass. The teeth on the back of yellow bluestem bracts are larger, and the hairs at the tips of the pedicels are 3.0 mm shorter than silver beardgrass. The dorsal side of silver beardgrass spikelets is smooth and pale; yellow bluestem spikelets are furrowed with purple tips."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Bothriochloa ischaemum",
+                "scientific_name": "Bothriochloa ischaemum",
+                "description": "Bothriochloa ischaemum est de taille similaire, de forme ovale, de couleur jaune et de surface lisse comme Bothriochloa laguroides. Les épillets de Bothriochloa ischaemum mesurent en moyenne 4,5 mm de long et 1,0 mm de large, soit environ 1,0 mm de plus que Bothriochloa laguroides. Les dents à l'arrière des bractées de Bothriochloa ischaemum sont plus grandes, et les poils aux extrémités des pédicelles sont 3,0 mm plus courts que Bothriochloa laguroides. La face dorsale des épillets de Bothriochloa laguroides est lisse et pâle ; les épillets de Bothriochloa ischaemum sont sillonnés avec des extrémités pourpres."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_laguroides_torreyana_02cnsh_1475590340841_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_laguroides_torreyana_07cnsh_1475590411756_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_laguroides_torreyana_05cnsh_1475590390600_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_laguroides_torreyana_04cnsh_1475590365154_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_laguroides_torreyana_01cnsh_1475590316431_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_ischaemum_06cnsh_1475590251745_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bothriochloa_ischaemum_07cnsh_1475590279539_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/bothriochloa-laguroides/eng/1473681990207/1473681990779"
+}

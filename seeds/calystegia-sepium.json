@@ -1,0 +1,76 @@
+{
+    "scientific_name": "Calystegia sepium",
+    "family": {
+        "en": "Convolvulaceae",
+        "fr": "Convolvulacées"
+    },
+    "common_name": {
+        "en": "Hedge bindweed/Great bindweed",
+        "fr": "Liseron des haies/Grand liseron"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "True seed",
+        "fr": "Vrai semence"
+    },
+    "identification_features": {
+        "seed_length": [
+            3.5,
+            5.0
+        ],
+        "seed_width": [
+            3.5,
+            4.0
+        ],
+        "shape": {
+            "en": "oval",
+            "fr": "ovale"
+        },
+        "surface_texture": {
+            "en": "smooth, dull",
+            "fr": "lisse, terne"
+        },
+        "colour": {
+            "en": "light to dark reddish-brown",
+            "fr": "brun rougeâtre clair à foncé"
+        },
+        "other_features": {
+            "en": "hilum is a diagonal area on inner surface of seed hilum is shaped like a half-circle, and often orange in colour",
+            "fr": "hilum est une zone diagonale à la surface interne de la graine, en forme de demi-cercle et souvent de couleur orange"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Field bindweed",
+                "scientific_name": "Convolvulus arvensis",
+                "description": "found across Canada and the United States similar to great bindweed in shape, size, reddish-brown colour and diagonal hilum ~0.5 mm smaller than great bindweed covered with network of fine lines and dense tubercles hilum is oval in shape (hilum is D-shaped in great bindweed)"
+            }
+        ],
+        "fr": [
+            {
+                "name": "Liseron des champs",
+                "scientific_name": "Convolvulus arvensis",
+                "description": "trouvé à travers le Canada et les États-Unis similaire au grand liseron en termes de forme, taille, couleur brun rougeâtre et hilum diagonal ~0,5 mm plus petit que le grand liseron couvert d'un réseau de fines lignes et de tubercules denses hilum est de forme ovale (hilum est en forme de D dans le grand liseron)"
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_calystegia_sepium_img3_1404845784136_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_calystegia_sepium_img2_1404845729901_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_calystegia_sepium_img1_1404845689120_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_convolvulus_arvensis_img1_1404845864027_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/calystegia-sepium/eng/1404910288993/1404910289853"
+}

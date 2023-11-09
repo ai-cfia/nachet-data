@@ -1,0 +1,78 @@
+{
+    "scientific_name": "Pueraria montana",
+    "family": {
+        "en": "Fabaceae",
+        "fr": "Fabacées"
+    },
+    "common_name": {
+        "en": "Kudzu",
+        "fr": "Kudzu"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            3.1,
+            5.0
+        ],
+        "seed_width": [
+            2.5,
+            3.5
+        ],
+        "shape": {
+            "en": "Oval or D-shaped seed; compressed",
+            "fr": "Graine ovale ou en forme de D ; comprimée"
+        },
+        "surface_texture": {
+            "en": "Seed smooth with a satiny sheen",
+            "fr": "Graine lisse avec un éclat satiné"
+        },
+        "colour": {
+            "en": "Seed usually reddish-brown or brown with black mottles; some seeds are a uniform colour",
+            "fr": "Graine généralement brun rougeâtre ou brun avec des taches noires ; certaines graines sont d'une couleur uniforme"
+        },
+        "other_features": {
+            "en": "Pale ring of tissue around hilum, located in the middle of narrow edge",
+            "fr": "Anneau pâle de tissu autour de l'hile, situé au milieu du bord étroit"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Sainfoin",
+                "scientific_name": "Onobrychis viciifolia",
+                "description": "Similar size, D- shape, reddish-brown colour and raised tissue around hilum. Sainfoin seeds do not have mottles and the raised hilum tissue is thin. The single-seeded legume is often shed with the seed inside, while kudzu's legume is many-seeded and splits at maturity."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Sainfoin",
+                "scientific_name": "Onobrychis viciifolia",
+                "description": "Taille similaire, forme en D, couleur brun rougeâtre et tissu surélevé autour de l'hile. Les graines de sainfoin n'ont pas de taches et le tissu surélevé de l'hile est mince. La légumineuse à une seule graine est souvent éjectée avec la graine à l'intérieur, tandis que la légumineuse du kudzu est à plusieurs graines et se fend à maturité."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Pueraria_montana_img1_1397671695840_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Pueraria_montana_img5_1504023320277_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Pueraria_montana_img6_1504021721318_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Pueraria_montana_img2_1397671767371_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Pueraria_montana_img3_1397671840669_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Pueraria_montana_img4_1397671873310_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/pueraria-montana/eng/1397755917428/1397755957679"
+}

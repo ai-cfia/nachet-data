@@ -1,0 +1,78 @@
+{
+    "scientific_name": "Tripleurospermum maritimum subsp. maritimum",
+    "family": {
+        "en": "Asteraceae",
+        "fr": "Asteraceae"
+    },
+    "common_name": {
+        "en": "False mayweed",
+        "fr": "Fausse camomille maritime"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial",
+            "Biennial"
+        ],
+        "fr": [
+            "Vivace",
+            "Bisannuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.0,
+            3.5
+        ],
+        "seed_width": [
+            1.0,
+            1.5
+        ],
+        "shape": {
+            "en": "Rectangular",
+            "fr": "Rectangulaire"
+        },
+        "surface_texture": {
+            "en": "Smooth on ribs, bumpy between ribs",
+            "fr": "Lisse sur les côtes, bosselée entre les côtes"
+        },
+        "colour": {
+            "en": "Medium brown (occasionally light) on ribs, dark brown between ribs",
+            "fr": "Marron moyen (occasionnellement clair) sur les côtes, marron foncé entre les côtes"
+        },
+        "other_features": {
+            "en": "Achene has 2 ends. Top has a small peg surrounded by a jagged rim. Bottom has a small ring. 2 depressions occasionally appear at the top of the achene on the non-rib side (dark brown or red, usually oval-shaped)",
+            "fr": "L'akène a 2 extrémités. Le dessus a un petit tenon entouré d'un rebord dentelé. Le bas a un petit anneau. 2 dépressions apparaissent parfois en haut de l'akène du côté non côtelé (marron foncé ou rouge, généralement de forme ovale)"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Scentless chamomile",
+                "scientific_name": "Tripleurospermum maritimum subsp. inodorum",
+                "description": "Found across Canada and the northern United States. Similar to false mayweed in size (scentless chamomile tends to be ~0.5 mm smaller), rectangular shape, colour, markings and the presence of ribs (it is difficult to distinguish from false mayweed with accuracy). Tends to have wider spaces between ribs. 2 dots on the non-rib side are round."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Camomille sans odeur",
+                "scientific_name": "Tripleurospermum maritimum subsp. inodorum",
+                "description": "Présente partout au Canada et dans le nord des États-Unis. Similaire à la fausse camomille maritime en termes de taille (la camomille sans odeur a tendance à être ~0,5 mm plus petite), de forme rectangulaire, de couleur, de marques et de présence de côtes (il est difficile de la distinguer de la fausse camomille maritime avec précision). A tendance à avoir des espaces plus larges entre les côtes. Les 2 points du côté non côtelé sont ronds."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_tripleuros_maritimum_maritimum_img1_1405511808328_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_tripleuros_maritimum_maritimum_img2_1405511851156_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_tripleuros_maritimum_maritimum_img3_1405511931140_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_tripleuros_maritimum_inodorum_img1_1405511505015_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/tripleurospermum-maritimum-subsp-maritimum/eng/1405513921875/1405513922609"
+}

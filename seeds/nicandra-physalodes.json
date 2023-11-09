@@ -1,0 +1,71 @@
+{
+    "scientific_name": "Nicandra physalodes",
+    "family": {
+        "en": "Solanaceae",
+        "fr": "Solanacées"
+    },
+    "common_name": {
+        "en": "Apple of Peru",
+        "fr": "Pomme du Pérou"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [],
+        "seed_width": [],
+        "shape": {
+            "en": "Seed is round to kidney-shaped, strongly compressed",
+            "fr": "La graine est ronde à en forme de rein, fortement comprimée"
+        },
+        "surface_texture": {
+            "en": "Seed is glossy; strongly reticulate with small wavy-edged cells",
+            "fr": "La graine est brillante ; fortement réticulée avec de petites cellules à bords ondulés"
+        },
+        "colour": {
+            "en": "Seed is orange to brownish-orange",
+            "fr": "La graine est orange à brun orangé"
+        },
+        "other_features": {
+            "en": "Hilum is a small slit along the narrow edge of the seed.",
+            "fr": "L'hile est une petite fente le long du bord étroit de la graine."
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Husk tomato",
+                "scientific_name": "Physalis pubescens",
+                "description": "Husk tomato seeds are a similar size, round shape, with a glossy and wrinkled surface as apple of Peru. Husk tomato seeds differ from apple of Peru by: lighter colour and an indistinct surface pattern. The cells of husk tomato are wavy-edged, shallow, and are pulled at the hilum and along the narrow edge. The cells of apple of Peru are deep, well-defined and appear the same across the seed."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Tomate à enveloppe",
+                "scientific_name": "Physalis pubescens",
+                "description": "Les graines de tomate à enveloppe sont de taille similaire, de forme ronde, avec une surface brillante et ridée comme la pomme du Pérou. Les graines de tomate à enveloppe diffèrent de la pomme du Pérou par leur couleur plus claire et un motif de surface indistinct. Les cellules de la tomate à enveloppe sont à bords ondulés, peu profondes et sont tirées vers l'hile et le long du bord étroit. Les cellules de la pomme du Pérou sont profondes, bien définies et semblent identiques sur toute la graine."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_nicandra_physalodes_01cnsh_1475604876286_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_nicandra_physalodes_02cnsh_1475604896628_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_nicandra_physalodes_03cnsh_1475604918039_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_physalis_pubescens_01cnsh_1475605517938_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_physalis_pubescens_02cnsh_1475605698450_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/nicandra-physalodes/eng/1475881649286/1475881649799"
+}

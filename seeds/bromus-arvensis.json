@@ -1,0 +1,78 @@
+{
+    "scientific_name": "Bromus arvensis",
+    "family": {
+        "en": "Poaceae",
+        "fr": "Poacées"
+    },
+    "common_name": {
+        "en": "Field brome",
+        "fr": "Brome des champs"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Floret",
+        "fr": "Fleuron"
+    },
+    "identification_features": {
+        "seed_length": [
+            7.0,
+            9.0
+        ],
+        "seed_width": [
+            1.0,
+            1.5
+        ],
+        "shape": {
+            "en": "Long oval-shaped floret with a flared top and extended lemma sides",
+            "fr": "Fleuron de forme ovale allongée avec le sommet évasé et les côtés du lemme étendus"
+        },
+        "surface_texture": {
+            "en": "Lemma is papery and usually glabrous, can be scabrous on the upper half; margins often with hyaline margins",
+            "fr": "Le lemme est mince et généralement glabre, peut être rugueux sur la moitié supérieure ; les marges sont souvent hyalines"
+        },
+        "colour": {
+            "en": "Floret is straw yellow",
+            "fr": "Le fleuron est jaune paille"
+        },
+        "other_features": {
+            "en": "Palea teeth longer than 1.0 mm. Awn does not bend away from the lemma.",
+            "fr": "Les dents de la paléole sont plus longues que 1,0 mm. L'arête ne se courbe pas loin du lemme."
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Japanese brome",
+                "scientific_name": "Bromus japonicus",
+                "description": "Japanese brome has a similar size, oval shape, straw colour and extended lemma sides as field brome. Japanese brome's awn is up to 3.0 mm shorter than field brome and bends away from the lemma. The lemma sides tend to extend further past the grain than field brome. Japanese brome has hairs on the upper half of the lemma, while field brome usually has glabrous lemmas."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Brome du Japon",
+                "scientific_name": "Bromus japonicus",
+                "description": "Le brome du Japon a une taille similaire, une forme ovale, une couleur paille et des côtés de lemme étendus comme le brome des champs. L'arête du brome du Japon est jusqu'à 3,0 mm plus courte que celle du brome des champs et se courbe loin du lemme. Les côtés du lemme ont tendance à s'étendre plus loin que le grain que le brome des champs. Le brome du Japon a des poils sur la moitié supérieure du lemme, tandis que le brome des champs a généralement des lemmes glabres."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_arvensis_06cnsh_1475590582392_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_arvensis_03cnsh_1475590535827_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_arvensis_01cnsh_1475590509067_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_arvensis_05cnsh_1475590560441_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_japonicus_17cnsh_1475591332139_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_japonicus_06cnsh_1475591134527_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/bromus-arvensis/eng/1473682004165/1473682004572"
+}

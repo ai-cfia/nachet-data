@@ -1,0 +1,78 @@
+{
+    "scientific_name": "Conringia orientalis",
+    "family": {
+        "en": "Brassicaceae",
+        "fr": "Brassicacées"
+    },
+    "common_name": {
+        "en": "Hare's-ear mustard/Hare's-ear cabbage",
+        "fr": "Moutarde oreille de lièvre/Chou oreille de lièvre"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual",
+            "Winter annual"
+        ],
+        "fr": [
+            "Annuelle",
+            "Annuelle d'hiver"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "True seed",
+        "fr": "Vraie graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.0,
+            2.5
+        ],
+        "seed_width": [
+            1.0,
+            1.5
+        ],
+        "shape": {
+            "en": "oblong - straight sides and rounded ends seed root set above seed surface",
+            "fr": "oblongue - côtés droits et extrémités arrondies, racine de la graine au-dessus de la surface de la graine"
+        },
+        "surface_texture": {
+            "en": "distinct network of ridges over seed surface (can appear as cells, bubbles or wrinkles), tissue at hilum end appears pulled out from surface",
+            "fr": "réseau distinct de crêtes sur la surface de la graine (peut apparaître comme des cellules, des bulles ou des rides), le tissu à l'extrémité du hilum semble tiré de la surface"
+        },
+        "colour": {
+            "en": "immature seeds are reddish-orange with a dark hilum, mature seeds are dark reddish-brown",
+            "fr": "les graines immatures sont rouge orangé avec un hilum foncé, les graines mûres sont brun rougeâtre foncé"
+        },
+        "other_features": {
+            "en": "pods are pale, golden colour, long, thick and 4-angled",
+            "fr": "les gousses sont de couleur pâle, dorée, longues, épaisses et à 4 angles"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Dame's rocket",
+                "scientific_name": "Hesperis matronalis",
+                "description": "found across Canada and the United States (except in the Far North) similar to hare's-ear mustard in size (dame's rocket is ~ 0.5 mm smaller), reddish-brown colour, prominent seed root and bubbled surface hilum tissue is not as evident, and surface decoration is much smaller and finer pods are long like hare's ear mustard pods, but are rounded and purplish-brown"
+            }
+        ],
+        "fr": [
+            {
+                "name": "Violette des dames",
+                "scientific_name": "Hesperis matronalis",
+                "description": "trouvée à travers le Canada et les États-Unis (sauf dans le Grand Nord) similaire à la moutarde oreille de lièvre en taille (la violette des dames est ~ 0,5 mm plus petite), couleur brun rougeâtre, racine de graine proéminente et surface à bulles le tissu du hilum n'est pas aussi évident et la décoration de surface est beaucoup plus petite et plus fine les gousses sont longues comme celles de la moutarde oreille de lièvre, mais sont arrondies et brun violacé"
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_conringia_orientalis_img1_1404906904659_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_conringia_orientalis_img2_1404906959113_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_conringia_orientalis_img3_1404906992347_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_hesperis_matronalis_img1_1404907063660_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/conringia-orientalis/eng/1404910380963/1404910381869"
+}

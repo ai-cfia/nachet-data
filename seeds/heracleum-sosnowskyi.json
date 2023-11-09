@@ -1,0 +1,77 @@
+{
+    "scientific_name": "Heracleum sosnowskyi",
+    "family": {
+        "en": "Apiaceae",
+        "fr": "Apiacées"
+    },
+    "common_name": {
+        "en": "Hogweed",
+        "fr": "Berce de Sosnowsky"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Monocarpic perennial (dies after flowering)"
+        ],
+        "fr": [
+            "Vivace monocarpique (meurt après la floraison)"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Schizocarp",
+        "fr": "Schizocarpe"
+    },
+    "identification_features": {
+        "seed_length": [
+            10.0,
+            16.0
+        ],
+        "seed_width": [
+            5.0,
+            9.0
+        ],
+        "shape": {
+            "en": "Long oval, flattened",
+            "fr": "Ovale allongé, aplati"
+        },
+        "surface_texture": {
+            "en": "Dull, hairs on dorsal side of mericarp",
+            "fr": "Terne, poils sur le côté dorsal du méricarpe"
+        },
+        "colour": {
+            "en": "Light yellow mericarp with brown oil ducts",
+            "fr": "Méricarpe jaune clair avec des canaux d'huile bruns"
+        },
+        "other_features": {
+            "en": "Teeth along the edge, especially near the top of the mericarp. The oil ducts extend ¾ down the mericarp and have enlarged ends.",
+            "fr": "Dents le long du bord, surtout près du sommet du méricarpe. Les canaux d'huile s'étendent aux ¾ du méricarpe et ont des extrémités élargies."
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Giant hogweed",
+                "scientific_name": "Heracleum mantegazzianum",
+                "description": "The mericarps of giant hogweed are a similar oval shape, flattened, enlarged oil ducts and marginal teeth to hogweed. Giant hogweed mericarps tend to be more narrow, have few or no hairs, are more yellow-coloured and the oil ducts are red compared to hogweed's brown oil ducts. Hogweed is also more shade tolerant than giant hogweed."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Berce géante",
+                "scientific_name": "Heracleum mantegazzianum",
+                "description": "Les méricarpes de la berce géante ont une forme ovale similaire, aplatie, des canaux d'huile agrandis et des dents marginales à la berce de Sosnowsky. Les méricarpes de la berce géante ont tendance à être plus étroits, ont peu ou pas de poils, sont de couleur plus jaune et les canaux d'huile sont rouges par rapport aux canaux d'huile bruns de la berce de Sosnowsky. La berce de Sosnowsky est également plus tolérante à l'ombre que la berce géante."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_heracleum_sosynowkyi_06cnsh_1475602614633_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_heracleum_sosynowkyi_07cnsh_1475602635686_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_heracleum_sosynowkyi_05cnsh_1475602594241_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_heracleum_sosynowkyi_08cnsh_1475602705412_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_heracleum_mantegazzianum_01cnsh_1475602526750_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/heracleum-sosnowskyi/eng/1475881575441/1475881575830"
+}

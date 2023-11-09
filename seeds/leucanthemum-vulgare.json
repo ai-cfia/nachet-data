@@ -1,0 +1,79 @@
+{
+    "scientific_name": "Leucanthemum vulgare",
+    "family": {
+        "en": "Asteraceae",
+        "fr": "Asteraceae"
+    },
+    "common_name": {
+        "en": "Ox-eye daisy",
+        "fr": "Marguerite commune"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.0,
+            3.0
+        ],
+        "seed_width": [
+            0.8,
+            1.0
+        ],
+        "shape": {
+            "en": "Elongate, ribbed, tapered at base",
+            "fr": "Allongé, nervuré, effilé à la base"
+        },
+        "surface_texture": {
+            "en": "10 prominent ribs with smooth interspaces",
+            "fr": "10 nervures proéminentes avec des espaces lisses"
+        },
+        "colour": {
+            "en": "Dark brown with light brown ribs",
+            "fr": "Brun foncé avec des nervures brun clair"
+        },
+        "other_features": {
+            "en": "A short and blunt floral style remnant is on top of the achene. The rib interspaces frequently have short, white streaks",
+            "fr": "Un reste de style floral court et émoussé se trouve sur le dessus de l'akène. Les espaces entre les nervures ont souvent de courtes stries blanches"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Shasta daisy",
+                "scientific_name": "Leucanthemum x superbum",
+                "description": "Shasta daisy achenes have a similar shape, dark colour with streaks between the ribs and top peg as ox-eye daisy. Shasta daisy (length: 3.0 - 5.0 mm; width 1.0 - 1.5 mm) is generally larger than ox-eye daisy. The ribs tend to be darker than ox-eye daisy."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Marguerite de Shasta",
+                "scientific_name": "Leucanthemum x superbum",
+                "description": "Les akènes de la marguerite de Shasta ont une forme similaire, une couleur foncée avec des stries entre les nervures et une extrémité supérieure comme la marguerite commune. La marguerite de Shasta (longueur : 3,0 - 5,0 mm ; largeur : 1,0 - 1,5 mm) est généralement plus grande que la marguerite commune. Les nervures ont tendance à être plus foncées que celles de la marguerite commune."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_leucanthemum_vulgare_01cnsh_1475604023106_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_leuc_vulg_copyright_1475603930529_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_leucanthemum_vulgare_03cnsh_1475604090641_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_leucanthemum_vulgare_04cnsh_1475604132956_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_leucanthemum_vulgare_02cnsh_1475604047790_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_leucanthemum_superbum_01cnsh_1475603954906_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_leucanthemum_superbum_02cnsh_1475603983441_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/leucanthemum-vulgare/eng/1476285727422/1476285727734"
+}

@@ -1,0 +1,81 @@
+{
+    "scientific_name": "Tripleurospermum inodorum",
+    "family": {
+        "en": "Asteraceae",
+        "fr": "Astéracées"
+    },
+    "common_name": {
+        "en": "Scentless chamomile",
+        "fr": "Camomille inodore"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual",
+            "Short-lived perennial"
+        ],
+        "fr": [
+            "Annuelle",
+            "Vivace de courte durée"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            1.7,
+            3.1
+        ],
+        "seed_width": [
+            0.7,
+            1.6
+        ],
+        "shape": {
+            "en": "Rectangular-shaped achene",
+            "fr": "Akène de forme rectangulaire"
+        },
+        "surface_texture": {
+            "en": "Three ribs are on one side, and no ribs on other side of achene. Surface is transversely wrinkled between ribs",
+            "fr": "Trois côtes sont présentes d'un côté, et aucune côte de l'autre côté de l'akène. La surface est ridée transversalement entre les côtes."
+        },
+        "colour": {
+            "en": "Ribs are light to medium brown, dark brown between ribs, resin glands are reddish",
+            "fr": "Les côtes sont de couleur brun clair à brun moyen, brun foncé entre les côtes, les glandes de résine sont rougeâtres"
+        },
+        "other_features": {
+            "en": "Achene has 2 ends: top has a small style peg surrounded by a jagged rim, while bottom has a small ring. Two resin glands are at top of achene on side without ribs. Resin glands usually round and reddish. Resin glands can also be seen looking down from top of achene",
+            "fr": "L'akène a 2 extrémités : le sommet a une petite tige de style entourée d'un bord dentelé, tandis que le bas a un petit anneau. Deux glandes de résine se trouvent au sommet de l'akène du côté sans côtes. Les glandes de résine sont généralement rondes et rougeâtres. Les glandes de résine peuvent également être observées en regardant de haut en bas de l'akène"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "False mayweed",
+                "scientific_name": "Tripleurospermum maritimum",
+                "description": "False mayweed achenes are a similar size, brown colour, and rectangular shape as scentless chamomile. The rib arrangement and the resin glands are also similar to scentless chamomile. False mayweed achenes usually have less space between the ribs, the resin glands cannot be seen from the top of the achene, and the resin glands are often brown and oval rather than round and reddish compared to scentless chamomile."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Fausse camomille maritime",
+                "scientific_name": "Tripleurospermum maritimum",
+                "description": "Les akènes de la fausse camomille maritime sont de taille similaire, de couleur brune et de forme rectangulaire comme la camomille inodore. L'arrangement des côtes et les glandes de résine sont également similaires à la camomille inodore. Les akènes de la fausse camomille maritime ont généralement moins d'espace entre les côtes, les glandes de résine ne peuvent pas être vues depuis le sommet de l'akène, et les glandes de résine sont souvent brunes et ovales plutôt que rondes et rougeâtres comme dans la camomille inodore."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_tripleuros_maritimum_inodorum_img5_1509982808468_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_tripleuros_maritimum_inodorum_img6_1509982827460_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_tripleuros_maritimum_inodorum_img1_1405511505015_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_tripleuros_maritimum_inodorum_img4_1405511754531_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_tripleuros_maritimum_maritimum_img3_1405511931140_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_tripleuros_maritimum_maritimum_img1_1405511808328_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_tripleuros_maritimum_maritimum_img2_1405511851156_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/tripleurospermum-inodorum/eng/1405513897968/1405513898734"
+}

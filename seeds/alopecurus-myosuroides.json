@@ -1,0 +1,78 @@
+{
+    "scientific_name": "Alopecurus myosuroides",
+    "family": {
+        "en": "Poaceae",
+        "fr": "Poacées"
+    },
+    "common_name": {
+        "en": "Slender foxtail",
+        "fr": "Vulpin des champs"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Winter annual"
+        ],
+        "fr": [
+            "Annuelle hivernale"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Spikelet",
+        "fr": "Épillet"
+    },
+    "identification_features": {
+        "seed_length": [
+            5.0,
+            8.3
+        ],
+        "seed_width": [
+            1.5,
+            2.8
+        ],
+        "shape": {
+            "en": "Long oval; strongly laterally compressed",
+            "fr": "Long ovale ; fortement comprimé latéralement"
+        },
+        "surface_texture": {
+            "en": "Granular",
+            "fr": "Granulaire"
+        },
+        "colour": {
+            "en": "Brownish-yellow",
+            "fr": "Jaune brunâtre"
+        },
+        "other_features": {
+            "en": "Short hairs occur around the callus and on the lower half of the spikelet; the upper half has teeth along the margins. Round, upturned callus at spikelet base has a 'sucker mouth' appearance. Caryopsis is laterally compressed so that the embryo is on the narrow edge. Spikelet may have a thin awn that is bent near the base.",
+            "fr": "Des poils courts se trouvent autour du calus et sur la moitié inférieure de l'épillet ; la moitié supérieure présente des dents le long des marges. Le calus arrondi et retourné à la base de l'épillet a l'apparence d'une 'bouche de ventouse'. La caryopse est comprimée latéralement de sorte que l'embryon se trouve sur le bord étroit. L'épillet peut avoir une arête mince pliée près de la base."
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Meadow foxtail",
+                "scientific_name": "Alopecurus pratensis",
+                "description": "Meadow foxtail spikelets have a similar size, oval shape, and brownish colour as slender foxtail spikelets. Slender foxtail spikelets have hairs only on the lower half and a granular surface while meadow foxtail has a smooth surface and hairs along the length of the spikelet."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Vulpin des prés",
+                "scientific_name": "Alopecurus pratensis",
+                "description": "Les épillets du vulpin des prés ont une taille, une forme ovale et une couleur brunâtre similaires à ceux du vulpin des champs. Les épillets du vulpin des champs ont des poils uniquement sur la moitié inférieure et une surface granulaire tandis que le vulpin des prés a une surface lisse et des poils le long de l'épillet."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alopecurus_myosuroides_05cnsh_1475586395621_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alopecurus_myosuroides_02cnsh_1475586181599_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alopecurus_myosuroides_03cnsh_1475586211350_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alopecurus_myosuroides_04cnsh_1475586240427_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alopecurus_pratensis_02cnsh_1475586456440_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alopecurus_pratensis_01cnsh_1475586425725_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/alopecurus-myosuroides/eng/1398282775426/1398282817272"
+}

@@ -1,0 +1,78 @@
+{
+    "scientific_name": "Galium spurium",
+    "family": {
+        "en": "Rubiaceae",
+        "fr": "Rubiaceae"
+    },
+    "common_name": {
+        "en": "False cleavers",
+        "fr": "Gaillet faux-asperge"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Schizocarp",
+        "fr": "Schizocarpe"
+    },
+    "identification_features": {
+        "seed_length": [
+            1.0,
+            2.5
+        ],
+        "seed_width": [],
+        "shape": {
+            "en": "Fruit globose to oval with a highly visible hole on the ventral side",
+            "fr": "Fruit globuleux à ovale avec un trou très visible sur le côté ventral"
+        },
+        "surface_texture": {
+            "en": "The surface is covered in hooked bristles with non-tuberculate bases, fruits occasionally smooth",
+            "fr": "La surface est couverte de poils crochus avec des bases non tuberculées, les fruits sont parfois lisses"
+        },
+        "colour": {
+            "en": "Fruit grey-brown with white bristles",
+            "fr": "Fruit brun-gris avec des poils blancs"
+        },
+        "other_features": {
+            "en": "The hole on the ventral side of the fruit is typically a transverse oval",
+            "fr": "Le trou sur le côté ventral du fruit est généralement ovale transversal"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Cleavers",
+                "scientific_name": "Galium aparine",
+                "description": "Cleavers' fruits have similar globose shape with a hole on the ventral side, grey-brown colour and white bristles. Cleavers' fruits (diameter: 1.6 - 4.0 mm) tend to be larger than false cleavers, the bristles have tuberculate bases, and the ventral hole tends to be round and deep."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Gaillet gratteron",
+                "scientific_name": "Galium aparine",
+                "description": "Les fruits du gaillet gratteron ont une forme globuleuse similaire avec un trou sur le côté ventral, une couleur brun-gris et des poils blancs. Les fruits du gaillet gratteron (diamètre : 1,6 - 4,0 mm) ont tendance à être plus grands que ceux du gaillet faux-asperge, les poils ont des bases tuberculées et le trou ventral a tendance à être rond et profond."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_galium_spurium_img4_1509980302397_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_galium_spurium_img1_1405077895769_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_galium_spurium_img3_1509980174378_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_galium_spurium_img6_1509980465613_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_galium_spurium_img5_1509980390616_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_galium_spurium_img2_1405077940722_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_galium_aparine_img2_1405077836940_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_galium_aparine_img8_1509979707752_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_galium_aparine_img1_1405077807503_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/galium-spurium/eng/1405080642474/1405080643411"
+}

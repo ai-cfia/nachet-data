@@ -1,0 +1,75 @@
+{
+    "scientific_name": "Cerastium spp.",
+    "family": {
+        "en": "Caryophyllaceae",
+        "fr": "Caryophyllacées"
+    },
+    "common_name": {
+        "en": "Chickweed",
+        "fr": "Stellaire"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual",
+            "Perennial"
+        ],
+        "fr": [
+            "Annuelle",
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            0.8,
+            1.3
+        ],
+        "seed_width": [],
+        "shape": {
+            "en": "Ovate to wedge-shaped",
+            "fr": "Ovale à en forme de coin"
+        },
+        "surface_texture": {
+            "en": "Dull and tuberculate",
+            "fr": "Terne et tuberculée"
+        },
+        "colour": {
+            "en": "Reddish-brown",
+            "fr": "Brun rougeâtre"
+        },
+        "other_features": {
+            "en": "Hilum is in an open notch at narrow end of seed",
+            "fr": "Le hile est dans une encoche ouverte à l'extrémité étroite de la graine"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Common chickweed",
+                "scientific_name": "Stellaria media",
+                "description": "Common chickweed seed is reddish-brown colour with a long-tuberculate surface as Cerastium spp. Common chickweed seed is slightly larger (length: 1.0 - 1.3 mm) than commonly encountered Cerastium spp. such as C. arvense and C. fontanum subsp. vulgare. Common chickweed seeds are rounded with a closed hilum notch, and are translucent reddish-brown."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Stellaire moyenne",
+                "scientific_name": "Stellaria media",
+                "description": "La graine de la stellaire moyenne est de couleur brun rougeâtre avec une surface tuberculée longue comme les Cerastium spp. La graine de la stellaire moyenne est légèrement plus grande (longueur : 1,0 - 1,3 mm) que les Cerastium spp. couramment rencontrés tels que C. arvense et C. fontanum subsp. vulgare. Les graines de la stellaire moyenne sont arrondies avec une encoche de hile fermée et sont translucides brun rougeâtre."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cerastium_arvense_01cnsh_1475594126570_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cerastium_fontanum_vulgaris_01cnsh_1475594292992_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cerastium_fontanum_vulgaris_03cnsh_1475594342444_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_cerastium_arvense_02cnsh_1475594179242_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/cerastium-spp-/eng/1476276001057/1476276001540"
+}

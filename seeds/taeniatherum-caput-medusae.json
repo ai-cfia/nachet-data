@@ -1,0 +1,73 @@
+{
+    "scientific_name": "Taeniatherum caput-medusae",
+    "family": {
+        "en": "Poaceae",
+        "fr": "Poacées"
+    },
+    "common_name": {
+        "en": "Medusahead rye",
+        "fr": "Seigle tête de Méduse"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Floret",
+        "fr": "Fleuron"
+    },
+    "identification_features": {
+        "seed_length": [],
+        "seed_width": [],
+        "shape": {
+            "en": "Elongate, tapering at the top",
+            "fr": "Allongée, s'affinant vers le haut"
+        },
+        "surface_texture": {
+            "en": "Hard, shiny surface of lemma covered in small bumps with teeth at top and along sides",
+            "fr": "Surface dure et brillante de la lemme couverte de petites bosses avec des dents en haut et sur les côtés"
+        },
+        "colour": {
+            "en": "Straw-yellow or yellow; often with a dark stripe down the middle of the lemma",
+            "fr": "Jaune paille ou jaune ; souvent avec une bande sombre au milieu de la lemme"
+        },
+        "other_features": {
+            "en": "Flat awn appears as extension of lemma with teeth along edges. Lemma arches backwards.",
+            "fr": "L'arête plate apparaît comme une extension de la lemme avec des dents le long des bords. La lemme est arquée vers l'arrière."
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Ripgut brome",
+                "scientific_name": "Bromus diandrus",
+                "description": "Similar elongated shape, roughened texture and flat awn as medusahead rye. Ripgut brome lemmas are up to 10.0 mm longer than medusahead rye and have a leathery surface texture, while medusahead rye lemmas are stiff. Ripgut brome florets and grains are a reddish colour with thin palea teeth, while medusahead rye lemmas are straw-yellow with a dark stripe and stout palea teeth."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Brome à pointes",
+                "scientific_name": "Bromus diandrus",
+                "description": "Forme allongée, texture rugueuse et arête plate similaires à celles du seigle tête de Méduse. Les lemme du brome à pointes sont jusqu'à 10,0 mm plus longues que celles du seigle tête de Méduse et ont une texture de surface cuirée, tandis que les lemme du seigle tête de Méduse sont rigides. Les fleurons et les grains du brome à pointes sont de couleur rougeâtre avec de fines dents sur la paléole, tandis que les lemme du seigle tête de Méduse sont jaune paille avec une bande sombre et des dents robustes sur la paléole."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_taeniatherum_caput_medusae_12cnsh_1475608532291_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_taeniatherum_caput_medusae_10cnsh_1475608512218_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_taeniatherum_caput_medusae_05cnsh_1475606952224_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_taeniatherum_caput_medusae_01cnsh_1475606928179_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_taeniatherum_caput_medusae_06cnsh_1475608492640_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_diandrus_04cnsh_1475590650410_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_diandrus_03cnsh_1475590620955_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/taeniatherum-caput-medusae/eng/1475881828625/1475881829107"
+}

@@ -1,0 +1,79 @@
+{
+    "scientific_name": "Carduus nutans",
+    "family": {
+        "en": "Asteraceae",
+        "fr": "Asteraceae"
+    },
+    "common_name": {
+        "en": "Nodding thistle",
+        "fr": "Chardon penché"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Biennial"
+        ],
+        "fr": [
+            "Bisannuel"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.4,
+            3.8
+        ],
+        "seed_width": [
+            0.9,
+            1.6
+        ],
+        "shape": {
+            "en": "Achene elongate, straight to slightly curved, tapering at the base and top is truncate",
+            "fr": "Akène allongé, droit à légèrement courbé, s'amincissant à la base et le sommet est tronqué"
+        },
+        "surface_texture": {
+            "en": "Achene glossy surface, looks varnished",
+            "fr": "Surface de l'akène brillante, aspect verni"
+        },
+        "colour": {
+            "en": "Achene light to dark golden brown; the base is canary yellow and a yellow band may occur below the collar",
+            "fr": "Akène brun doré clair à foncé ; la base est jaune canari et une bande jaune peut apparaître sous le collier"
+        },
+        "other_features": {
+            "en": "Both longitudinal lines and transverse waves may be seen under the achene's varnish-like surface coating. The style peg at the top of the achene is usually short and thick. Immature achenes may have a thin white pappus",
+            "fr": "Des lignes longitudinales et des ondulations transversales peuvent être observées sous le revêtement de surface verni de l'akène. La tige à l'extrémité supérieure de l'akène est généralement courte et épaisse. Les akènes immatures peuvent avoir un pappus blanc mince"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Spiny plumeless thistle",
+                "scientific_name": "Carduus acanthoides",
+                "description": "Spiny plumeless thistle achenes (length: 2.5 - 3.0 mm) are generally shorter and paler than nodding thistle achenes. The achenes have the same elongate shape with a thick top peg, and both longitudinal and transverse lines occur on both species' achenes. Spiny plumeless thistle does not have the canary yellow base of nodding thistle, and the lines on the surface stand out in relief, while the lines on the surface of nodding thistle are covered with a varnish-like coating. Immature nodding thistle achenes may have lines that stand out from the surface, but they will have a yellow base."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Chardon épineux sans plume",
+                "scientific_name": "Carduus acanthoides",
+                "description": "Les akènes du chardon épineux sans plume (longueur : 2,5 - 3,0 mm) sont généralement plus courts et plus pâles que les akènes du chardon penché. Les akènes ont la même forme allongée avec une tige épaisse à l'extrémité supérieure, et des lignes longitudinales et transversales se trouvent sur les akènes des deux espèces. Le chardon épineux sans plume n'a pas la base jaune canari du chardon penché, et les lignes à la surface ressortent en relief, tandis que les lignes à la surface du chardon penché sont recouvertes d'un revêtement semblable à du vernis. Les akènes immatures du chardon penché peuvent avoir des lignes qui ressortent de la surface, mais ils auront une base jaune."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_nutans_02cnsh_1475592825972_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_nutans_05cnsh_1475592949337_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_nutans_07cnsh_1475592996960_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_nutans_04cnsh_1475592914725_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_nutans_copyrifgt_1475593026210_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_acanthoides_01cnsh_1475592486335_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_carduus_acanthoides_03cnsh_1475592513591_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/carduus-nutans/eng/1476277091719/1476277092202"
+}

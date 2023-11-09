@@ -1,0 +1,79 @@
+{
+    "scientific_name": "Alternanthera sessilis",
+    "family": {
+        "en": "Amaranthaceae",
+        "fr": "Amaranthacées"
+    },
+    "common_name": {
+        "en": "Sessile joyweed",
+        "fr": "Alternanthère sessile"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual",
+            "Short-lived perennial"
+        ],
+        "fr": [
+            "Annuelle",
+            "Vivace de courte durée"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "True seed",
+        "fr": "Vraie graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            1.5,
+            2.5
+        ],
+        "seed_width": [
+            1.5,
+            2.5
+        ],
+        "shape": {
+            "en": "Round with a notch at seed root area",
+            "fr": "Rond avec une encoche à la base de la graine"
+        },
+        "surface_texture": {
+            "en": "Shiny and smooth",
+            "fr": "Brillant et lisse"
+        },
+        "colour": {
+            "en": "Translucent, dark red",
+            "fr": "Translucide, rouge foncé"
+        },
+        "other_features": {
+            "en": "Perianth is attached to the base of the fruit and has 5 sharp-pointed lobes. Top of utricle extends past perianth.",
+            "fr": "Le périanthe est attaché à la base du fruit et possède 5 lobes pointus. Le sommet de l'utricule dépasse le périanthe."
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Smooth joyweed",
+                "scientific_name": "Alternanthera paronychioides",
+                "description": "Not found in Canada; found in the southeastern United States. Distribution overlaps with that of sessile joyweed. Very similar to sessile joyweed (fruits are difficult to distinguish). Tends to be larger than sessile joyweed by up to 1.0 mm. Utricle remains within perianth (utricle of sessile joyweed extends past perianth lobes)."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Alternanthère paronychioides",
+                "scientific_name": "Alternanthera paronychioides",
+                "description": "Non trouvé au Canada; trouvé dans le sud-est des États-Unis. La distribution chevauche celle de l'alternanthère sessile. Très similaire à l'alternanthère sessile (les fruits sont difficiles à distinguer). A tendance à être plus grand que l'alternanthère sessile jusqu'à 1,0 mm. L'utricule reste à l'intérieur du périanthe (l'utricule de l'alternanthère sessile dépasse les lobes du périanthe)."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alternanthera_image3_1401976028495_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alternanthera_image4_1401976049604_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alternanthera_image2_1401975988541_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alternanthera_image1_1401975945932_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_alternanthera_image4_1401976049604_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/alternanthera-sessilis/eng/1398289385833/1398289412685"
+}

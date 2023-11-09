@@ -1,0 +1,72 @@
+{
+    "scientific_name": "Dioscorea polystachya",
+    "family": {
+        "en": "Dioscoreaceae",
+        "fr": "Dioscoréacées"
+    },
+    "common_name": {
+        "en": "Chinese Yam",
+        "fr": "Igname de Chine"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "True seed, although plants can produce vegetative \"bulbils\"",
+        "fr": "Vrai grain, bien que les plantes puissent produire des \"bulbilles\" végétatives"
+    },
+    "identification_features": {
+        "seed_length": [
+            8.0,
+            15.0
+        ],
+        "seed_width": [
+            7.0,
+            10.0
+        ],
+        "shape": {
+            "en": "In outline: intact seed with wing is oblong (straight sides with rounded ends)",
+            "fr": "En contour : le grain intact avec une aile est oblongue (côtés droits avec des extrémités arrondies)"
+        },
+        "surface_texture": {
+            "en": "Smooth, fibrous",
+            "fr": "Lisse, fibreux"
+        },
+        "colour": {
+            "en": "Light yellow around edges, becoming yellow towards centre central seed area is grey",
+            "fr": "Jaune clair sur les bords, devenant jaune vers le centre, la zone centrale du grain est grise"
+        },
+        "other_features": {
+            "en": "Seeds typically have a large papery wing that is torn or removed during processing",
+            "fr": "Les graines ont généralement une grande aile papier qui est déchirée ou enlevée lors du traitement"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "",
+                "scientific_name": "",
+                "description": ""
+            }
+        ],
+        "fr": [
+            {
+                "name": "",
+                "scientific_name": "",
+                "description": ""
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Dioscorea_polystachya_img1_1397579282733_eng.jpg"
+        ],
+        "similar_species": []
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/dioscorea-polystachya/eng/1397668090275/1397668126629"
+}

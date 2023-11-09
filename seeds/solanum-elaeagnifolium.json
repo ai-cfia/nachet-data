@@ -1,0 +1,77 @@
+{
+    "scientific_name": "Solanum elaeagnifolium",
+    "family": {
+        "en": "Solanaceae",
+        "fr": "Solanacées"
+    },
+    "common_name": {
+        "en": "Silverleaf nightshade",
+        "fr": "Morelle faux-épinard"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            3.0,
+            4.0
+        ],
+        "seed_width": [
+            2.3,
+            3.5
+        ],
+        "shape": {
+            "en": "Round to oval-shaped seed, strongly compressed, notched at the hilum",
+            "fr": "Graine de forme ronde à ovale, fortement comprimée, encochée au hilum"
+        },
+        "surface_texture": {
+            "en": "Smooth with faint wavy lines, most evident along the edges of the seed",
+            "fr": "Surface lisse avec de légères lignes ondulées, plus visibles le long des bords de la graine"
+        },
+        "colour": {
+            "en": "Seed medium brown",
+            "fr": "Graine brun moyen"
+        },
+        "other_features": {
+            "en": "Hilum is a wide oval opening on narrow edge",
+            "fr": "Le hilum est une ouverture ovale large sur le bord étroit"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Horse-nettle",
+                "scientific_name": "Solanum carolinense",
+                "description": "Similar shape and smooth surface as silverleaf nightshade. Horse nettle seeds are generally shorter and narrower with a size of 2.5 - 3.5 mm length and 1.5 - 2.0 mm width; an orange colour, and a faint reticulate pattern over the entire surface compared to silverleaf nightshade."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Morelle de Caroline",
+                "scientific_name": "Solanum carolinense",
+                "description": "Forme similaire et surface lisse comme la morelle faux-épinard. Les graines de morelle de Caroline sont généralement plus courtes et plus étroites, avec une taille de 2,5 à 3,5 mm de longueur et 1,5 à 2,0 mm de largeur ; une couleur orange et un motif réticulé léger sur toute la surface par rapport à la morelle faux-épinard."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Solanum_elaeagnifolium_img1_1397672204312_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Solanum_elaeagnifolium_img2_1397672224562_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Solanum_elaeagnifolium_img3_1397672240015_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Solanum_elaeagnifolium_img5_1397672276578_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Solanum_elaeagnifolium_img4_1397672259421_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/solanum-elaeagnifolium/eng/1398179095928/1398179187059"
+}

@@ -1,0 +1,74 @@
+{
+    "scientific_name": "Chondrilla juncea",
+    "family": {
+        "en": "Asteraceae",
+        "fr": "Asteraceae"
+    },
+    "common_name": {
+        "en": "Rush skeletonweed",
+        "fr": "Chondrille fausse-jonc"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Perennial"
+        ],
+        "fr": [
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            3.0,
+            4.0
+        ],
+        "seed_width": [
+            0.5,
+            1.0
+        ],
+        "shape": {
+            "en": "Achene is oblong, tapering to a truncate base, compressed laterally",
+            "fr": "L'akène est oblong, s'effilant vers une base tronquée, comprimée latéralement"
+        },
+        "surface_texture": {
+            "en": "Woody, dull, with small overlapping flat spines at the top of the achene",
+            "fr": "Boisée, terne, avec de petites épines plates superposées au sommet de l'akène"
+        },
+        "colour": {
+            "en": "Achene is yellow-brown",
+            "fr": "L'akène est jaune-brun"
+        },
+        "other_features": {
+            "en": "A remnant style extends from the top of the achene which is usually broken off in samples.",
+            "fr": "Un style résiduel s'étend depuis le sommet de l'akène, qui est généralement cassé dans les échantillons."
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Dandelion",
+                "scientific_name": "Taraxacum officinale",
+                "description": "Dandelion has a similar oblong shape, yellow colour and style remnant as rush skeletonweed. Dandelion achenes are shorter, wider, a darker colour and the flat spines at the top extend further down the achene than rush skeletonweed."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Pissenlit",
+                "scientific_name": "Taraxacum officinale",
+                "description": "Le pissenlit a une forme oblongue similaire, une couleur jaune et un reste de style comme la chondrille fausse-jonc. Les akènes de pissenlit sont plus courts, plus larges, d'une couleur plus foncée et les épines plates au sommet descendent plus bas sur l'akène que chez la chondrille fausse-jonc."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_chondrilla_juncea_01cnsh_1475594373387_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_taraxacum_officinale_01cnsh_1475608557248_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/chondrilla-juncea/eng/1475881505959/1475881506298"
+}

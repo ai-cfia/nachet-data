@@ -1,0 +1,77 @@
+{
+    "scientific_name": "Milium vernale",
+    "family": {
+        "en": "Poaceae",
+        "fr": "Poacées"
+    },
+    "common_name": {
+        "en": "Spring milletgrass",
+        "fr": "Mil à printemps"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Floret",
+        "fr": "Fleuron"
+    },
+    "identification_features": {
+        "seed_length": [
+            1.7,
+            2.0
+        ],
+        "seed_width": [
+            0.8,
+            1.0
+        ],
+        "shape": {
+            "en": "Oval, slightly diamond-shaped; one side flat (plano-convex)",
+            "fr": "Ovale, légèrement en forme de diamant ; un côté plat (plano-convexe)"
+        },
+        "surface_texture": {
+            "en": "Smooth and glossy",
+            "fr": "Lisse et brillant"
+        },
+        "colour": {
+            "en": "Medium to light brown or straw yellow when immature, covered in brown streaks resembling wood grain",
+            "fr": "Marron moyen à jaune paille lorsqu'immature, recouvert de stries brunes ressemblant à du bois"
+        },
+        "other_features": {
+            "en": "",
+            "fr": ""
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Giant panic grass",
+                "scientific_name": "Panicum antidotale",
+                "description": "Similar size, oval shape and brown colour to spring milletgrass florets. Giant panic grass florets are up to 0.5 mm longer than spring milletgrass, lighter colour with thick dark brown streaks on the surface, spring milletgrass florets have a wood-grain appearance."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Panic antidote",
+                "scientific_name": "Panicum antidotale",
+                "description": "Taille, forme ovale et couleur brune similaires aux fleurons de mil à printemps. Les fleurons de panic antidote sont jusqu'à 0,5 mm plus longs que ceux du mil à printemps, de couleur plus claire avec des stries brunes épaisses à la surface, les fleurons de mil à printemps ont l'apparence du grain de bois."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_milium_vernale_01cnsh_1475604815480_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_milium_vernale_03cnsh_1475604833567_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_panicum_antidotale_04cnsh_1475605004486_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_milium_vernale_04cnsh_1475604852081_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_panicum_antidotale_03cnsh_1475604985959_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/milium-vernale/eng/1475881621327/1475881621787"
+}

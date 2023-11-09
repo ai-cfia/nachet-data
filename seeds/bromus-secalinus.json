@@ -1,0 +1,78 @@
+{
+    "scientific_name": "Bromus secalinus",
+    "family": {
+        "en": "Poaceae",
+        "fr": "Poacées"
+    },
+    "common_name": {
+        "en": "Cheat",
+        "fr": "Brome faux-seigle"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Floret",
+        "fr": "Fleuron"
+    },
+    "identification_features": {
+        "seed_length": [
+            6.5,
+            8.5
+        ],
+        "seed_width": [
+            1.75,
+            2.5
+        ],
+        "shape": {
+            "en": "Long, oval-shaped floret with extended lemma sides",
+            "fr": "Fleuron de forme allongée et ovale avec des côtés de lemma étendus"
+        },
+        "surface_texture": {
+            "en": "Lemma and palea are glabrous with hairy margins",
+            "fr": "Le lemma et la palea sont glabres avec des marges poilues"
+        },
+        "colour": {
+            "en": "Straw yellow",
+            "fr": "Jaune paille"
+        },
+        "other_features": {
+            "en": "Palea teeth thin and shorter than 1.0 mm. Caryopsis thicker than other species of Bromus and often curled or folded.",
+            "fr": "Les dents de la palea sont minces et plus courtes que 1,0 mm. La caryopsis est plus épaisse que les autres espèces de Bromus et est souvent enroulée ou pliée."
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Japanese Brome",
+                "scientific_name": "Bromus japonicus",
+                "description": "Japanese brome has a similar size, oval shape, straw colour and extended lemma sides. Japanese brome has a shorter and thinner awn than cheat, longer palea teeth and the caryopsis is thin and flat rather than thick and often curled."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Brome japonais",
+                "scientific_name": "Bromus japonicus",
+                "description": "Le brome japonais a une taille similaire, une forme ovale, une couleur paille et des côtés de lemma étendus. Le brome japonais a une arête plus courte et plus mince que le brome faux-seigle, des dents de palea plus longues et la caryopsis est mince et plate plutôt qu'épaisse et souvent enroulée."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_secalinus_11cnsh_1475591413772_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_secalinus_12cnsh_1475591449338_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_secalinus_09cnsh_1475591390539_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_secalinus_01cnsh_1475591357037_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_japonicus_08cnsh_1475591173779_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_bromus_japonicus_06cnsh_1475591134527_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/bromus-secalinus/eng/1473682035264/1473682035774"
+}

@@ -1,0 +1,82 @@
+{
+    "scientific_name": "Centaurea iberica",
+    "family": {
+        "en": "Asteraceae",
+        "fr": "Asteraceae"
+    },
+    "common_name": {
+        "en": "Iberian starthistle",
+        "fr": "Centaurée d'Espagne"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Biennial",
+            "Annual",
+            "Short-lived perennial"
+        ],
+        "fr": [
+            "Bisannuelle",
+            "Annuelle",
+            "Vivace de courte durée"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            3.0,
+            4.3
+        ],
+        "seed_width": [
+            1.5,
+            2.0
+        ],
+        "shape": {
+            "en": "Oblong-shaped achene with rounded bottom and flat top, compressed; large notch near the base along the narrow edge",
+            "fr": "Akène de forme oblongue avec une base arrondie et un sommet plat, comprimé ; grande encoche près de la base le long du bord étroit"
+        },
+        "surface_texture": {
+            "en": "Achene is smooth with satin sheen",
+            "fr": "L'akène est lisse avec un éclat satiné"
+        },
+        "colour": {
+            "en": "Achene is white and brown-streaked; variable in colouration",
+            "fr": "L'akène est blanc et strié de brun ; variable en coloration"
+        },
+        "other_features": {
+            "en": "White pappus is composed of flat bristles of variable lengths. Outer bristles of pappus tend to be shortest, increasing in length towards the inside",
+            "fr": "Le pappus blanc est composé de soies plates de longueurs variables. Les soies extérieures du pappus ont tendance à être les plus courtes, augmentant en longueur vers l'intérieur"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Purple starthistle",
+                "scientific_name": "Centaurea calcitrapa",
+                "description": "The achenes of purple starthistle are a similar size, oblong shape and smooth surface with reddish-brown streaks that appear like wood-grain. The achenes of purple starthistle have a smaller basal notch, dull surface and lack a pappus compared to Iberian starthistle."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Centaurée épineuse",
+                "scientific_name": "Centaurea calcitrapa",
+                "description": "Les akènes de la centaurée épineuse sont de taille similaire, de forme oblongue et de surface lisse avec des stries brun-rouge qui ressemblent à du bois. Les akènes de la centaurée épineuse ont une encoche basale plus petite, une surface terne et ne possèdent pas de pappus par rapport à la centaurée d'Espagne."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Centaurea_iberica_img1_1397577478253_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Centaurea_iberica_img2_1397577506300_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Centaurea_iberica_img3_1397577531691_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_Centaurea_iberica_img4_1397577555660_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_calcitrapa_img1_1510084042590_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_centaurea_calcitrapa_img2_1510084064302_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/centaurea-iberica/eng/1397662858342/1397662941065"
+}

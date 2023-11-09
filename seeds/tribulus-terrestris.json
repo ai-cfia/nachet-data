@@ -1,0 +1,65 @@
+{
+    "scientific_name": "Tribulus terrestris",
+    "family": {
+        "en": "Zygophyllaceae",
+        "fr": "Zygophyllacées"
+    },
+    "common_name": {
+        "en": "Puncture vine",
+        "fr": "Croix-de-Malte"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual",
+            "Biennial"
+        ],
+        "fr": [
+            "Annuelle",
+            "Bisannuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Bur, divided into 5 nutlets, each nutlet contains 2-4 seeds",
+        "fr": "Bogue, divisée en 5 akènes, chaque akène contient 2-4 graines"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.0,
+            5.0
+        ],
+        "seed_width": [
+            null
+        ],
+        "shape": {
+            "en": "Wedge-shaped, three-angled in cross-section, with several spines",
+            "fr": "En forme de coin, à trois angles en coupe transversale, avec plusieurs épines"
+        },
+        "surface_texture": {
+            "en": "Dull and woody",
+            "fr": "Terne et ligneux"
+        },
+        "colour": {
+            "en": "Straw yellow to grey-yellow",
+            "fr": "Jaune paille à jaune-gris"
+        },
+        "other_features": {
+            "en": "Seed contained in the nutlet is wedge-shaped and pale yellow. Largest spine on nutlet is 5.0-6.0 mm long.",
+            "fr": "La graine contenue dans l'akène est en forme de coin et de couleur jaune pâle. La plus grande épine de l'akène mesure 5,0 à 6,0 mm de long."
+        }
+    },
+    "similar_species": {
+        "en": [],
+        "fr": []
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_tribulus_terrestris_08cnsh_1475608675616_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_tribulus_terrestris_03cnsh_1475608580504_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_tribulus_terrestris_07cnsh_1475608655148_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_tribulus_terrestris_06cnsh_1475608637509_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_tribulus_terrestris_04cnsh_1475608599616_eng.jpg"
+        ],
+        "similar_species": []
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/tribulus-terrestris/eng/1475881856080/1475881856436"
+}

@@ -1,0 +1,89 @@
+{
+    "scientific_name": "Senecio madagascariensis",
+    "family": {
+        "en": "Asteraceae",
+        "fr": "Asteraceae"
+    },
+    "common_name": {
+        "en": "Madagascar ragwort",
+        "fr": "Séneçon de Madagascar"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Short-lived perennial"
+        ],
+        "fr": [
+            "Vivace de courte durée"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            2.0,
+            2.5
+        ],
+        "seed_width": [
+            0.5
+        ],
+        "shape": {
+            "en": "Oblong with narrow ends",
+            "fr": "Oblong avec des extrémités étroites"
+        },
+        "surface_texture": {
+            "en": "Several longitudinal ribs on achene surface. Surface roughened, appears sparkling under lights.",
+            "fr": "Plusieurs côtes longitudinales sur la surface de l'akène. Surface rugueuse, semble étincelante sous les lumières."
+        },
+        "colour": {
+            "en": "Dark yellow to reddish-brown",
+            "fr": "Jaune foncé à brun rougeâtre"
+        },
+        "other_features": {
+            "en": "Short, worm-like white hairs between the ribs of achene. Immature achenes have a long, white pappus 4.0 - 6.5 mm long.",
+            "fr": "Courts poils blancs en forme de ver entre les côtes de l'akène. Les akènes immatures ont un long pappus blanc de 4,0 à 6,5 mm de long."
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Common groundsel",
+                "scientific_name": "Senecio vulgaris",
+                "description": "Similar size, oblong shape and narrow ends. The surface hairs of common groundsel are long and dense; Madagascar ragwort has short, sparse hairs."
+            },
+            {
+                "name": "South African ragwort",
+                "scientific_name": "Senecio inaequidens",
+                "description": "Similar oblong shape, ribs and is closely related to Madagascar ragwort. South African ragwort can be up to 0.5 mm longer than Madagascar ragwort, has only one end narrowed and is usually dark brown and densely covered with long white hairs."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Séneçon vulgaire",
+                "scientific_name": "Senecio vulgaris",
+                "description": "Taille, forme oblongue et extrémités étroites similaires. Les poils de surface du séneçon vulgaire sont longs et denses ; le séneçon de Madagascar a des poils courts et clairsemés."
+            },
+            {
+                "name": "Séneçon inégal",
+                "scientific_name": "Senecio inaequidens",
+                "description": "Forme oblongue, côtes similaires et étroitement lié au séneçon de Madagascar. Le séneçon inégal peut être jusqu'à 0,5 mm plus long que le séneçon de Madagascar, a une seule extrémité rétrécie et est généralement brun foncé et densément couvert de longs poils blancs."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_senecio_madagascariensis_03cnsh_1475606370869_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_senecio_madagascariensis_02cnsh_1475606340529_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_senecio_madagascariensis_06cnsh_1475606425566_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_senecio_madagascariensis_05cnsh_1475606389205_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_senecio_vulgaris_05cnsh_1475606493062_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_senecio_vulgaris_02cnsh_1475606476195_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_senecio_inaequidens_04cnsh_1475606041030_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_senecio_inaequidens_05cnsh_1475606062897_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/senecio-madagascariensis/eng/1475881691889/1475881692330"
+}

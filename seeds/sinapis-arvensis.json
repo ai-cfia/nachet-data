@@ -1,0 +1,77 @@
+{
+    "scientific_name": "Sinapis arvensis",
+    "family": {
+        "en": "Brassicaceae",
+        "fr": "Brassicacées"
+    },
+    "common_name": {
+        "en": "Wild mustard",
+        "fr": "Moutarde des champs"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Seed",
+        "fr": "Graine"
+    },
+    "identification_features": {
+        "seed_length": [],
+        "seed_width": [
+            1.0,
+            2.0
+        ],
+        "shape": {
+            "en": "Globose, often slightly compressed at hilum",
+            "fr": "Globuleuse, souvent légèrement comprimée au niveau de l'hile"
+        },
+        "surface_texture": {
+            "en": "Seed dull surface with thin reticulations that tend to radiate from the hilum",
+            "fr": "Surface de la graine mate avec de fines réticulations qui ont tendance à rayonner depuis l'hile"
+        },
+        "colour": {
+            "en": "Seed usually black, can also be reddish-brown, brown or greenish-brown",
+            "fr": "Graine généralement noire, peut aussi être brun-rougeâtre, brune ou brun verdâtre"
+        },
+        "other_features": {
+            "en": "Hilum appears as a small wart and short line of white tissue. A small, round dark area associated with the hilum can be seen in some light-coloured seeds",
+            "fr": "L'hile apparaît comme une petite verrue et une courte ligne de tissu blanc. Une petite zone sombre et ronde associée à l'hile peut être observée sur certaines graines de couleur claire"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Argentine rapeseed",
+                "scientific_name": "Brassica napus subsp. napus",
+                "description": "Argentine canola seeds are a similar size, globose shape, dark colour and fine reticulate surface pattern. Argentine canola has a minutely stippled surface with a 'sparkling' look that wild mustard lacks. Argentine canola also tends to have an angular outline and a darker D-shaped area around the hilum, while wild mustard is round and lacks a dark area around the hilum."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Colza argentin",
+                "scientific_name": "Brassica napus subsp. napus",
+                "description": "Les graines de colza argentin sont de taille similaire, de forme globuleuse, de couleur sombre et présentent un fin motif de surface réticulée. Le colza argentin a une surface légèrement ponctuée avec un aspect 'étincelant' que la moutarde des champs n'a pas. Le colza argentin a également tendance à avoir un contour angulaire et une zone en forme de D plus sombre autour de l'hile, tandis que la moutarde des champs est ronde et ne présente pas de zone sombre autour de l'hile."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_sinapis_arvensis_03cnsh_1476893888770_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_sinapis_arvensis_02cnsh_1476893855487_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_sinapis_arvensis_01cnsh_1476893765461_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_sinapis_arvensis_04cnsh_1476893914580_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_sinapis_arvensis_copyright_1476893944249_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_brassica_napus_03cnsh_1476889249240_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_brassica_napus_01cnsh_1476889164554_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_brassica_napus_02cnsh_1476889197358_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/sinapis-arvensis/eng/1477322082053/1477322082391"
+}

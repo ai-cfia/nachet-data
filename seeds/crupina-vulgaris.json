@@ -1,0 +1,77 @@
+{
+    "scientific_name": "Crupina vulgaris",
+    "family": {
+        "en": "Asteraceae",
+        "fr": "Asteraceae"
+    },
+    "common_name": {
+        "en": "Common Crupina",
+        "fr": "Crupine commune"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Winter annual"
+        ],
+        "fr": [
+            "Annuelle hivernale"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene",
+        "fr": "Akène"
+    },
+    "identification_features": {
+        "seed_length": [
+            3.5,
+            4.5
+        ],
+        "seed_width": [
+            2.5,
+            3.5
+        ],
+        "shape": {
+            "en": "Cuneate achene with a rounded base and flat top, not compressed",
+            "fr": "Akène cunéiforme avec une base arrondie et un sommet plat, non comprimé"
+        },
+        "surface_texture": {
+            "en": "Achene is smooth, with dense hairs that give the appearance of a velvet coating",
+            "fr": "L'akène est lisse, avec des poils denses qui donnent l'apparence d'un revêtement en velours"
+        },
+        "colour": {
+            "en": "Medium brown achene, with dark brown base and pappus. Often pale hairs around top of achene",
+            "fr": "Akène brun moyen, avec une base et un pappus brun foncé. Souvent des poils pâles autour du sommet de l'akène"
+        },
+        "other_features": {
+            "en": "Persistent pappus of stiff bristles that surrounds a style peg at the top of the fruit mixed with several short spines on the inside",
+            "fr": "Pappus persistant de soies raides qui entoure une tige stylée au sommet du fruit mélangé avec plusieurs épines courtes à l'intérieur"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Southern crupina",
+                "scientific_name": "Crupina crupinastrum",
+                "description": "Achenes are similar length, cuneate shape, dark brown colour and distinctive long bristle pappus as common crupina. Southern crupina (1.5 - 2.0 mm wide) is narrower than common crupina, with a paler pappus."
+            }
+        ],
+        "fr": [
+            {
+                "name": "Crupine crupinastrum",
+                "scientific_name": "Crupina crupinastrum",
+                "description": "Les akènes ont une longueur similaire, une forme cunéiforme, une couleur brun foncé et un pappus de longues soies distinctives comme la crupine commune. La crupine crupinastrum (1,5 - 2,0 mm de large) est plus étroite que la crupine commune, avec un pappus plus pâle."
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_CrupinaVulgaris_img2_1397578716292_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_CrupinaVulgaris_img1_1397578683948_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_CrupinaVulgaris_img3_1397578747980_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_CrupinaVulgaris_img4_1397578803402_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/STAGING/images-images/invasive_plants_seed_factsheet_CrupinaVulgaris_img5_1397578831480_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/crupina-vulgaris/eng/1397666984421/1397667102013"
+}

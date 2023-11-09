@@ -1,0 +1,77 @@
+{
+    "scientific_name": "Orobanche spp.",
+    "family": {
+        "en": "Orobanchaceae (Scrophulariaceae)",
+        "fr": "Orobanchacées (Scrophulariacées)"
+    },
+    "common_name": {
+        "en": "Broomrape",
+        "fr": "Orobanche"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual",
+            "Perennial"
+        ],
+        "fr": [
+            "Annuelle",
+            "Vivace"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "True seed",
+        "fr": "Vraie graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            0.2,
+            0.5
+        ],
+        "seed_width": [
+            0.1,
+            0.3
+        ],
+        "shape": {
+            "en": "Oval, oblong, teardrop- or wedge-shaped",
+            "fr": "Ovale, oblongue, en forme de goutte d'eau ou en forme de coin"
+        },
+        "surface_texture": {
+            "en": "Surface is covered in deep cells (usually glossy), but a few have a floury coating within the cells (O. ramosa)",
+            "fr": "La surface est couverte de cellules profondes (généralement brillantes), mais quelques-unes ont un revêtement farineux à l'intérieur des cellules (O. ramosa)"
+        },
+        "colour": {
+            "en": "Pale yellow (immature), golden yellow (common), orange or brown",
+            "fr": "Jaune pâle (immature), jaune doré (commun), orange ou brun"
+        },
+        "other_features": {
+            "en": "Without magnification, seeds appear as dust particles",
+            "fr": "Sans grossissement, les graines apparaissent comme des particules de poussière"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Witchweed",
+                "scientific_name": "Striga spp.",
+                "description": "Found only in the southeastern United States. Similar to Orobanche spp. in small size, colour and shape. Surface texture of Striga spp. is composed of concentric ridges, not cells (as in Orobanche spp.)"
+            }
+        ],
+        "fr": [
+            {
+                "name": "Striga",
+                "scientific_name": "Striga spp.",
+                "description": "Trouvé uniquement dans le sud-est des États-Unis. Similaire à Orobanche spp. en petite taille, couleur et forme. La texture de surface de Striga spp. est composée de crêtes concentriques, pas de cellules (comme dans Orobanche spp.)"
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_orobanche_hederae_img1_1405078771524_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_striga_asiatica_img2_1405078865103_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_striga_asiatica_img1_1405078833415_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/orobanche/eng/1405359945433/1405359946230"
+}

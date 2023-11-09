@@ -1,0 +1,90 @@
+{
+    "scientific_name": "Carthamus lanatus",
+    "family": {
+        "en": "Asteraceae",
+        "fr": "Asteraceae"
+    },
+    "common_name": {
+        "en": "Woolly distaff thistle",
+        "fr": "Chardon à toison"
+    },
+    "duration_of_life_cycle": {
+        "en": [
+            "Annual"
+        ],
+        "fr": [
+            "Annuelle"
+        ]
+    },
+    "seed_or_fruit_type": {
+        "en": "Achene - a one-seeded, dry fruit",
+        "fr": "Akène - un fruit sec à une seule graine"
+    },
+    "identification_features": {
+        "seed_length": [
+            5.0,
+            5.5
+        ],
+        "seed_width": [
+            3.0,
+            3.5
+        ],
+        "shape": {
+            "en": "obovate (upside-down and egg-shaped)",
+            "fr": "obovale (à l'envers et en forme d'œuf)"
+        },
+        "surface_texture": {
+            "en": "slightly shiny roughened with ridges and oval pits",
+            "fr": "légèrement brillant, rugueux avec des crêtes et des fosses ovales"
+        },
+        "colour": {
+            "en": "bone coloured, becoming medium brown within pits on surface",
+            "fr": "de couleur os, devenant brun moyen à l'intérieur des fosses à la surface"
+        },
+        "other_features": {
+            "en": "pappus at top of achene may be persistent on processed seed made up of short, flattened bristles (up to 7.5 mm) usually pale, but may be brown coloured top peg is short, within a shallow depression surrounded by several projecting teeth",
+            "fr": "pappus au sommet de l'akène peut persister sur la graine traitée composée de soies courtes et aplaties (jusqu'à 7,5 mm) généralement pâle, mais peut être de couleur brun sombre le tenon supérieur est court, dans une dépression peu profonde entourée de plusieurs dents saillantes"
+        }
+    },
+    "similar_species": {
+        "en": [
+            {
+                "name": "Distaff thistle",
+                "scientific_name": "Carthamus dentatus",
+                "description": "not known if found in North America similar to woolly distaff thistle in size, obovate shape, pale colour and flattened pappus bristles achenes are not rough, and are duller than achenes of woolly distaff thistle achenes have brown band at top (woolly distaff thistle lacks this band)"
+            },
+            {
+                "name": "Safflower",
+                "scientific_name": "Carthamus tinctorius",
+                "description": "found in BC, AB, and the western United States obovate shape, pale colour, glossy surface with brownish pits achenes are up to 2.0 mm longer than woolly distaff achenes pappus rarely persists pappus is made of thinner bristles than woolly distaff thistle"
+            }
+        ],
+        "fr": [
+            {
+                "name": "Chardon à toison",
+                "scientific_name": "Carthamus dentatus",
+                "description": "on ne sait pas s'il se trouve en Amérique du Nord similaire au chardon à toison en termes de taille, de forme obovale, de couleur pâle et de soies de pappus achenes ne sont pas rugueux et sont plus ternes que les achenes du chardon à toison les achenes ont une bande brune en haut (le chardon à toison n'a pas cette bande)"
+            },
+            {
+                "name": "Carthame des teinturiers",
+                "scientific_name": "Carthamus tinctorius",
+                "description": "trouvé en Colombie-Britannique, en Alberta et dans l'ouest des États-Unis forme obovale, couleur pâle, surface brillante avec des fosses brunâtres les achenes sont jusqu'à 2,0 mm plus longs que les achenes du chardon à toison le pappus persiste rarement le pappus est composé de soies plus fines que celles du chardon à toison"
+            }
+        ]
+    },
+    "images": {
+        "photos": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_carthamus_lanatus_img4_1404906683017_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_carthamus_tinctorius_img1_1404906804237_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_carthamus_dentatus_img1_1404906737674_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_carthamus_lanatus_img2_1404906619689_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_carthamus_lanatus_img1_1404906579626_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_carthamus_lanatus_img3_1404906651205_eng.jpg"
+        ],
+        "similar_species": [
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_carthamus_dentatus_img1_1404906737674_eng.jpg",
+            "https://inspection.canada.ca/DAM/DAM-plants-vegetaux/WORKAREA/DAM-plants-vegetaux/images-images/invasive_plants_seed_factsheet_carthamus_tinctorius_img1_1404906804237_eng.jpg"
+        ]
+    },
+    "source": "https://inspection.canada.ca/plant-health/seeds/seed-testing-and-grading/seeds-identification/carthamus-lanatus/eng/1404910341353/1404910342275"
+}
